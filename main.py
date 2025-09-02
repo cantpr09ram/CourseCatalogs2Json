@@ -88,30 +88,39 @@ def read_text(path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dir", default="data", help="folder with .htm files")
+    ap.add_argument("--dir", default="data")
     ap.add_argument("-o","--output", default="courses.json")
     ap.add_argument("--pretty", action="store_true")
     args = ap.parse_args()
 
-    seen_seq = set()
-    records = []
+    by_key = {}
     for path in sorted(glob.glob(os.path.join(args.dir, "*.htm"))):
         fname = os.path.basename(path)
         html = read_text(path)
-        parsed = parse_html(html, source=fname)
-        for rec in parsed:
-            seq = rec.get("seq")
-            if seq in seen_seq:
-                print(f"Skipped duplicate seq {seq} from {fname}")
-                continue
-            seen_seq.add(seq)
-            records.append(rec)
+        for rec in parse_html(html, source=fname):
+            key = (rec["code"], rec["class"], rec["term_order"], rec.get("group_div"))
+            if key not in by_key:
+                by_key[key] = rec
+            else:
+                base = by_key[key]
+                # merge times (deduplicate)
+                for t in rec["times"]:
+                    if t and t not in base["times"]:
+                        base["times"].append(t)
+                # merge teachers (deduplicate; separated by semicolons)
+                def split_teachers(s): return [x for x in s.split(";") if x]
+                bt = set(split_teachers(base["teacher"]))
+                rt = set(split_teachers(rec["teacher"]))
+                merged = ";".join(sorted(bt | rt))
+                base["teacher"] = merged
+                # if the previous cap is not an integer and this one is, overwrite
+                if (isinstance(base["cap"], str) or base["cap"] is None) and isinstance(rec["cap"], int):
+                    base["cap"] = rec["cap"]
 
+    records = list(by_key.values())
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2 if args.pretty else None)
-
     print(f"Wrote {len(records)} records to {args.output}")
-
 
 if __name__ == "__main__":
     main()
