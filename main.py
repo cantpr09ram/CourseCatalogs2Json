@@ -3,17 +3,18 @@
 import argparse, json, re, glob, os
 from bs4 import BeautifulSoup
 
-def norm(s): return re.sub(r'\s+', ' ', s.replace('\u3000',' ')).strip()
+def norm(s):
+    return re.sub(r'\s+', ' ', s.replace('\u3000',' ')).strip()
 
 def extract_block(txt):
     m = re.search(r'系別\(Department\)：([^　]+)', txt)
     return m.group(1) if m else None
 
 def is_course_row(tds):
-    if len(tds) < 15: return False
+    if len(tds) < 15:
+        return False
     seq = norm(tds[1].get_text()).rstrip('　')
-    code = norm(tds[2].get_text())
-    return seq.isdigit() or bool(code)
+    return seq.isdigit()
 
 def parse_html(html, source):
     soup = BeautifulSoup(html, "html.parser")
@@ -25,9 +26,10 @@ def parse_html(html, source):
         txt = tr.get_text(" ", strip=True)
         if '系別(Department)：' in txt:
             b = extract_block(txt)
-            if b: block = b
+            if b:
+                block = b
             continue
-        if not is_course_row(tds): 
+        if not is_course_row(tds):
             continue
 
         grade      = norm(tds[0].get_text())
@@ -42,7 +44,7 @@ def parse_html(html, source):
         group_     = norm(tds[9].get_text())
         title_full = norm(tds[10].get_text())
         cap        = norm(tds[11].get_text())
-        teacher = re.sub(r'\(.*?\)', '', norm(tds[12].get_text())).replace(" ", "")
+        teacher    = re.sub(r'\(.*?\)', '', norm(tds[12].get_text())).replace(" ", "")
         t1         = norm(tds[13].get_text())
         t2         = norm(tds[14].get_text()) if len(tds) > 14 else ""
 
@@ -91,15 +93,25 @@ def main():
     ap.add_argument("--pretty", action="store_true")
     args = ap.parse_args()
 
+    seen_seq = set()
     records = []
     for path in sorted(glob.glob(os.path.join(args.dir, "*.htm"))):
+        fname = os.path.basename(path)
         html = read_text(path)
-        records.extend(parse_html(html, source=os.path.basename(path)))
+        parsed = parse_html(html, source=fname)
+        for rec in parsed:
+            seq = rec.get("seq")
+            if seq in seen_seq:
+                print(f"Skipped duplicate seq {seq} from {fname}")
+                continue
+            seen_seq.add(seq)
+            records.append(rec)
 
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2 if args.pretty else None)
 
     print(f"Wrote {len(records)} records to {args.output}")
+
 
 if __name__ == "__main__":
     main()
