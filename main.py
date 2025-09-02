@@ -12,7 +12,8 @@ def extract_block(txt):
 def is_course_row(tds):
     if len(tds) < 15: return False
     seq = norm(tds[1].get_text()).rstrip('　')
-    return seq.isdigit()
+    code = norm(tds[2].get_text())
+    return seq.isdigit() or bool(code)
 
 def parse_html(html, source):
     soup = BeautifulSoup(html, "html.parser")
@@ -41,7 +42,7 @@ def parse_html(html, source):
         group_     = norm(tds[9].get_text())
         title_full = norm(tds[10].get_text())
         cap        = norm(tds[11].get_text())
-        teacher    = norm(tds[12].get_text()).split(' ')[0]
+        teacher = re.sub(r'\(.*?\)', '', norm(tds[12].get_text())).replace(" ", "")
         t1         = norm(tds[13].get_text())
         t2         = norm(tds[14].get_text()) if len(tds) > 14 else ""
 
