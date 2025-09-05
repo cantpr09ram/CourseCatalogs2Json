@@ -22,7 +22,7 @@ jobs:
       - name: Download lastest rar
         run: python download.py
       - name: Run main.py
-        run: python main.py
+        run: python3 main.py --dir data -o courses.json --pretty
       - name: Commit Data Back To GitHub Repo
         run: |
           git config --global user.name "crawler-bot"
