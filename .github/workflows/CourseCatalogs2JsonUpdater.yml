@@ -1,0 +1,31 @@
+name: Crawler Demo Action # I not good at naming
+run-name: Crawler Demo Action
+
+# 觸發此 action 的時機
+on:
+  schedule:
+    - cron: "55 20 * * *"  # 早上4.執行
+  workflow_dispatch:  # 可以手動執行此 action
+
+jobs:
+  crawler-demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4.5.0
+        with:
+          python-version: "3.10"
+      - name: Install Python Dependency
+        run: pip3 install -r requirements.txt
+      - name: Download lastest rar
+        run: python download.py
+      - name: Run main.py
+        run: python main.py
+      - name: Commit Data Back To GitHub Repo
+        run: |
+          git config --global user.name "crawler-bot"
+          git config --global user.email "crawler-bot@gmail.com"
+          git add . && git commit -m "daily crawl"
+          git push origin main
