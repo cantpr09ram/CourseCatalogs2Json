@@ -273,7 +273,7 @@
     "credits": 2,
     "group": "O",
     "title": "資通安全管理概論",
-    "cap": 100,
+    "cap": 120,
     "teacher": "黃仁俊",
     "times": [
       "一 / 3,4 / G 315"
@@ -1736,7 +1736,7 @@
     "cap": 75,
     "teacher": "左珩懿",
     "times": [
-      "三 / 11,12 / D 504"
+      "三 / 11,12 / D 315"
     ]
   },
   {
@@ -1836,7 +1836,7 @@
     "cap": 75,
     "teacher": "張溶玲",
     "times": [
-      "三 / 13,14 / D 503"
+      "三 / 13,14 / D 308b"
     ]
   },
   {
@@ -12035,7 +12035,7 @@
     "group": "",
     "title": "探索永續 一年級限修本班，111學年度前入學者認列為自由選修學分。",
     "cap": 70,
-    "teacher": "李命志",
+    "teacher": "魏筱昀",
     "times": [
       "一 / 2 / B 111"
     ]
@@ -12055,7 +12055,7 @@
     "group": "",
     "title": "探索永續 一年級限修本班，111學年度前入學者認列為自由選修學分。",
     "cap": 70,
-    "teacher": "李命志",
+    "teacher": "魏筱昀",
     "times": [
       "一 / 1 / B 111"
     ]
@@ -12657,7 +12657,7 @@
     "cap": 10,
     "teacher": "賴玲玲,劉瑄儀",
     "times": [
-      "四 / 9,10 / L 301"
+      "四 / 9,10 / Q 409"
     ]
   },
   {
@@ -12697,7 +12697,7 @@
     "cap": 10,
     "teacher": "侯如綺,陳姞淨",
     "times": [
-      "四 / 9,10 / Q 409"
+      "四 / 9,10 / L 301"
     ]
   },
   {
@@ -19077,7 +19077,7 @@
     "cap": 150,
     "teacher": "黃文倩",
     "times": [
-      "三 / 8,9 / L 307"
+      "三 / 8,9 / L 412"
     ]
   },
   {
@@ -21102,7 +21102,7 @@
     "credits": 2,
     "group": "",
     "title": "愛情關係管理 遠距收播中原大學課程，教學計畫表請至遠距中心網頁查詢 ◇遠距收播外校課程",
-    "cap": 50,
+    "cap": "",
     "teacher": "曾陽晴",
     "times": [
       "/ /"
@@ -21122,7 +21122,7 @@
     "credits": 1,
     "group": "",
     "title": "飲食與生醫保健 遠距收播中原大學課程，教學計畫表請至遠距中心網頁查詢 ◇遠距收播外校課程",
-    "cap": 50,
+    "cap": "",
     "teacher": "蘇正元",
     "times": [
       "/ /"
@@ -21142,7 +21142,7 @@
     "credits": 1,
     "group": "",
     "title": "生醫材料解密 遠距收播中原大學課程，教學計畫表請至遠距中心網頁查詢 ◇遠距收播外校課程",
-    "cap": 50,
+    "cap": "",
     "teacher": "陳民樺",
     "times": [
       "三 / 10 /"
@@ -21162,7 +21162,7 @@
     "credits": 2,
     "group": "",
     "title": "棒球場上的物理學 遠距收播真理大學課程，教學計畫表請至遠距中心網頁查詢 ◇遠距收播外校課程",
-    "cap": 30,
+    "cap": 20,
     "teacher": "李中傑",
     "times": [
       "二 / 3,4 /"
@@ -22106,7 +22106,7 @@
     "cap": 70,
     "teacher": "張玄菩",
     "times": [
-      "一 / 6,7 / L 301"
+      "一 / 6,7 / L 308"
     ]
   },
   {
@@ -29943,8 +29943,8 @@
     "cap": "",
     "teacher": "包正豪,雷納德",
     "times": [
-      "二 / 3 / T 702",
-      "二 / 4 / T 702"
+      "二 / 3 / T 608",
+      "二 / 4 / T 608"
     ]
   },
   {
@@ -30761,6 +30761,26 @@
   },
   {
     "source": "F02.htm",
+    "dept_block": "TETBM.電機系碩士班電路 MASTER’S PROGRAM, DIVISION OF VLSI DESIGN AND COMPUTER SYSTEM, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
+    "grade": "1",
+    "seq": "8162",
+    "code": "E1490",
+    "major": null,
+    "term_order": "0",
+    "class": "S",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "技術寫作 ◇雙語授課(中文/英文)",
+    "cap": "",
+    "teacher": "何政昌",
+    "times": [
+      "三 / 6,7 / E 819"
+    ]
+  },
+  {
+    "source": "F02.htm",
     "dept_block": "TETEB.電機系電通（日） DIVISION OF ELECTRICAL AND COMMUNICATION ENGINEERING, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
     "grade": "4",
     "seq": "0909",
@@ -30777,6 +30797,26 @@
     "teacher": "陳柏翔",
     "times": [
       "五 / 8,9 / E 514"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TETEB.電機系電通（日） DIVISION OF ELECTRICAL AND COMMUNICATION ENGINEERING, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
+    "grade": "4",
+    "seq": "0911",
+    "code": "T0102",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "書報討論 ◇雙語授課(中文/英文)",
+    "cap": 175,
+    "teacher": "曾憲威",
+    "times": [
+      "三 / 6 / E 402"
     ]
   },
   {
@@ -30817,6 +30857,26 @@
     "teacher": "楊玉婷",
     "times": [
       "一 / 7,8,9 / E 828"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TETXE.電機系（進學） DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
+    "grade": "3",
+    "seq": "6023",
+    "code": "E3785",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微處理機程式設計 ◇雙語授課(中文/英文)",
+    "cap": 70,
+    "teacher": "曾憲威",
+    "times": [
+      "四 / 11,12 / E 219"
     ]
   },
   {
@@ -31441,7 +31501,7 @@
     "cap": 25,
     "teacher": "陳家倩",
     "times": [
-      "二 / 3,4 / T 506"
+      "二 / 3,4 / T 702"
     ]
   },
   {
@@ -35301,8 +35361,8 @@
     "cap": 35,
     "teacher": "闕百華",
     "times": [
-      "三 / 11,12 / D 502",
-      "四 / 11,12 / D 502"
+      "三 / 11,12 / D 307",
+      "四 / 11,12 / D 307"
     ]
   },
   {
@@ -36703,7 +36763,7 @@
     "cap": 175,
     "teacher": "簡啓煜",
     "times": [
-      "二 / 6,7 / L 301"
+      "二 / 6,7 / L 401"
     ]
   },
   {
@@ -37164,7 +37224,7 @@
     "cap": 85,
     "teacher": "陳姞淨",
     "times": [
-      "三 / 8,9 / L 412"
+      "三 / 8,9 / L 307"
     ]
   },
   {
@@ -37184,7 +37244,7 @@
     "cap": 85,
     "teacher": "林偉淑",
     "times": [
-      "一 / 6,7 / L 401"
+      "一 / 6,7 / L 301"
     ]
   },
   {
@@ -37204,7 +37264,7 @@
     "cap": 85,
     "teacher": "李蕙如",
     "times": [
-      "二 / 6,7 / L 401"
+      "二 / 6,7 / L 301"
     ]
   },
   {
@@ -38672,7 +38732,7 @@
   {
     "source": "TAHXF.htm",
     "dept_block": "TAHXF.歷史系－第三人生 DEPARTMENT OF HISTORY",
-    "grade": "0",
+    "grade": "1",
     "seq": "3311",
     "code": "A3607",
     "major": null,
@@ -47847,7 +47907,7 @@
     "credits": 3,
     "group": "",
     "title": "資料結構",
-    "cap": 85,
+    "cap": 100,
     "teacher": "黃仁俊,助教",
     "times": [
       "一 / 1,2 / G 315",
@@ -48683,7 +48743,7 @@
     "cap": 40,
     "teacher": "楊博宏",
     "times": [
-      "二 / 11,12,13 / D 319"
+      "二 / 11,12,13 / D 313"
     ]
   },
   {
@@ -48743,7 +48803,7 @@
     "cap": 40,
     "teacher": "瞿聖強",
     "times": [
-      "五 / 11,12 / D 412"
+      "五 / 11,12 / D 313"
     ]
   },
   {
@@ -50810,26 +50870,6 @@
     "teacher": "施鴻源",
     "times": [
       "四 / 2,3,4 / E 828"
-    ]
-  },
-  {
-    "source": "TETBM.htm",
-    "dept_block": "TETBM.電機系碩士班電路 MASTER’S PROGRAM, DIVISION OF VLSI DESIGN AND COMPUTER SYSTEM, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
-    "grade": "1",
-    "seq": "8162",
-    "code": "E1490",
-    "major": null,
-    "term_order": "0",
-    "class": "S",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "技術寫作",
-    "cap": "",
-    "teacher": "何政昌",
-    "times": [
-      "三 / 6,7 / E 819"
     ]
   },
   {
@@ -53256,7 +53296,7 @@
     "group": "",
     "title": "電機專題實驗 a1",
     "cap": "",
-    "teacher": "廖書漢",
+    "teacher": "何政昌",
     "times": [
       "六 / 1,2,3 /"
     ]
@@ -53320,26 +53360,6 @@
     "times": [
       "二 / 7 / E 515",
       "四 / 7,8 / E 514"
-    ]
-  },
-  {
-    "source": "TETEB.htm",
-    "dept_block": "TETEB.電機系電通（日） DIVISION OF ELECTRICAL AND COMMUNICATION ENGINEERING, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
-    "grade": "4",
-    "seq": "0911",
-    "code": "T0102",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "書報討論",
-    "cap": 175,
-    "teacher": "曾憲威",
-    "times": [
-      "三 / 6 / E 402"
     ]
   },
   {
@@ -53800,26 +53820,6 @@
     "teacher": "廖兆祥",
     "times": [
       "三 / 12,13,14 / E 404"
-    ]
-  },
-  {
-    "source": "TETXE.htm",
-    "dept_block": "TETXE.電機系（進學） DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
-    "grade": "3",
-    "seq": "6023",
-    "code": "E3785",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "微處理機程式設計",
-    "cap": 70,
-    "teacher": "曾憲威",
-    "times": [
-      "四 / 11,12 / E 219"
     ]
   },
   {
@@ -58287,7 +58287,7 @@
     "cap": 70,
     "teacher": "闕百華",
     "times": [
-      "四 / 13,14 / D 502"
+      "四 / 13,14 / D 307"
     ]
   },
   {
@@ -58307,7 +58307,7 @@
     "cap": 22,
     "teacher": "顧錦芬",
     "times": [
-      "二 / 11,12 / D 502"
+      "二 / 11,12 / D 307"
     ]
   },
   {
@@ -58327,7 +58327,7 @@
     "cap": 35,
     "teacher": "賴鈺菁",
     "times": [
-      "一 / 13,14 / D 502"
+      "一 / 13,14 / D 307"
     ]
   },
   {
@@ -58347,7 +58347,7 @@
     "cap": 70,
     "teacher": "白書綾",
     "times": [
-      "五 / 11,12 / D 502"
+      "五 / 11,12 / D 307"
     ]
   },
   {
@@ -66436,7 +66436,7 @@
     "cap": 90,
     "teacher": "陳羽莉",
     "times": [
-      "一 / 11,12 / D 504"
+      "一 / 11,12 / D 315"
     ]
   },
   {
@@ -66476,7 +66476,7 @@
     "cap": 85,
     "teacher": "郭彥谷",
     "times": [
-      "二 / 11,12,13 / D 504"
+      "二 / 11,12,13 / D 315"
     ]
   },
   {
@@ -66496,7 +66496,7 @@
     "cap": 90,
     "teacher": "魏筱昀",
     "times": [
-      "五 / 13,14 / D 504"
+      "五 / 13,14 / D 315"
     ]
   },
   {
@@ -66516,7 +66516,7 @@
     "cap": 55,
     "teacher": "陳秀梅",
     "times": [
-      "四 / 11,12 / D 504"
+      "四 / 11,12 / D 315"
     ]
   },
   {
@@ -66536,7 +66536,7 @@
     "cap": 80,
     "teacher": "徐宏仁",
     "times": [
-      "三 / 13,14 / D 504"
+      "三 / 13,14 / D 315"
     ]
   },
   {
@@ -66556,7 +66556,7 @@
     "cap": 76,
     "teacher": "吳瑜雲",
     "times": [
-      "五 / 11,12 / D 504"
+      "五 / 11,12 / D 315"
     ]
   },
   {
@@ -68161,7 +68161,7 @@
     "cap": 90,
     "teacher": "陳怡雅",
     "times": [
-      "五 / 11,12 / D 503"
+      "五 / 11,12 / D 308b"
     ]
   },
   {
@@ -68201,7 +68201,7 @@
     "cap": 85,
     "teacher": "揭維恆",
     "times": [
-      "二 / 11,12,13 / D 503"
+      "二 / 11,12,13 / D 308b"
     ]
   },
   {
@@ -68221,7 +68221,7 @@
     "cap": 55,
     "teacher": "朱承平",
     "times": [
-      "四 / 13,14 / D 503"
+      "四 / 13,14 / D 308b"
     ]
   },
   {
@@ -68241,7 +68241,7 @@
     "cap": 55,
     "teacher": "汪正璽",
     "times": [
-      "三 / 11,12 / D 503"
+      "三 / 11,12 / D 308b"
     ]
   },
   {
@@ -68261,7 +68261,7 @@
     "cap": 80,
     "teacher": "徐宏仁",
     "times": [
-      "一 / 11,12 / D 503"
+      "一 / 11,12 / D 308b"
     ]
   },
   {
@@ -68281,7 +68281,7 @@
     "cap": 70,
     "teacher": "吳瑜雲",
     "times": [
-      "五 / 13,14 / D 503"
+      "五 / 13,14 / D 308b"
     ]
   },
   {
@@ -80976,8 +80976,8 @@
     "cap": 60,
     "teacher": "徐祥峻,助教",
     "times": [
-      "一 / 9,10 / B 130",
-      "四 / 7 / B 1012",
+      "一 / 9,10 / SA 101",
+      "四 / 7 / SA 101",
       "五 / 3 / S 106"
     ]
   },
@@ -83519,7 +83519,7 @@
     "required": "選",
     "credits": 1,
     "group": "",
-    "title": "進階人工智慧在生物醫學上之應用",
+    "title": "進階人工智慧在生物醫學上之應用 本課程已奉核於12/17-21密集授課。",
     "cap": "",
     "teacher": "石瑜",
     "times": [
