@@ -18474,7 +18474,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育－排球興趣班 體育館4樓排球場",
-    "cap": 20,
+    "cap": 25,
     "teacher": "陳昭璁",
     "times": [
       "一 / 13,14 /"
@@ -18494,7 +18494,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
-    "cap": 20,
+    "cap": 25,
     "teacher": "黃至論",
     "times": [
       "五 / 13,14 /"
@@ -18514,7 +18514,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
-    "cap": 20,
+    "cap": 25,
     "teacher": "羅琬竹",
     "times": [
       "五 / 11,12 /"
@@ -18534,7 +18534,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
-    "cap": 20,
+    "cap": 25,
     "teacher": "楊明堂",
     "times": [
       "五 / 13,14 /"
@@ -18554,7 +18554,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
-    "cap": 20,
+    "cap": 25,
     "teacher": "林坤男",
     "times": [
       "五 / 13,14 / SG 323"
@@ -18574,7 +18574,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育-重量訓練 體育館SG323重訓室",
-    "cap": 20,
+    "cap": 25,
     "teacher": "黃立維",
     "times": [
       "三 / 13,14 / SG 323"
@@ -19077,7 +19077,7 @@
     "cap": 150,
     "teacher": "黃文倩",
     "times": [
-      "三 / 8,9 / L 412"
+      "三 / 8,9 / L 305"
     ]
   },
   {
@@ -24765,66 +24765,6 @@
     "teacher": "李奇旺",
     "times": [
       "三 / 6 / E 828"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEXBM.智慧製造全英專班 INTERNATIONAL INTENSE MASTER’S PROGRAM IN AI INTELLIGENT MACHINERY AND SUSTAINABLE MANUFACTURING, COLLEGE OF ENGINEERING (ENGLISH-TAUGHT PRO",
-    "grade": "1",
-    "seq": "8205",
-    "code": "E3945",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "人工智慧與機器學習 ◇全英語授課",
-    "cap": "",
-    "teacher": "李泉",
-    "times": [
-      "二 / 8,9,10 / T 410"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEXBM.智慧製造全英專班 INTERNATIONAL INTENSE MASTER’S PROGRAM IN AI INTELLIGENT MACHINERY AND SUSTAINABLE MANUFACTURING, COLLEGE OF ENGINEERING (ENGLISH-TAUGHT PRO",
-    "grade": "1",
-    "seq": "8206",
-    "code": "E4362",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "ＡＩ晶片設計-應用與實作 ◇全英語授課",
-    "cap": "",
-    "teacher": "何政昌",
-    "times": [
-      "一 / 2,3,4 / E 238"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEXBM.智慧製造全英專班 INTERNATIONAL INTENSE MASTER’S PROGRAM IN AI INTELLIGENT MACHINERY AND SUSTAINABLE MANUFACTURING, COLLEGE OF ENGINEERING (ENGLISH-TAUGHT PRO",
-    "grade": "1",
-    "seq": "8207",
-    "code": "E4363",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "機器學習與深度學習基礎 ◇全英語授課",
-    "cap": "",
-    "teacher": "蔡憶佳",
-    "times": [
-      "二 / 5,6,7 / E 811"
     ]
   },
   {
@@ -34275,27 +34215,6 @@
     "source": "M01.htm",
     "dept_block": "ZAACW.華語文課程班 CHINESE CURRICULUM",
     "grade": "1",
-    "seq": "9505",
-    "code": "A2565",
-    "major": null,
-    "term_order": "0",
-    "class": "B",
-    "group_div": null,
-    "required": "選",
-    "credits": 4,
-    "group": "",
-    "title": "初級華語（一） 限本校新型專班選修。不開放選課。",
-    "cap": "",
-    "teacher": "莊欣華",
-    "times": [
-      "一 / 11,12 / E 509",
-      "二 / 11,12 / E 413"
-    ]
-  },
-  {
-    "source": "M01.htm",
-    "dept_block": "ZAACW.華語文課程班 CHINESE CURRICULUM",
-    "grade": "1",
     "seq": "9506",
     "code": "A3254",
     "major": null,
@@ -34353,6 +34272,27 @@
     "times": [
       "一 / 11,12 / E 515",
       "四 / 11,12 / E 414"
+    ]
+  },
+  {
+    "source": "M01.htm",
+    "dept_block": "ZAACW.華語文課程班 CHINESE CURRICULUM",
+    "grade": "1",
+    "seq": "9514",
+    "code": "A3255",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "初級華語聽說（二） 限本校外籍生、僑生選修。初選不開放選課。",
+    "cap": "",
+    "teacher": "莊欣華",
+    "times": [
+      "一 / 11,12 / E 509",
+      "四 / 11,12 / E 409"
     ]
   },
   {
@@ -34674,7 +34614,7 @@
     "cap": "",
     "teacher": "黃瑞茂",
     "times": [
-      "日 / 3,4 /"
+      "日 / 6,7 /"
     ]
   },
   {
@@ -42906,7 +42846,7 @@
     "cap": "",
     "teacher": "柯純融",
     "times": [
-      "日 / 3,4 /"
+      "日 / 4,5 /"
     ]
   },
   {
@@ -45969,7 +45909,7 @@
     "cap": "",
     "teacher": "張德文",
     "times": [
-      "二 / 2,3,4 / E 811"
+      "二 / 2,3,4 / E 404"
     ]
   },
   {
@@ -47232,7 +47172,7 @@
     "cap": "",
     "teacher": "張景斌",
     "times": [
-      "三 / 7,8,9 / E 826"
+      "三 / 8,9,10 / E 826"
     ]
   },
   {
@@ -60915,7 +60855,7 @@
     "cap": 105,
     "teacher": "顏徽玲",
     "times": [
-      "四 / 3,4 / T 405"
+      "四 / 3,4 / T 307"
     ]
   },
   {
@@ -67300,7 +67240,7 @@
     "cap": 70,
     "teacher": "蕭貴徽,助教",
     "times": [
-      "三 / 8,9 / B 216",
+      "三 / 8,9 / L 412",
       "五 / 6 / B 113"
     ]
   },
@@ -67321,7 +67261,7 @@
     "cap": 70,
     "teacher": "蕭貴徽,助教",
     "times": [
-      "三 / 8,9 / B 204",
+      "三 / 8,9 / L 412",
       "一 / 1 / B 130"
     ]
   },
@@ -72223,7 +72163,7 @@
     "cap": "",
     "teacher": "李志偉",
     "times": [
-      "五 / 3,4 / B 512"
+      "五 / 9,10 / B 512"
     ]
   },
   {
@@ -72830,7 +72770,7 @@
     "cap": "",
     "teacher": "傅大煜",
     "times": [
-      "二 / 2,4,5 / Q 201"
+      "二 / 2,3,4 / Q 201"
     ]
   },
   {
