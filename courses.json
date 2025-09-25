@@ -20969,6 +20969,26 @@
     ]
   },
   {
+    "source": "C07.htm",
+    "dept_block": "TGFXB.外語學院共同科日 ELECTIVES COURSES BY COLLEGE OF FOREIGN LANGUAGES AND LITERATURES",
+    "grade": "4",
+    "seq": "3332",
+    "code": "X0001",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "英語能力檢定 限延修生已修足畢業學分，僅未通過外語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "C09.htm",
     "dept_block": "TGRHB.榮譽進階專業－國 HONORS PROGRAM",
     "grade": "0",
@@ -23712,7 +23732,7 @@
     "cap": 30,
     "teacher": "楊智明",
     "times": [
-      "三 / 7,8 / L 205"
+      "三 / 7,8 / O 308"
     ]
   },
   {
@@ -27501,8 +27521,8 @@
     "cap": 80,
     "teacher": "姜杰,助教",
     "times": [
-      "五 / 6,7 / B 504",
-      "五 / 8 / B 514"
+      "五 / 6,7 / B 712",
+      "五 / 8 / B 712"
     ]
   },
   {
@@ -34799,7 +34819,7 @@
     "cap": 175,
     "teacher": "鄭盈盈",
     "times": [
-      "三 / 8,9 / T 406"
+      "三 / 8,9 / B 206"
     ]
   },
   {
@@ -55024,908 +55044,8 @@
   {
     "source": "TFFXB.htm",
     "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0982",
-    "code": "A0439",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法語會話（一） A1，本系與申請本系雙主修生。",
-    "cap": 22,
-    "teacher": "楊淑娟",
-    "times": [
-      "二 / 3,4 / T 406"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "(正課)",
-    "code": "A0449",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "法語語言練習 A1，須繳語言實習費；本系與申請本系雙主修生",
-    "cap": "",
-    "teacher": "朱嘉瑞",
-    "times": [
-      "二 / 8 / L 101"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0986(實習)",
-    "code": "A0449",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "法語語言練習(實習課) 須繳語言實習費",
-    "cap": 70,
-    "teacher": "江昀",
-    "times": [
-      "一 / 3,4 / L 101"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0988(實習)",
-    "code": "A0449",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "法語語言練習(實習課) 須繳語言實習費",
-    "cap": 70,
-    "teacher": "江昀",
-    "times": [
-      "一 / 8,9 / T 211"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0989",
-    "code": "A1006",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文文法（一） A1",
-    "cap": 35,
-    "teacher": "張國蕾",
-    "times": [
-      "四 / 6,7 / H 114"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0990",
-    "code": "A1006",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文文法（一） A2",
-    "cap": 35,
-    "teacher": "陳麗娟",
-    "times": [
-      "三 / 7,8 / L 416"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0991",
-    "code": "A1006",
-    "major": null,
-    "term_order": "2",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文文法（一） A3",
-    "cap": 35,
-    "teacher": "楊淑娟",
-    "times": [
-      "五 / 3,4 / L 304"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0992",
-    "code": "F0705",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "閱讀與習作（一） A1",
-    "cap": 30,
-    "teacher": "張國蕾",
-    "times": [
-      "一 / 6,7 / H 114"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0993",
-    "code": "F0705",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "閱讀與習作（一） A2 ◇專業知能服務學習課程◇以實整虛課程",
-    "cap": 30,
-    "teacher": "陳麗娟",
-    "times": [
-      "五 / 6,7 / T 704"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0994",
-    "code": "F1605",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國文學概要",
-    "cap": 175,
-    "teacher": "李建程",
-    "times": [
-      "四 / 3,4 / L 301"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0995",
-    "code": "T2637",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "K",
-    "title": "社團學習與實作－入門課程 上課6次，實際上課週次請詳教學計畫表",
-    "cap": 70,
-    "teacher": "黃文智",
-    "times": [
-      "二 / 1,2 / SG 314"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "1",
-    "seq": "0996",
-    "code": "T9607",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "校園與社區服務學習 一年級限修本班，校外課程。",
-    "cap": "",
-    "teacher": "陳聖達",
-    "times": [
-      "四 / 8,9 /"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "2",
-    "seq": "0997",
-    "code": "A0440",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法語會話（二） A1，有擋修，限本系與申請本系雙、輔生修。 ◇雙語授課(中文/法文)",
-    "cap": 22,
-    "teacher": "廖潤珮",
-    "times": [
-      "三 / 3,4 / T 406"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "2",
-    "seq": "1004",
-    "code": "F0377",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國廿世紀史",
-    "cap": 175,
-    "teacher": "陳麗娟",
-    "times": [
-      "四 / 6,7 / O 306"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "2",
-    "seq": "1005",
-    "code": "F0706",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "閱讀與習作（二） A1,本科有擋修",
-    "cap": 35,
-    "teacher": "朱嘉瑞",
-    "times": [
-      "三 / 9,10 / L 407"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "2",
-    "seq": "1006",
-    "code": "F0706",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "閱讀與習作（二） A2,本科有擋修",
-    "cap": 35,
-    "teacher": "張國蕾",
-    "times": [
-      "四 / 8,9 / H 114"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1010",
-    "code": "A0409",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文翻譯（一）",
-    "cap": 25,
-    "teacher": "張國蕾",
-    "times": [
-      "一 / 8,9 / H 114"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "3679",
-    "code": "A0429",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國名著選讀 ◇雙語授課(中文/法文)",
-    "cap": 90,
-    "teacher": "鄭安群",
-    "times": [
-      "一 / 6,7 / L 308"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1011",
-    "code": "A0435",
-    "major": null,
-    "term_order": "2",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國戲劇選讀 限本系三年級及申請本系雙主修生。",
-    "cap": 175,
-    "teacher": "梁蓉",
-    "times": [
-      "二 / 6,7 / T 601"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1012",
-    "code": "A0441",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法語會話（三） A，有擋修，限本系與本系雙主修生。 ◇雙語授課(中文/法文)",
-    "cap": 18,
-    "teacher": "梁蓉",
-    "times": [
-      "一 / 3,4 / T 808"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1013",
-    "code": "A0441",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法語會話（三） B，有擋修，限本系與本系雙主修生。 ◇全法語授課",
-    "cap": 18,
-    "teacher": "廖潤珮",
-    "times": [
-      "二 / 8,9 / T 406"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1014",
-    "code": "A0441",
-    "major": null,
-    "term_order": "2",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法語會話（三） A+B，有擋修，限本系與本系雙主修生 ◇全法語授課",
-    "cap": 18,
-    "teacher": "陳瑋靜",
-    "times": [
-      "四 / 7,8 / T 406"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1015",
-    "code": "A1057",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文作文（二） A ◇雙語授課(中文/法文)",
-    "cap": 30,
-    "teacher": "鄭安群",
-    "times": [
-      "二 / 8,9 / L 406"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1016",
-    "code": "A1057",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文作文（二） B ◇雙語授課(中文/法文)",
-    "cap": 30,
-    "teacher": "羅旭東",
-    "times": [
-      "五 / 6,7 / L 305"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1017",
-    "code": "A1823",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "旅遊法文",
-    "cap": 175,
-    "teacher": "陳麗娟",
-    "times": [
-      "三 / 3,4 / T 310"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1018",
-    "code": "F0708",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "語言學的面面觀 限本系及申請本系雙主修生。 ◇以實整虛課程◇雙語授課(中文/法文)",
-    "cap": 60,
-    "teacher": "徐琿輝",
-    "times": [
-      "一 / 1,2 / B 216"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1019",
-    "code": "F0759",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "文學賞析與習作（一）",
-    "cap": 28,
-    "teacher": "梁蓉",
-    "times": [
-      "二 / 3,4 / T 601"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "3",
-    "seq": "1020",
-    "code": "F0759",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "文學賞析與習作（一） ◇雙語授課(中文/法文)",
-    "cap": 28,
-    "teacher": "廖潤珮",
-    "times": [
-      "四 / 3,4 / L 406"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
     "grade": "4",
-    "seq": "1021",
-    "code": "A0410",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文翻譯（二） A1",
-    "cap": 25,
-    "teacher": "劉順一",
-    "times": [
-      "四 / 8,9 / L 305"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1022",
-    "code": "A0410",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文翻譯（二） A2",
-    "cap": 25,
-    "teacher": "薛法藍",
-    "times": [
-      "三 / 8,9 / T 808"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1023",
-    "code": "A0410",
-    "major": null,
-    "term_order": "2",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文翻譯（二） B1",
-    "cap": 25,
-    "teacher": "薛法藍",
-    "times": [
-      "一 / 8,9 / T 606"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1024",
-    "code": "A0410",
-    "major": null,
-    "term_order": "2",
-    "class": "D",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文翻譯（二） B2",
-    "cap": 25,
-    "teacher": "羅旭東",
-    "times": [
-      "四 / 3,4 / Q 202"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1025",
-    "code": "A0583",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "商業法文 限本系及申請本系雙主修生。",
-    "cap": 60,
-    "teacher": "徐鵬飛",
-    "times": [
-      "二 / 3,4 / T 704"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1026",
-    "code": "A1853",
-    "major": null,
-    "term_order": "2",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "口譯 限本系及申請本系雙主修生 ◇雙語授課(中文/法文)",
-    "cap": 30,
-    "teacher": "陳瑋靜",
-    "times": [
-      "三 / 3,4 / T 506"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1027",
-    "code": "F0379",
-    "major": null,
-    "term_order": "2",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國思潮導讀 本課程以法文授課，輔以部分英文說明，限四年級修習。",
-    "cap": 175,
-    "teacher": "蘇毅",
-    "times": [
-      "五 / 6,7 / T 705"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1028",
-    "code": "F0646",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文應用作文 A1 ◇雙語授課(中文/法文)",
-    "cap": 35,
-    "teacher": "陳瑋靜",
-    "times": [
-      "一 / 8,9 / T 604"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1029",
-    "code": "F0646",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文應用作文 A2 ◇雙語授課(中文/法文)",
-    "cap": 35,
-    "teacher": "康鈺珮",
-    "times": [
-      "三 / 1,2 / L 407"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1030",
-    "code": "F0646",
-    "major": null,
-    "term_order": "2",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文應用作文 B1 ◇雙語授課(中文/法文)",
-    "cap": 35,
-    "teacher": "陳瑋靜",
-    "times": [
-      "一 / 3,4 / T 604"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1031",
-    "code": "F0646",
-    "major": null,
-    "term_order": "2",
-    "class": "D",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "法文應用作文 B2 ◇雙語授課(中文/法文)",
-    "cap": 35,
-    "teacher": "康鈺珮",
-    "times": [
-      "二 / 6,7 / L 416"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1032",
-    "code": "F0710",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "媒體法文 限本系四年級及申請本系雙主修生。",
-    "cap": 175,
-    "teacher": "廖潤珮",
-    "times": [
-      "四 / 6,7 / T 604"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1033",
-    "code": "F0760",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "文學賞析與習作（二）",
-    "cap": 60,
-    "teacher": "梁蓉",
-    "times": [
-      "一 / 6,7 / T 404"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1034",
-    "code": "F0760",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "文學賞析與習作（二） ◇雙語授課(中文/法文)",
-    "cap": 60,
-    "teacher": "鄭安群",
-    "times": [
-      "三 / 9,10 / L 413"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1035",
-    "code": "F0933",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "進修法文 限法語能力檢核未通過者;僅計入選課總修學分、不計入成績總修、實得與畢業學分，成績亦不列入平均計算。",
-    "cap": "",
-    "teacher": "黃盈馨",
-    "times": [
-      "二 / 1,2 / T 704"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1036",
-    "code": "F1237",
-    "major": null,
-    "term_order": "2",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "企業實習 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "陳麗娟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "1037",
-    "code": "F1608",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國美食文化與論述",
-    "cap": 60,
-    "teacher": "鄭安群",
-    "times": [
-      "五 / 8,9 / L 304"
-    ]
-  },
-  {
-    "source": "TFFXB.htm",
-    "dept_block": "TFFXB.法文系（日） DEPARTMENT OF FRENCH",
-    "grade": "4",
-    "seq": "3713",
+    "seq": "3327",
     "code": "X0004",
     "major": null,
     "term_order": "0",
@@ -55944,713 +55064,8 @@
   {
     "source": "TFGXB.htm",
     "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1039(實習)",
-    "code": "A0800",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "德語語言練習（一）(實習課)",
-    "cap": 25,
-    "teacher": "李惠瑜",
-    "times": [
-      "四 / 6,7 / L 101"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1041(實習)",
-    "code": "A0800",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "德語語言練習（一）(實習課)",
-    "cap": 25,
-    "teacher": "李惠瑜",
-    "times": [
-      "三 / 6,7 / L 202"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1042",
-    "code": "A1376",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "中國語文能力表達",
-    "cap": 75,
-    "teacher": "郭妤綺",
-    "times": [
-      "一 / 9,10 / E 412"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1043",
-    "code": "A1569",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德語會話（一）",
-    "cap": 22,
-    "teacher": "顏徽玲",
-    "times": [
-      "三 / 1,2 / T 705"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1044",
-    "code": "A1569",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德語會話（一） ◇全德語授課",
-    "cap": 22,
-    "teacher": "施侯格",
-    "times": [
-      "二 / 3,4 / SG 603"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1045",
-    "code": "F1662",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 6,
-    "group": "",
-    "title": "初級德文",
-    "cap": 35,
-    "teacher": "張秀娟",
-    "times": [
-      "一 / 3,4 / T 605",
-      "二 / 6,7 / T 705"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1046",
-    "code": "F1662",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 6,
-    "group": "",
-    "title": "初級德文",
-    "cap": 35,
-    "teacher": "吳萬寶",
-    "times": [
-      "二 / 1,2 / T 604",
-      "二 / 6,7 / T 604"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1047",
-    "code": "T2637",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "K",
-    "title": "社團學習與實作－入門課程 上課6次，實際上課週次請詳教學計畫表",
-    "cap": 70,
-    "teacher": "黃文智",
-    "times": [
-      "一 / 6,7 / SG 319"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1048",
-    "code": "T9607",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "校園與社區服務學習 一年級限修本班，校外課程。",
-    "cap": "",
-    "teacher": "黃世杰",
-    "times": [
-      "二 / 8,9 /"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "1",
-    "seq": "1049",
-    "code": "T9703",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
-    "cap": 120,
-    "teacher": "鍾博舜",
-    "times": [
-      "五 / 6,7 / L 201"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1050",
-    "code": "A0098",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 4,
-    "group": "",
-    "title": "中級德文讀本",
-    "cap": 35,
-    "teacher": "俞大為",
-    "times": [
-      "三 / 1,2 / Q 203",
-      "三 / 3,4 / Q 203"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1051",
-    "code": "A0098",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 4,
-    "group": "",
-    "title": "中級德文讀本",
-    "cap": 35,
-    "teacher": "唐岱霞",
-    "times": [
-      "四 / 3,4 / L 305",
-      "四 / 6,7 / L 417"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1052",
-    "code": "A0772",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德文作文（一）",
-    "cap": 25,
-    "teacher": "顏徽玲",
-    "times": [
-      "四 / 1,2 / T 605"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1053",
-    "code": "A0772",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德文作文（一） ◇全德語授課",
-    "cap": 25,
-    "teacher": "孫敏學",
-    "times": [
-      "二 / 9,10 / T 405"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1054",
-    "code": "A0796",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德語會話（二） ◇全德語授課",
-    "cap": 22,
-    "teacher": "施侯格",
-    "times": [
-      "二 / 6,7 / T 405"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1055",
-    "code": "A0796",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德語會話（二） ◇全德語授課",
-    "cap": 22,
-    "teacher": "施侯格",
-    "times": [
-      "一 / 3,4 / L 406"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1057(實習)",
-    "code": "A0801",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "德語語言練習（二）(實習課)",
-    "cap": 25,
-    "teacher": "李惠瑜",
-    "times": [
-      "五 / 7,8 / L 202"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1059(實習)",
-    "code": "A0801",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "德語語言練習（二）(實習課)",
-    "cap": 25,
-    "teacher": "李惠瑜",
-    "times": [
-      "五 / 7,8 / L 202"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1060",
-    "code": "F0052",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "中級德文文法",
-    "cap": 35,
-    "teacher": "吳姉霙",
-    "times": [
-      "四 / 6,7 / T 405"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1061",
-    "code": "F0052",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "中級德文文法",
-    "cap": 35,
-    "teacher": "張秀娟",
-    "times": [
-      "一 / 6,7 / T 903"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1062",
-    "code": "F0797",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "德文檢定",
-    "cap": 105,
-    "teacher": "吳姉霙",
-    "times": [
-      "四 / 8,9 / T 405"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1063",
-    "code": "F1090",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "德語華語教學",
-    "cap": 80,
-    "teacher": "馬佑真",
-    "times": [
-      "五 / 3,4 / T 705"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1064",
-    "code": "F1433",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "德語短篇故事選",
-    "cap": 80,
-    "teacher": "張秀娟",
-    "times": [
-      "二 / 3,4 / T 705"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "2",
-    "seq": "1065",
-    "code": "F1610",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "德國在歐盟的角色 ◇全英語授課",
-    "cap": 105,
-    "teacher": "雷納德",
-    "times": [
-      "三 / 8,9 / T 605"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1066",
-    "code": "A0773",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德文作文（二） ◇全德語授課",
-    "cap": 25,
-    "teacher": "孫敏學",
-    "times": [
-      "二 / 1,2 / L 417"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1067",
-    "code": "A0773",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德文作文（二） ◇全德語授課",
-    "cap": 25,
-    "teacher": "施侯格",
-    "times": [
-      "四 / 1,2 / L 417"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1068",
-    "code": "A0797",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德語會話（三） ◇跨國遠距",
-    "cap": 22,
-    "teacher": "顏徽玲",
-    "times": [
-      "三 / 9,10 / L 310"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1069",
-    "code": "A1508",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "新聞媒體德文",
-    "cap": 105,
-    "teacher": "戴達衛",
-    "times": [
-      "三 / 6,7 / T 404"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1070",
-    "code": "A1669",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "經貿德語 ◇全德語授課",
-    "cap": 80,
-    "teacher": "孫敏學",
-    "times": [
-      "四 / 8,9 / L 304"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1071",
-    "code": "F0798",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "德語語言學概論 ◇全德語授課",
-    "cap": 105,
-    "teacher": "施侯格",
-    "times": [
-      "一 / 6,7 / T 405"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1072",
-    "code": "F0804",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "德文翻譯 商用翻譯 ◇專業知能服務學習課程",
-    "cap": 25,
-    "teacher": "戴達衛",
-    "times": [
-      "三 / 3,4 / T 606"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1074",
-    "code": "F1471",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "德語文選選讀",
-    "cap": 80,
-    "teacher": "吳萬寶",
-    "times": [
-      "四 / 3,4 / T 405"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "3",
-    "seq": "1075",
-    "code": "F1702",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "德語媒體識讀",
-    "cap": 105,
-    "teacher": "施侯格",
-    "times": [
-      "四 / 6,7 / T 704"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
     "grade": "4",
-    "seq": "1077",
-    "code": "F1237",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "企業實習 ◇非全時全職校外實習課程",
-    "cap": "",
-    "teacher": "林郁嫺",
-    "times": [
-      "二 / 5 /",
-      "三 / 5 /"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "4",
-    "seq": "1078",
-    "code": "F1660",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "ＡＩ德語口筆譯",
-    "cap": 105,
-    "teacher": "顏徽玲",
-    "times": [
-      "二 / 8,9 / T 506"
-    ]
-  },
-  {
-    "source": "TFGXB.htm",
-    "dept_block": "TFGXB.德文系（日） DEPARTMENT OF GERMAN",
-    "grade": "4",
-    "seq": "3714",
+    "seq": "3328",
     "code": "X0005",
     "major": null,
     "term_order": "0",
@@ -57152,6 +55567,26 @@
     "source": "TFJXB.htm",
     "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
     "grade": "1",
+    "seq": "0982",
+    "code": "A1755",
+    "major": null,
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 1,
+    "group": "",
+    "title": "日文文書處理 限本系生",
+    "cap": 80,
+    "teacher": "葉夌",
+    "times": [
+      "二 / 10 / B 204"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
     "seq": "0986",
     "code": "F0113",
     "major": null,
@@ -57209,6 +55644,817 @@
     "times": [
       "二 / 3,4 / H 119",
       "四 / 3,4 / H 119"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0989",
+    "code": "F0113",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "初級日語讀本 B2 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "李文茹",
+    "times": [
+      "二 / 6,7 / T 505",
+      "四 / 6,7 / T 601"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0990",
+    "code": "F0113",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "初級日語讀本 C1 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "菊島和紀",
+    "times": [
+      "四 / 3,4 / T 606",
+      "五 / 1,2 / L 305"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0991",
+    "code": "F0113",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "初級日語讀本 C2 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "賴鈺菁",
+    "times": [
+      "一 / 6,7 / B 613",
+      "三 / 3,4 / L 304"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0992",
+    "code": "F0114",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "初級日語語法 A1 限本系生、雙主修、輔修生",
+    "cap": 35,
+    "teacher": "王嘉臨",
+    "times": [
+      "一 / 6,7 / H 113"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0993",
+    "code": "F0114",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "初級日語語法 A2 限本系生、雙主修、輔修生",
+    "cap": 35,
+    "teacher": "高淑玲",
+    "times": [
+      "四 / 8,9 / T 606"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0994",
+    "code": "F0114",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "初級日語語法 B1 限本系生、雙主修、輔修生",
+    "cap": 35,
+    "teacher": "蔡佩青",
+    "times": [
+      "一 / 3,4 / T 604"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0995",
+    "code": "F0114",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "初級日語語法 B2 限本系生、雙主修、輔修生",
+    "cap": 35,
+    "teacher": "廖育卿",
+    "times": [
+      "二 / 1,2 / T 506"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0996",
+    "code": "F0114",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "初級日語語法 C1 限本系生、雙主修、輔修生",
+    "cap": 35,
+    "teacher": "張瓊玲",
+    "times": [
+      "三 / 3,4 / T 606"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "0997",
+    "code": "F0114",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "初級日語語法 C2 限本系生、雙主修、輔修生",
+    "cap": 35,
+    "teacher": "廖育卿",
+    "times": [
+      "三 / 1,2 / H 118"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "1004",
+    "code": "T9607",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "校園與社區服務學習 一年級限修本班，校外課程。",
+    "cap": "",
+    "teacher": "王志遠",
+    "times": [
+      "二 / 3,4 /"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "1005",
+    "code": "T9607",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "校園與社區服務學習 一年級限修本班，校外課程。",
+    "cap": "",
+    "teacher": "王志遠",
+    "times": [
+      "二 / 8,9 /"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "1",
+    "seq": "1006",
+    "code": "T9607",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "校園與社區服務學習 一年級限修本班。",
+    "cap": "",
+    "teacher": "虢恕仁",
+    "times": [
+      "二 / 6,7 /"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1010",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） A1 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "李麗雲",
+    "times": [
+      "二 / 3,4 / H 117"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1011",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） A2 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "徐驊霖",
+    "times": [
+      "三 / 1,2 / E 415"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1012",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） A3 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "顧錦芬",
+    "times": [
+      "五 / 3,4 / T 604"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1013",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） B1 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "菊島和紀",
+    "times": [
+      "五 / 3,4 / B 115"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1014",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） B2 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "澤田尚美",
+    "times": [
+      "三 / 9,10 / H 118"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1015",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） B3 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "賴鈺菁",
+    "times": [
+      "三 / 9,10 / B 507"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1016",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） C1 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "藤本紀子",
+    "times": [
+      "五 / 6,7 / B 115"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1017",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） C2 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "富田哲",
+    "times": [
+      "二 / 6,7 / T 704"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1018",
+    "code": "A0178",
+    "major": null,
+    "term_order": "1",
+    "class": "I",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（一） C3 限本系生、雙主修生",
+    "cap": 25,
+    "teacher": "吳淑圓",
+    "times": [
+      "五 / 3,4 / L 305"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1019",
+    "code": "A0239",
+    "major": null,
+    "term_order": "1",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "日本歷史 限本系生、輔修生",
+    "cap": 100,
+    "teacher": "劉長輝",
+    "times": [
+      "一 / 6,7 / T 310"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1020",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） A1 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "黃淑靜",
+    "times": [
+      "二 / 6,7 / T 705"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1021",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） A2 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "王靖雅",
+    "times": [
+      "一 / 8,9 / T 601"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1022",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） A3 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "曾子豪",
+    "times": [
+      "一 / 8,9 / T 505"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1023",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） B1 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "今泉江利子",
+    "times": [
+      "三 / 6,7 / H 119"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1024",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） B2 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "黃淑靜",
+    "times": [
+      "二 / 8,9 / T 705"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1025",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） B3 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "堀越和男",
+    "times": [
+      "五 / 3,4 / T 407"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1026",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） C1 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "鍾芳珍",
+    "times": [
+      "四 / 3,4 / T 703"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1027",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） C2 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "鍾芳珍",
+    "times": [
+      "四 / 1,2 / T 703"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1028",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "I",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） C3 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "陳瑞億",
+    "times": [
+      "五 / 6,7 / T 808"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1029",
+    "code": "A0255",
+    "major": null,
+    "term_order": "1",
+    "class": "J",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（二） 限本系生、雙主修、輔系生",
+    "cap": 22,
+    "teacher": "侯貴娥",
+    "times": [
+      "四 / 6,7 / L 417"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1030",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "AA",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） A1限本系生",
+    "cap": "",
+    "teacher": "陳瑞億,助教",
+    "times": [
+      "五 / 9 / T 808",
+      "三 / 6 / T 211"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1031",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "AB",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） 雙主修、重修、轉學、轉系生須至系辦登記選課。",
+    "cap": "",
+    "teacher": "陳瑞億,助教",
+    "times": [
+      "五 / 9 / T 808",
+      "五 / 10 / V 201"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1032",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "BA",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） A2限本系生",
+    "cap": "",
+    "teacher": "和田奈穗實,助教",
+    "times": [
+      "五 / 6 / T 702",
+      "三 / 6 / T 211"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1033",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "BB",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） 雙主修、重修、轉學、轉系生須至系辦登記選課。",
+    "cap": "",
+    "teacher": "和田奈穗實,助教",
+    "times": [
+      "五 / 6 / T 702",
+      "五 / 10 / V 201"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1034",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "CA",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） A3限本系生",
+    "cap": "",
+    "teacher": "和田奈穗實,助教",
+    "times": [
+      "五 / 7 / T 702",
+      "三 / 6 / T 211"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1035",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "CB",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） 雙主修、重修、轉學、轉系生須至系辦登記選課。",
+    "cap": "",
+    "teacher": "和田奈穗實,助教",
+    "times": [
+      "五 / 7 / T 702",
+      "五 / 10 / V 201"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1036",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "DA",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） B1限本系生",
+    "cap": "",
+    "teacher": "陳瑞億,助教",
+    "times": [
+      "一 / 8 / T 808",
+      "四 / 9 / T 211"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1037",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "DB",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） 雙主修、重修、轉學、轉系生須至系辦登記選課。",
+    "cap": "",
+    "teacher": "陳瑞億,助教",
+    "times": [
+      "一 / 8 / T 808",
+      "五 / 10 / V 201"
     ]
   },
   {
@@ -57299,6 +56545,298 @@
     "source": "TFJXB.htm",
     "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
     "grade": "2",
+    "seq": "1042",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "GA",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） C1限本系生",
+    "cap": "",
+    "teacher": "陳瑞億,助教",
+    "times": [
+      "一 / 9 / T 808",
+      "二 / 8 / T 211"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1043",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "GB",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） 雙主修、重修、轉學、轉系生須至系辦登記選課。",
+    "cap": "",
+    "teacher": "陳瑞億,助教",
+    "times": [
+      "一 / 9 / T 808",
+      "五 / 10 / V 201"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1044",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "HA",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） C2限本系生",
+    "cap": "",
+    "teacher": "李麗雲,助教",
+    "times": [
+      "二 / 2 / H 117",
+      "二 / 8 / T 211"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1045",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "HB",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） 雙主修、重修、轉學、轉系生須至系辦登記選課。",
+    "cap": "",
+    "teacher": "李麗雲,助教",
+    "times": [
+      "二 / 2 / H 117",
+      "五 / 10 / V 201"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1046",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "IA",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） C3限本系生",
+    "cap": "",
+    "teacher": "李麗雲,助教",
+    "times": [
+      "二 / 1 / H 117",
+      "二 / 8 / T 211"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1047",
+    "code": "A0261",
+    "major": null,
+    "term_order": "1",
+    "class": "IB",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "日語語言練習（二） 雙主修、重修、轉學、轉系生須至系辦登記選課。",
+    "cap": "",
+    "teacher": "李麗雲,助教",
+    "times": [
+      "二 / 1 / H 117",
+      "五 / 10 / V 201"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1048",
+    "code": "A1104",
+    "major": null,
+    "term_order": "1",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "日本社會文化 限本系生、輔修生",
+    "cap": 100,
+    "teacher": "呂思盈",
+    "times": [
+      "一 / 1,2 / E 307"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1049",
+    "code": "F0115",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "中級日語讀本 A1 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "施信余",
+    "times": [
+      "一 / 3,4 / L 305",
+      "三 / 7,8 / L 406"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1050",
+    "code": "F0115",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "中級日語讀本 A2 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "富田哲",
+    "times": [
+      "一 / 3,4 / L 406",
+      "二 / 9,10 / T 808"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1051",
+    "code": "F0115",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "中級日語讀本 B1 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "廖育卿",
+    "times": [
+      "二 / 3,4 / T 506",
+      "三 / 1,2 / L 305"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1052",
+    "code": "F0115",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "中級日語讀本 B2 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "蔡欣吟",
+    "times": [
+      "一 / 8,9 / T 606",
+      "二 / 6,7 / T 703"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1053",
+    "code": "F0115",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "中級日語讀本 C1 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "徐佩伶",
+    "times": [
+      "一 / 3,4 / H 117",
+      "三 / 7,8 / L 416"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1054",
+    "code": "F0115",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "中級日語讀本 C2 限本系生、雙主修、輔系、輔修生",
+    "cap": 35,
+    "teacher": "孫寅華",
+    "times": [
+      "三 / 6,7 / H 116",
+      "四 / 3,4 / H 118"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1055",
+    "code": "F0116",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "中級日語語法 A1 限本系生、雙主修生",
+    "cap": 35,
+    "teacher": "施信余",
+    "times": [
+      "四 / 6,7 / T 606"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
     "seq": "1056",
     "code": "F0116",
     "major": null,
@@ -57378,6 +56916,266 @@
   {
     "source": "TFJXB.htm",
     "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1060",
+    "code": "F0116",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "中級日語語法 C2 限本系生、雙主修生",
+    "cap": 35,
+    "teacher": "江雯薰",
+    "times": [
+      "一 / 8,9 / L 406"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "2",
+    "seq": "1061",
+    "code": "F1656",
+    "major": null,
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "ＡＩ與日語學習 限本系生、輔修生",
+    "cap": 70,
+    "teacher": "曾秋桂",
+    "times": [
+      "三 / 3,4 / T 404"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1062",
+    "code": "A0179",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（二） A1 限本系生、雙主修生",
+    "cap": 20,
+    "teacher": "中村香苗",
+    "times": [
+      "四 / 1,2 / T 604"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1063",
+    "code": "A0179",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（二） A2 限本系生、雙主修生",
+    "cap": 20,
+    "teacher": "和田奈穗實",
+    "times": [
+      "五 / 8,9 / T 605"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1064",
+    "code": "A0179",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（二） B1 限本系生、雙主修生",
+    "cap": 20,
+    "teacher": "曾秋桂",
+    "times": [
+      "三 / 1,2 / T 606"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1065",
+    "code": "A0179",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（二） B2 限本系生、雙主修生",
+    "cap": 20,
+    "teacher": "堀越和男",
+    "times": [
+      "四 / 1,2 / T 505"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1066",
+    "code": "A0179",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（二） C1 限本系生、雙主修生",
+    "cap": 20,
+    "teacher": "江雯薰",
+    "times": [
+      "二 / 6,7 / T 604"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1067",
+    "code": "A0179",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（二） C2 限本系生、雙主修生",
+    "cap": 20,
+    "teacher": "葉夌",
+    "times": [
+      "二 / 6,7 / L 305"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1068",
+    "code": "A0179",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日文習作（二） A+B+C 限本系生、雙主修生",
+    "cap": 20,
+    "teacher": "廖兆陽",
+    "times": [
+      "四 / 1,2 / T 704"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1069",
+    "code": "A0197",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日本名著選讀（一） 限本系生、雙主修生",
+    "cap": 50,
+    "teacher": "曾秋桂",
+    "times": [
+      "二 / 6,7 / L 308"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1070",
+    "code": "A0197",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日本名著選讀（一） 限本系生、雙主修生",
+    "cap": 50,
+    "teacher": "顧錦芬",
+    "times": [
+      "二 / 6,7 / L 205"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1071",
+    "code": "A0197",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日本名著選讀（一） 限本系生、雙主修生",
+    "cap": 50,
+    "teacher": "林寄雯",
+    "times": [
+      "二 / 9,10 / T 110"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1072",
+    "code": "A0235",
+    "major": null,
+    "term_order": "1",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "日本語概論 限本系生",
+    "cap": 100,
+    "teacher": "江雯薰",
+    "times": [
+      "一 / 3,4 / L 307"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
     "grade": "3",
     "seq": "1073",
     "code": "A0256",
@@ -57399,6 +57197,46 @@
     "source": "TFJXB.htm",
     "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
     "grade": "3",
+    "seq": "1074",
+    "code": "A0256",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（三） A2 限本系生、雙主修、輔系生",
+    "cap": 18,
+    "teacher": "良本惠莉",
+    "times": [
+      "二 / 8,9 / T 903"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1075",
+    "code": "A0256",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（三） B1 限本系生、雙主修、輔系生",
+    "cap": 18,
+    "teacher": "中村香苗",
+    "times": [
+      "二 / 3,4 / T 703"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
     "seq": "1076",
     "code": "A0256",
     "major": null,
@@ -57413,6 +57251,46 @@
     "teacher": "樋口達郎",
     "times": [
       "五 / 6,7 / L 306"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1077",
+    "code": "A0256",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（三） C1 限本系生、雙主修、輔系生",
+    "cap": 18,
+    "teacher": "顧錦芬",
+    "times": [
+      "五 / 6,7 / E 414"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "3",
+    "seq": "1078",
+    "code": "A0256",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "日語會話（三） C2 限本系生、雙主修、輔系生",
+    "cap": 18,
+    "teacher": "今泉江利子",
+    "times": [
+      "三 / 1,2 / H 119"
     ]
   },
   {
@@ -58331,6 +58209,26 @@
     "title": "畢業專題寫作與指導實務 限本系生 依系送名單選課 ◇全時全職校外實習課程",
     "cap": "",
     "teacher": "蔡欣吟",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "4",
+    "seq": "3329",
+    "code": "X0006",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "日語能力檢定 限延修生已修足畢業學分，僅未通過日語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
     "times": [
       "/ /"
     ]
@@ -61860,121 +61758,41 @@
   {
     "source": "TFSXB.htm",
     "dept_block": "TFSXB.西語系（日） DEPARTMENT OF SPANISH",
-    "grade": "1",
-    "seq": "1408(實習)",
-    "code": "F1632",
+    "grade": "4",
+    "seq": "3330",
+    "code": "X0003",
     "major": null,
-    "term_order": "2",
+    "term_order": "0",
     "class": "A",
-    "group_div": "P",
-    "required": "必",
+    "group_div": null,
+    "required": "選",
     "credits": 0,
     "group": "",
-    "title": "西班牙語聽力與發音(一)(實習課) 須額外繳交語言實習費 ◇雙語授課(中文/西語)",
-    "cap": 35,
-    "teacher": "巫宛真",
+    "title": "西語能力檢定 限延修生已修足畢業學分，僅未通過西語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
     "times": [
-      "四 / 6,7 / L 106"
-    ]
-  },
-  {
-    "source": "TFSXB.htm",
-    "dept_block": "TFSXB.西語系（日） DEPARTMENT OF SPANISH",
-    "grade": "1",
-    "seq": "1410(實習)",
-    "code": "F1632",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "西班牙語聽力與發音(一)(實習課) 須額外繳交語言實習費 ◇雙語授課(中文/西語)",
-    "cap": 35,
-    "teacher": "巫宛真",
-    "times": [
-      "三 / 3,4 / V 102"
-    ]
-  },
-  {
-    "source": "TFSXB.htm",
-    "dept_block": "TFSXB.西語系（日） DEPARTMENT OF SPANISH",
-    "grade": "1",
-    "seq": "1412(實習)",
-    "code": "F1632",
-    "major": null,
-    "term_order": "2",
-    "class": "C",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "西班牙語聽力與發音(一)(實習課) 須額外繳交語言實習費 ◇雙語授課(中文/西語)",
-    "cap": 35,
-    "teacher": "巫宛真",
-    "times": [
-      "一 / 7,8 / V 201"
+      "/ /"
     ]
   },
   {
     "source": "TFUXB.htm",
     "dept_block": "TFUXB.俄文系（日） DEPARTMENT OF RUSSIAN",
-    "grade": "1",
-    "seq": "1468(實習)",
-    "code": "F1602",
+    "grade": "4",
+    "seq": "3331",
+    "code": "X0007",
     "major": null,
-    "term_order": "2",
+    "term_order": "0",
     "class": "A",
-    "group_div": "P",
-    "required": "必",
+    "group_div": null,
+    "required": "選",
     "credits": 0,
     "group": "",
-    "title": "俄語語言練習（一）(實習課) a1",
+    "title": "俄語能力檢定 限延修生已修足畢業學分，僅未通過西語檢定畢業門檻者修習(請至課務組辦理選課)。",
     "cap": "",
-    "teacher": "梁家菱",
+    "teacher": "",
     "times": [
-      "四 / 7,8 / V 102"
-    ]
-  },
-  {
-    "source": "TFUXB.htm",
-    "dept_block": "TFUXB.俄文系（日） DEPARTMENT OF RUSSIAN",
-    "grade": "1",
-    "seq": "1470(實習)",
-    "code": "F1602",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "俄語語言練習（一）(實習課) a2",
-    "cap": "",
-    "teacher": "梁家菱",
-    "times": [
-      "四 / 9,10 / V 102"
-    ]
-  },
-  {
-    "source": "TFUXB.htm",
-    "dept_block": "TFUXB.俄文系（日） DEPARTMENT OF RUSSIAN",
-    "grade": "2",
-    "seq": "1479(實習)",
-    "code": "F1603",
-    "major": null,
-    "term_order": "2",
-    "class": "A",
-    "group_div": "P",
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "俄語語言練習（二）(實習課) a1",
-    "cap": "",
-    "teacher": "梁家菱",
-    "times": [
-      "五 / 8,9 / T 211"
+      "/ /"
     ]
   },
   {
@@ -69030,6 +68848,26 @@
     "teacher": "劉家樺",
     "times": [
       "四 / 3,4 / B 116"
+    ]
+  },
+  {
+    "source": "TLEXB.htm",
+    "dept_block": "TLEXB.產經系（日） DEPARTMENT OF INDUSTRIAL ECONOMICS",
+    "grade": "1",
+    "seq": "(正課)",
+    "code": "B0302",
+    "major": null,
+    "term_order": "2",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學 經濟學及經濟學的應用(一)或(二)應同時修習",
+    "cap": "",
+    "teacher": "胡登淵",
+    "times": [
+      "四 / 7,8 / SG 314"
     ]
   },
   {
@@ -81107,7 +80945,7 @@
     "teacher": "謝忠村",
     "times": [
       "二 / 3,4 / S 102",
-      "四 / 6 / S 104"
+      "四 / 6 / S 420"
     ]
   },
   {
