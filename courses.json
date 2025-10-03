@@ -700,26 +700,6 @@
     ]
   },
   {
-    "source": "A02.htm",
-    "dept_block": "TNULE.核心課程Ｌ群－進 APPRECIATION OF CHINESE LITERATURE",
-    "grade": "0",
-    "seq": "6135",
-    "code": "A2929",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "L",
-    "title": "文學名篇選讀：群己與生命 淡水校園上課",
-    "cap": 80,
-    "teacher": "陳忠滄",
-    "times": [
-      "一 / 11,12 / B 604"
-    ]
-  },
-  {
     "source": "A03.htm",
     "dept_block": "TNUMB.核心課程Ｍ群－日 ARTS APPRECIATION AND INVENTION",
     "grade": "0",
@@ -1556,7 +1536,7 @@
     "cap": 75,
     "teacher": "陳淑玲",
     "times": [
-      "一 / 1,2 / T 301"
+      "一 / 1,2 / T 310"
     ]
   },
   {
@@ -6876,26 +6856,6 @@
     "teacher": "黃佳媛",
     "times": [
       "二 / 1,2 / ED 201"
-    ]
-  },
-  {
-    "source": "A08.htm",
-    "dept_block": "TNURB.核心課程Ｒ群－日 FUTURES STUDIES",
-    "grade": "0",
-    "seq": "2661",
-    "code": "D0737",
-    "major": null,
-    "term_order": "0",
-    "class": "E",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "R",
-    "title": "教育未來 ◇雙語授課(中文/英文)",
-    "cap": 69,
-    "teacher": "潘艾柔",
-    "times": [
-      "一 / 3,4 / SG 314"
     ]
   },
   {
@@ -16004,26 +15964,6 @@
     "source": "B05.htm",
     "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
     "grade": "2",
-    "seq": "3174",
-    "code": "T9871",
-    "major": null,
-    "term_order": "1",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "男、女生體育－有氧舞蹈興趣班 體育館SG246舞蹈室,本課程配合75周年校慶活動進行課程設計與時間異動,請詳閱教學計畫表",
-    "cap": 60,
-    "teacher": "郭馥滋",
-    "times": [
-      "三 / 7,8 / SG 246"
-    ]
-  },
-  {
-    "source": "B05.htm",
-    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
-    "grade": "2",
     "seq": "3175",
     "code": "T9872",
     "major": null,
@@ -18821,26 +18761,6 @@
     ]
   },
   {
-    "source": "C01.htm",
-    "dept_block": "TNUXB.校共通課程－日 COMMON ELECTIVE COURSES",
-    "grade": "0",
-    "seq": "3305",
-    "code": "Z1028",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "高齡者健康促進與實務 高齡健康服務人才培力學分學程。本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 30,
-    "teacher": "朱瓊苓",
-    "times": [
-      "二 / 7,8 / SG 602"
-    ]
-  },
-  {
     "source": "C02.htm",
     "dept_block": "TGAEB.文學院英文 ENGLISH BY COLLEGE OF LIBERAL ARTS",
     "grade": "1",
@@ -19727,27 +19647,6 @@
     "source": "C04.htm",
     "dept_block": "TGEXM.工學院共同科－碩 ELECTIVES COURSES BY COLLEGE OF ENGINEERING-MASTER",
     "grade": "0",
-    "seq": "8231",
-    "code": "E0170",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "自然語言處理 遠距收播【TAICA課程】，請至https://taicatw.net/fall-114/網頁查詢上課方式。 ◇遠距收播外校課程",
-    "cap": 30,
-    "teacher": "高宏宇",
-    "times": [
-      "二 / 6,7 /",
-      "四 / 6 /"
-    ]
-  },
-  {
-    "source": "C04.htm",
-    "dept_block": "TGEXM.工學院共同科－碩 ELECTIVES COURSES BY COLLEGE OF ENGINEERING-MASTER",
-    "grade": "0",
     "seq": "8232",
     "code": "E4457",
     "major": null,
@@ -20169,26 +20068,6 @@
     "source": "C05.htm",
     "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
     "grade": "0",
-    "seq": "1659",
-    "code": "M2288",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "運輸地理資訊系統",
-    "cap": 50,
-    "teacher": "許心萍",
-    "times": [
-      "四 / 3,4,5 / B 206"
-    ]
-  },
-  {
-    "source": "C05.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
     "seq": "1660",
     "code": "M2676",
     "major": null,
@@ -20532,26 +20411,6 @@
     "source": "C05.htm",
     "dept_block": "TGLXM.商管學院共同科碩 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT-MASTER",
     "grade": "0",
-    "seq": "8248",
-    "code": "M2420",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "資產管理大數據與演算法應用實務",
-    "cap": 25,
-    "teacher": "廖志峰",
-    "times": [
-      "三 / 3,4 / S 106"
-    ]
-  },
-  {
-    "source": "C05.htm",
-    "dept_block": "TGLXM.商管學院共同科碩 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT-MASTER",
-    "grade": "0",
     "seq": "8249",
     "code": "M2569",
     "major": null,
@@ -20826,26 +20685,6 @@
     "teacher": "何金蘭",
     "times": [
       "四 / 6,7 / L 407"
-    ]
-  },
-  {
-    "source": "C07.htm",
-    "dept_block": "TGFXB.外語學院共同科日 ELECTIVES COURSES BY COLLEGE OF FOREIGN LANGUAGES AND LITERATURES",
-    "grade": "0",
-    "seq": "1579",
-    "code": "F1538",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "葡萄牙文與文化",
-    "cap": 160,
-    "teacher": "守般若",
-    "times": [
-      "五 / 6,7 / O 502"
     ]
   },
   {
@@ -22085,26 +21924,6 @@
     "title": "中等學校教育實習 ◇全時全職校外實習課程",
     "cap": "",
     "teacher": "戴晨修",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "D02.htm",
-    "dept_block": "TDQBB.中學教育學程 SECONDARY TEACHER EDUCATION PROGRAM",
-    "grade": "3",
-    "seq": "0281",
-    "code": "D0146",
-    "major": null,
-    "term_order": "0",
-    "class": "D",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "中等學校教育實習 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "李世忠",
     "times": [
       "/ /"
     ]
@@ -24017,26 +23836,6 @@
   },
   {
     "source": "F01.htm",
-    "dept_block": "TEBXD.機械系博士班 DOCTORAL PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "2",
-    "seq": "9019",
-    "code": "T1002",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "書報討論（三） ◇全英語授課",
-    "cap": "",
-    "teacher": "劉昭華",
-    "times": [
-      "二 / 6 / E 812"
-    ]
-  },
-  {
-    "source": "F01.htm",
     "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
     "grade": "1",
     "seq": "8082",
@@ -24093,46 +23892,6 @@
     "teacher": "莊家維",
     "times": [
       "四 / 6 / T 411"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TECXD.土木系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CIVIL ENGINEERING",
-    "grade": "1",
-    "seq": "9025",
-    "code": "E4448",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "人工智慧系統的效能建模與評估 ◇密集授課◇全英語授課",
-    "cap": "",
-    "teacher": "新／待聘",
-    "times": [
-      "一 / 6,7,8 /"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TECXD.土木系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CIVIL ENGINEERING",
-    "grade": "1",
-    "seq": "9026",
-    "code": "E4449",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "人工智慧物聯網的理論與應用 ◇密集授課◇全英語授課",
-    "cap": "",
-    "teacher": "新／待聘",
-    "times": [
-      "二 / 6,7,8 /"
     ]
   },
   {
@@ -24910,26 +24669,6 @@
     "teacher": "王銀添,李宗翰,游國忠",
     "times": [
       "/ /"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEXBM.智慧製造全英專班 INTERNATIONAL INTENSE MASTER’S PROGRAM IN AI INTELLIGENT MACHINERY AND SUSTAINABLE MANUFACTURING, COLLEGE OF ENGINEERING (ENGLISH-TAUGHT PRO",
-    "grade": "2",
-    "seq": "8209",
-    "code": "T8000",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "論文 ◇全英語授課",
-    "cap": "",
-    "teacher": "李宗翰",
-    "times": [
-      "日 / 1 /"
     ]
   },
   {
@@ -26230,26 +25969,6 @@
     "teacher": "張雅慧",
     "times": [
       "四 / 6,7 / T 501"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TFLXM.英文學系碩士班 MASTER’S PROGRAM, DEPARTMENT OF ENGLISH",
-    "grade": "1",
-    "seq": "8227",
-    "code": "F1734",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "語言學習策略與風格 ◇全英語授課",
-    "cap": "",
-    "teacher": "張雅慧",
-    "times": [
-      "二 / 5,6 / T 501"
     ]
   },
   {
@@ -31713,26 +31432,6 @@
     "source": "F02.htm",
     "dept_block": "TFLXD.英文系博士班 DOCTORAL PROGRAM, DEPARTMENT OF ENGLISH",
     "grade": "1",
-    "seq": "9043",
-    "code": "F1375",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "文學研究方法與寫作 ◇雙語授課(中文/英文)",
-    "cap": "",
-    "teacher": "郭家珍",
-    "times": [
-      "二 / 3,4 / T 402"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TFLXD.英文系博士班 DOCTORAL PROGRAM, DEPARTMENT OF ENGLISH",
-    "grade": "1",
     "seq": "9044",
     "code": "F1376",
     "major": null,
@@ -31746,7 +31445,7 @@
     "cap": "",
     "teacher": "林怡弟",
     "times": [
-      "二 / 3,4 / T 410"
+      "二 / 1,2 / T 410"
     ]
   },
   {
@@ -35714,26 +35413,6 @@
     "times": [
       "二 / 7 / B 617",
       "四 / 4,5 / B 426"
-    ]
-  },
-  {
-    "source": "S01.htm",
-    "dept_block": "TLYXD.經濟系博士班 DOCTORAL PROGRAM, DEPARTMENT OF ECONOMICS",
-    "grade": "2",
-    "seq": "9069",
-    "code": "B0253",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "產業經濟學 ◇以實整虛課程",
-    "cap": "",
-    "teacher": "劉家樺",
-    "times": [
-      "五 / 6,7 / B 505"
     ]
   },
   {
@@ -41930,26 +41609,6 @@
     "source": "TDTXB.htm",
     "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
     "grade": "4",
-    "seq": "0324",
-    "code": "A1725",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "教育科技專題",
-    "cap": "",
-    "teacher": "新／待聘",
-    "times": [
-      "一 / 8,9,10 / L 302"
-    ]
-  },
-  {
-    "source": "TDTXB.htm",
-    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
-    "grade": "4",
     "seq": "0328",
     "code": "D0749",
     "major": null,
@@ -45941,26 +45600,6 @@
     "source": "TECXD.htm",
     "dept_block": "TECXD.土木系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CIVIL ENGINEERING",
     "grade": "1",
-    "seq": "9021",
-    "code": "E2615",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "設計思考與認知心理學",
-    "cap": "",
-    "teacher": "鄭晃二",
-    "times": [
-      "四 / 3,4 / K 301"
-    ]
-  },
-  {
-    "source": "TECXD.htm",
-    "dept_block": "TECXD.土木系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CIVIL ENGINEERING",
-    "grade": "1",
     "seq": "9022",
     "code": "E3068",
     "major": null,
@@ -47158,26 +46797,6 @@
     "teacher": "林正嵐",
     "times": [
       "六 / 1 /"
-    ]
-  },
-  {
-    "source": "TEDXD.htm",
-    "dept_block": "TEDXD.化材系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CHEMICAL AND MATERIALS ENGINEERING",
-    "grade": "1",
-    "seq": "9028",
-    "code": "T0095",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "書報討論（一）",
-    "cap": "",
-    "teacher": "賴偉淇",
-    "times": [
-      "一 / 9 / E 819"
     ]
   },
   {
@@ -49152,26 +48771,6 @@
     ]
   },
   {
-    "source": "TEIXE.htm",
-    "dept_block": "TEIXE.資工系（進學） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
-    "grade": "4",
-    "seq": "6019",
-    "code": "E3716",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "數據科學實務：使用Python",
-    "cap": 66,
-    "teacher": "簡志宇",
-    "times": [
-      "二 / 11,12,13 / E 213"
-    ]
-  },
-  {
     "source": "TEIXJ.htm",
     "dept_block": "TEIXJ.資工系碩專班 EXECUTIVE MASTER’S PROGRAM, DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
     "grade": "1",
@@ -50635,26 +50234,6 @@
     "teacher": "張睿宇",
     "times": [
       "五 / 6,7 / E 512"
-    ]
-  },
-  {
-    "source": "TENXB.htm",
-    "dept_block": "TENXB.航太系（日） DEPARTMENT OF AEROSPACE ENGINEERING",
-    "grade": "4",
-    "seq": "0774",
-    "code": "E4106",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "進階程式語言",
-    "cap": 44,
-    "teacher": "徐益書",
-    "times": [
-      "二 / 9,10 / E 232"
     ]
   },
   {
@@ -54612,7 +54191,7 @@
     "group": "",
     "title": "流體力學實驗 原「水資源工程組」",
     "cap": 18,
-    "teacher": "蔡孝忠",
+    "teacher": "彭晴玉",
     "times": [
       "二 / 7,8,9 / T 001"
     ]
@@ -55328,7 +54907,7 @@
     "cap": "",
     "teacher": "王靖雅,助教",
     "times": [
-      "一 / 6,7 / L 702",
+      "一 / 6,7 / T 702",
       "三 / 7 / T 211"
     ]
   },
@@ -55349,7 +54928,7 @@
     "cap": "",
     "teacher": "王靖雅,助教",
     "times": [
-      "一 / 6,7 / L 702",
+      "一 / 6,7 / T 702",
       "五 / 7 / T 211"
     ]
   },
@@ -55456,27 +55035,6 @@
     "times": [
       "二 / 3,4 / T 411",
       "四 / 8 / T 211"
-    ]
-  },
-  {
-    "source": "TFJXB.htm",
-    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
-    "grade": "1",
-    "seq": "0975",
-    "code": "A0254",
-    "major": null,
-    "term_order": "1",
-    "class": "IB",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "日語會話（一） 雙主修、重修、轉學、轉系、輔系生須至系辦登記選課。",
-    "cap": "",
-    "teacher": "江雯薰,助教",
-    "times": [
-      "二 / 3,4 / T 411",
-      "五 / 7 / T 211"
     ]
   },
   {
@@ -57777,26 +57335,6 @@
     "source": "TFJXB.htm",
     "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
     "grade": "4",
-    "seq": "1103",
-    "code": "A1107",
-    "major": null,
-    "term_order": "1",
-    "class": "D",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "A",
-    "title": "日語會話（四） A+B+C限本系大四生、雙主修生",
-    "cap": 22,
-    "teacher": "良本惠莉",
-    "times": [
-      "二 / 6,7 / T 503"
-    ]
-  },
-  {
-    "source": "TFJXB.htm",
-    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
-    "grade": "4",
     "seq": "1104",
     "code": "A1107",
     "major": null,
@@ -58716,66 +58254,6 @@
     ]
   },
   {
-    "source": "TFJXE.htm",
-    "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
-    "grade": "4",
-    "seq": "6055",
-    "code": "F1353",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "A",
-    "title": "日語會話（四）實務 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡欣吟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TFJXE.htm",
-    "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
-    "grade": "4",
-    "seq": "6056",
-    "code": "F1354",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "B",
-    "title": "日本應用文實務 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡欣吟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TFJXE.htm",
-    "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
-    "grade": "4",
-    "seq": "6057",
-    "code": "F1355",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "C",
-    "title": "畢業專題寫作與指導實務 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡欣吟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
     "source": "TFJXJ.htm",
     "dept_block": "TFJXJ.日文系碩專班 EXECUTIVE MASTER’S PROGRAM, DEPARTMENT OF JAPANESE",
     "grade": "2",
@@ -59219,26 +58697,6 @@
     "source": "TFLXB.htm",
     "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
     "grade": "4",
-    "seq": "1251",
-    "code": "F1235",
-    "major": null,
-    "term_order": "1",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "口譯理論與實作菁英班 限本系生",
-    "cap": 30,
-    "teacher": "陳曼華",
-    "times": [
-      "二 / 1,2 / O 303"
-    ]
-  },
-  {
-    "source": "TFLXB.htm",
-    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
-    "grade": "4",
     "seq": "1252",
     "code": "F1236",
     "major": null,
@@ -59393,26 +58851,6 @@
     "teacher": "陳璽光",
     "times": [
       "三 / 11,12 / E 413"
-    ]
-  },
-  {
-    "source": "TFLXE.htm",
-    "dept_block": "TFLXE.英文系（進學） DEPARTMENT OF ENGLISH",
-    "grade": "3",
-    "seq": "6062",
-    "code": "F0252",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "句法學",
-    "cap": 80,
-    "teacher": "王藹玲",
-    "times": [
-      "六 / 3,4 / B 604"
     ]
   },
   {
@@ -60461,26 +59899,6 @@
     "source": "TFOAB.htm",
     "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "4",
-    "seq": "1310",
-    "code": "F1237",
-    "major": null,
-    "term_order": "1",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "企業實習 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "陳麗娟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TFOAB.htm",
-    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "4",
     "seq": "1311",
     "code": "F1739",
     "major": null,
@@ -60965,26 +60383,6 @@
     "source": "TFOGB.htm",
     "dept_block": "TFOGB.歐語系德文組 DIVISION OF GERMAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "4",
-    "seq": "1346",
-    "code": "F1237",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "企業實習 開放大三、大四生加選，請至系上登記。 ◇非全時全職校外實習課程",
-    "cap": "",
-    "teacher": "林郁嫺",
-    "times": [
-      "五 / 1,2 / T 601"
-    ]
-  },
-  {
-    "source": "TFOGB.htm",
-    "dept_block": "TFOGB.歐語系德文組 DIVISION OF GERMAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "4",
     "seq": "1347",
     "code": "F1660",
     "major": null,
@@ -61408,6 +60806,26 @@
     ]
   },
   {
+    "source": "TFOSB.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "3330",
+    "code": "X0003",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "西語能力檢定 限延修生已修足畢業學分，僅未通過西語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TFOUB.htm",
     "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
@@ -61773,26 +61191,6 @@
     "teacher": "張慶國",
     "times": [
       "日 / 1 /"
-    ]
-  },
-  {
-    "source": "TFSXB.htm",
-    "dept_block": "TFSXB.西語系（日） DEPARTMENT OF SPANISH",
-    "grade": "4",
-    "seq": "3330",
-    "code": "X0003",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 0,
-    "group": "",
-    "title": "西語能力檢定 限延修生已修足畢業學分，僅未通過西語檢定畢業門檻者修習(請至課務組辦理選課)。",
-    "cap": "",
-    "teacher": "",
-    "times": [
-      "/ /"
     ]
   },
   {
@@ -63224,7 +62622,7 @@
     "teacher": "張玉坤,助教",
     "times": [
       "四 / 6,7 / B 608",
-      "二 / 6 / B 427"
+      "二 / 6 / B 516"
     ]
   },
   {
@@ -64767,7 +64165,7 @@
     "cap": "",
     "teacher": "黃貴樹",
     "times": [
-      "四 / 7,8 / B 511"
+      "四 / 7,8 / B 702"
     ]
   },
   {
@@ -66987,26 +66385,6 @@
     "source": "TLBXM.htm",
     "dept_block": "TLBXM.財金系碩士班 MASTER’S PROGRAM,DEPARTMENT OF BANKING AND FINANCE",
     "grade": "1",
-    "seq": "8278",
-    "code": "B0242",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 1,
-    "group": "",
-    "title": "財金休閒管理",
-    "cap": "",
-    "teacher": "覃素莉",
-    "times": [
-      "一 / 8 / T 408"
-    ]
-  },
-  {
-    "source": "TLBXM.htm",
-    "dept_block": "TLBXM.財金系碩士班 MASTER’S PROGRAM,DEPARTMENT OF BANKING AND FINANCE",
-    "grade": "1",
     "seq": "8280",
     "code": "B0718",
     "major": null,
@@ -68488,26 +67866,6 @@
     ]
   },
   {
-    "source": "TLCXE.htm",
-    "dept_block": "TLCXE.企管系（進學） DEPARTMENT OF BUSINESS ADMINISTRATION",
-    "grade": "4",
-    "seq": "6120",
-    "code": "M2023",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "新興產業發展專題",
-    "cap": 55,
-    "teacher": "呂旺坤",
-    "times": [
-      "一 / 11,12 / B 614"
-    ]
-  },
-  {
     "source": "TLCXJ.htm",
     "dept_block": "TLCXJ.企管系碩專班 EXECUTIVE MASTER’S PROGRAM OF BUSINESS ADMINISTRATION (EMBA)IN GENERAL MANAGEMENT",
     "grade": "1",
@@ -69494,6 +68852,26 @@
     "times": [
       "三 / 1,2 / B 505",
       "三 / 3 / B 505"
+    ]
+  },
+  {
+    "source": "TLEXD.htm",
+    "dept_block": "TLEXD.產經系博士班 DOCTORAL PROGRAM, DEPARTMENT OF INDUSTRIAL ECONOMICS",
+    "grade": "1",
+    "seq": "9069",
+    "code": "B0985",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "高等總體經濟學",
+    "cap": "",
+    "teacher": "李順發",
+    "times": [
+      "二 / 8,9,10 / O 501"
     ]
   },
   {
@@ -73534,26 +72912,6 @@
     ]
   },
   {
-    "source": "TLOXB.htm",
-    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
-    "grade": "4",
-    "seq": "2328",
-    "code": "B1698",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "高階保險專業證照研討",
-    "cap": 120,
-    "teacher": "顏貝珊",
-    "times": [
-      "五 / 3,4 / B 513"
-    ]
-  },
-  {
     "source": "TLOXJ.htm",
     "dept_block": "TLOXJ.風保碩專班 EXECUTIVE MASTER’S PROGRAM OF BUSINESS ADMINISTRATION (EMBA) IN RISK MANAGEMENT AND INSURANCE",
     "grade": "1",
@@ -74479,26 +73837,6 @@
     "teacher": "陳進郁",
     "times": [
       "二 / 8,9 / B 702"
-    ]
-  },
-  {
-    "source": "TLPXB.htm",
-    "dept_block": "TLPXB.公行系（日） DEPARTMENT OF PUBLIC ADMINISTRATION",
-    "grade": "4",
-    "seq": "2380",
-    "code": "M2147",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "方案設計",
-    "cap": 80,
-    "teacher": "陳志瑋",
-    "times": [
-      "三 / 8,9 / B 607"
     ]
   },
   {
@@ -77647,7 +76985,7 @@
     "cap": 70,
     "teacher": "陳玲瑜",
     "times": [
-      "二 / 6,7,8 / B 516"
+      "二 / 6,7,8 / B 427"
     ]
   },
   {
@@ -81117,66 +80455,6 @@
     ]
   },
   {
-    "source": "TSNXB.htm",
-    "dept_block": "TSNXB.數學系（日） DEPARTMENT OF APPLIED MATHEMATICS AND DATA SCIENCE",
-    "grade": "4",
-    "seq": "3048",
-    "code": "S1094",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "數學最佳化在ＡＩ中的應用實習 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡志群",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TSNXB.htm",
-    "dept_block": "TSNXB.數學系（日） DEPARTMENT OF APPLIED MATHEMATICS AND DATA SCIENCE",
-    "grade": "4",
-    "seq": "3049",
-    "code": "S1095",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "數據分析實習 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡志群",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TSNXB.htm",
-    "dept_block": "TSNXB.數學系（日） DEPARTMENT OF APPLIED MATHEMATICS AND DATA SCIENCE",
-    "grade": "4",
-    "seq": "3050",
-    "code": "S1096",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "智能技術與計算實習 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡志群",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
     "source": "TSNXD.htm",
     "dept_block": "TSNXD.數學系博士班 DOCTORAL PROGRAM, DEPARTMENT OF APPLIED MATHEMATICS AND DATA SCIENCE",
     "grade": "2",
@@ -82282,8 +81560,8 @@
     "cap": 50,
     "teacher": "吳俊毅",
     "times": [
-      "二 / 1,2 / S 103",
-      "二 / 6 / S 103"
+      "二 / 1,2 / SA 108",
+      "二 / 6 / SA 108"
     ]
   },
   {
@@ -83288,26 +82566,6 @@
     ]
   },
   {
-    "source": "TZIBM.htm",
-    "dept_block": "TZIBM.智護所科技組 MASTER’S PROGRAM, DIVISION OF GERONTECHNOLOGY, GRADUATE INSTITUTE OF INTELLIGENT HEALTHCARE INDUSTRY",
-    "grade": "2",
-    "seq": "8518",
-    "code": "Z1055",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "智慧照護科技法律與規定 ◇雙語授課(中文/英文)",
-    "cap": "",
-    "teacher": "葛孟堯",
-    "times": [
-      "一 / 8,9 / CL 504"
-    ]
-  },
-  {
     "source": "ULSAM.htm",
     "dept_block": "ULSAM.統計系應統碩士班 MASTER’S PROGRAM IN APPLIED STATISTICS, DEPARTMENT OF STATISTICS AND DATA SCIENCE",
     "grade": "1",
@@ -83606,26 +82864,6 @@
     "teacher": "高君豪",
     "times": [
       "四 / 8 / B 115"
-    ]
-  },
-  {
-    "source": "ULSBM.htm",
-    "dept_block": "ULSBM.統計系數科碩士班 MASTER’S PROGRAM IN DATA SCIENCE, DEPARTMENT OF STATISTICS AND DATA SCIENCE",
-    "grade": "2",
-    "seq": "8540",
-    "code": "T8000",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "論文",
-    "cap": "",
-    "teacher": "李百靈",
-    "times": [
-      "日 / 2 /"
     ]
   },
   {
