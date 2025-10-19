@@ -1,0 +1,4 @@
+[merge "theirs"]
+    name = Keep theirs during merge
+    driver = sh -c 'cat "$3" > "$1"'
+   
