@@ -1,9 +1,13 @@
 [project]
 name = "tku-courses"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.1.0"
+description = "Convert the courses from Tamkang University Course Catalogs into JSON for easier development."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "asyncpg>=0.30.0",
     "bs4>=0.0.2",
+    "dotenv>=0.9.9",
+    "rarfile>=4.2",
+    "requests>=2.32.5",
 ]

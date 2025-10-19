@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import argparse, json, re, glob, os
+import argparse
+import json
+import re
+import glob
+import os
 from bs4 import BeautifulSoup
 
 # normalize whitespace

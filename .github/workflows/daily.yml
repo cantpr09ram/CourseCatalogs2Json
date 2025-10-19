@@ -6,13 +6,13 @@ on:
     # GitHub Actions uses UTC. 20:55 UTC == 04:55 Asia/Taipei (次日).
     - cron: "55 20 * * *"
   workflow_dispatch:
+  pull_request:
+    branches: [ main ]
 
-# 防重複併發（排程撞到手動）
 concurrency:
   group: daily-jobs-${{ github.ref }}
   cancel-in-progress: false
 
-# 需要能 push
 permissions:
   contents: write
 
@@ -23,47 +23,54 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # 需要 push 回同一 repo
           persist-credentials: true
-          # 取完整歷史，避免 rebase 與 tag 出錯
           fetch-depth: 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v1
         with:
-          python-version: "3.10"
-          cache: "pip"
+          python-version: "3.12"
 
-      - name: Install Python Dependencies
+      - name: Install unar (portable for GitHub + act)
         run: |
           set -euo pipefail
-          if [ -f requirements.txt ]; then
-            python -m pip install --upgrade pip
-            pip install -r requirements.txt
+          export DEBIAN_FRONTEND=noninteractive
+          if command -v sudo >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y unar rsync
           else
-            echo "No requirements.txt found. Skipping."
+            apt-get update
+            apt-get install -y unar rsync
           fi
 
-      - name: Download latest rar
-        run: python download.py
+
+      - name: Download latest rar via unar script
+        run: |
+          chmod +x download.sh
+          ./download.sh
+
+      - name: Sync env with uv
+        run: uv sync
 
       - name: Run main.py
-        run: python3 main.py --dir data -o courses.json --pretty
+        run: uv run main.py --dir data -o courses.json --pretty
 
       - name: Configure Git identity
         run: |
           git config --global user.name "crawler-bot"
           git config --global user.email "crawler-bot@tku.edu"
-          # 部分 runner 需要宣告 safe directory
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       - name: Force commit (always, even if no changes)
+        if: ${{ github.event_name != 'pull_request' }}
         run: |
           set -euo pipefail
           git add -A || true
           git commit --allow-empty -m "daily crawl: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || true
 
+
       - name: Pull rebase and push (simple)
+        if: ${{ github.event_name != 'pull_request' }}
         env:
           BRANCH_NAME: ${{ github.ref_name }}
         run: |
