@@ -3897,9 +3897,28 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。 ◇全英語授課",
     "cap": 76,
-    "teacher": "喬治,助教",
+    "teacher": "喬治",
     "times": [
-      "五 / 8,9 / E 404",
+      "五 / 8,9 / E 404"
+    ]
+  },
+  {
+    "source": "A06.htm",
+    "dept_block": "TGFEB.外語學院英文 ENGLISH BY COLLEGE OF FOREIGN LANGUAGES AND LITERATURES",
+    "grade": "1",
+    "seq": null,
+    "code": "T0466",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "QA",
+    "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
+    "cap": 76,
+    "teacher": "助教",
+    "times": [
       "三 / 10 / T 211"
     ]
   },
@@ -5587,7 +5606,7 @@
     "required": "必",
     "credits": 2,
     "group": "QE",
-    "title": "德文（一） 母語為德文者、德文系學生皆不得選修 ◇全英語授課",
+    "title": "德文（一） 母語為德文者、德文系學生皆不得選修",
     "cap": 55,
     "teacher": "唐岱霞",
     "times": [
@@ -5903,9 +5922,28 @@
     "group": "QF",
     "title": "俄文（一） 母語為俄文者、俄文系學生皆不得選修；需繳語言實習費。以俄文、英文授課。 ◇全英語授課",
     "cap": 55,
-    "teacher": "律可娃柳博芙,助教",
+    "teacher": "律可娃柳博芙",
     "times": [
-      "三 / 6,7 / T 408",
+      "三 / 6,7 / T 408"
+    ]
+  },
+  {
+    "source": "A06.htm",
+    "dept_block": "TNUQB.核心課程Ｑ群－日 FOREIGN LANGUAGE",
+    "grade": "1",
+    "seq": null,
+    "code": "T0468",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "QF",
+    "title": "俄文（一） 母語為俄文者、俄文系學生皆不得選修；需繳語言實習費。以俄文、英文授課。",
+    "cap": 55,
+    "teacher": "助教",
+    "times": [
       "一 / 6 / T 211"
     ]
   },
@@ -6008,9 +6046,28 @@
     "group": "QC",
     "title": "西班牙文（一） 母語為西班牙文者、西班牙文系學生皆不得選修；需繳語言實習費。以英文、西班牙文授課。 ◇全英語授課",
     "cap": 55,
-    "teacher": "宋麗玲,助教",
+    "teacher": "宋麗玲",
     "times": [
-      "四 / 6,7 / L 308",
+      "四 / 6,7 / L 308"
+    ]
+  },
+  {
+    "source": "A06.htm",
+    "dept_block": "TNUQB.核心課程Ｑ群－日 FOREIGN LANGUAGE",
+    "grade": "1",
+    "seq": null,
+    "code": "T0470",
+    "major": null,
+    "term_order": "1",
+    "class": "CA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "QC",
+    "title": "西班牙文（一） 母語為西班牙文者、西班牙文系學生皆不得選修；需繳語言實習費。以英文、西班牙文授課。",
+    "cap": 55,
+    "teacher": "助教",
+    "times": [
       "一 / 3 / V 201"
     ]
   },
@@ -20119,10 +20176,29 @@
     "group": "",
     "title": "統計學暨實習 遠距收播【TAICA課程】請至https://taicatw.net/fall-114/ 查詢。協同教師:陳怡妃.鍾孟達、校外教師:李宗穎 ◇遠距收播外校課程◇全英語授課",
     "cap": 30,
-    "teacher": "陳怡妃,鍾孟達,助教",
+    "teacher": "陳怡妃,鍾孟達",
     "times": [
       "三 / 2,3 / B 120",
-      "三 / 4 / B 120",
+      "三 / 4 / B 120"
+    ]
+  },
+  {
+    "source": "C05.htm",
+    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
+    "grade": "0",
+    "seq": null,
+    "code": "M2771",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 4,
+    "group": "",
+    "title": "統計學暨實習 遠距收播【TAICA課程】請至https://taicatw.net/fall-114/ 查詢。協同教師:陳怡妃.鍾孟達、校外教師:李宗穎",
+    "cap": 30,
+    "teacher": "助教",
+    "times": [
       "二 / 6,7 / B 120"
     ]
   },
@@ -20445,6 +20521,26 @@
     "teacher": "張智星",
     "times": [
       "三 / 2,3,4 /"
+    ]
+  },
+  {
+    "source": "C07.htm",
+    "dept_block": "TGFEB.外語學院英文 ENGLISH BY COLLEGE OF FOREIGN LANGUAGES AND LITERATURES",
+    "grade": "1",
+    "seq": null,
+    "code": "T0466",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "QA",
+    "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
+    "cap": 76,
+    "teacher": "助教",
+    "times": [
+      "三 / 10 / T 211"
     ]
   },
   {
@@ -21489,6 +21585,26 @@
     ]
   },
   {
+    "source": "C15.htm",
+    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
+    "grade": "0",
+    "seq": null,
+    "code": "M2771",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 4,
+    "group": "",
+    "title": "統計學暨實習 遠距收播【TAICA課程】請至https://taicatw.net/fall-114/ 查詢。協同教師:陳怡妃.鍾孟達、校外教師:李宗穎",
+    "cap": 30,
+    "teacher": "助教",
+    "times": [
+      "二 / 6,7 / B 120"
+    ]
+  },
+  {
     "source": "D02.htm",
     "dept_block": "TDQBB.中學教育學程 SECONDARY TEACHER EDUCATION PROGRAM",
     "grade": "1",
@@ -22164,10 +22280,29 @@
     "group": "",
     "title": "機器學習數學 資工系同學需線性代數達40分(含)以上者始得修習 ◇遠距非同步課程",
     "cap": 85,
-    "teacher": "陳夏祥,助教",
+    "teacher": "陳夏祥",
     "times": [
       "四 / 10 / E 308",
-      "五 / 8,9 / E 515",
+      "五 / 8,9 / E 515"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "3",
+    "seq": null,
+    "code": "E3965",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "機器學習數學 資工系同學需線性代數達40分(含)以上者始得修習",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
       "五 / 7 / E 515"
     ]
   },
@@ -22186,10 +22321,29 @@
     "group": "",
     "title": "機器學習數學 資工系同學需線性代數達40分(含)以上者始得修習 ◇遠距非同步課程",
     "cap": 85,
-    "teacher": "林慧珍,助教",
+    "teacher": "林慧珍",
     "times": [
       "二 / 3 / E 513",
-      "四 / 3,4 / E 513",
+      "四 / 3,4 / E 513"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "3",
+    "seq": null,
+    "code": "E3965",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "機器學習數學 資工系同學需線性代數達40分(含)以上者始得修習",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
       "二 / 4 / E 513"
     ]
   },
@@ -22308,9 +22462,28 @@
     "group": "",
     "title": "英語口語表達 A1,限本系生 ◇跨國遠距◇全英語授課",
     "cap": 22,
-    "teacher": "涂銘宏,助教",
+    "teacher": "涂銘宏",
     "times": [
-      "四 / 7,8 / L 310",
+      "四 / 7,8 / L 310"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "AA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "三 / 2 / V 102"
     ]
   },
@@ -22329,9 +22502,28 @@
     "group": "",
     "title": "英語口語表達 A1,限本系生 ◇跨國遠距◇全英語授課",
     "cap": 22,
-    "teacher": "涂銘宏,助教",
+    "teacher": "涂銘宏",
     "times": [
-      "四 / 7,8 / L 310",
+      "四 / 7,8 / L 310"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "AB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "四 / 2 / V 102"
     ]
   },
@@ -22350,9 +22542,28 @@
     "group": "",
     "title": "英語口語表達 A2,限本系 ◇跨國遠距◇全英語授課",
     "cap": 22,
-    "teacher": "林怡弟,助教",
+    "teacher": "林怡弟",
     "times": [
-      "五 / 2,3 / T 211",
+      "五 / 2,3 / T 211"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "BA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A2,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "五 / 4 / V 102"
     ]
   },
@@ -22371,9 +22582,28 @@
     "group": "",
     "title": "英語口語表達 A2,限本系 ◇跨國遠距◇全英語授課",
     "cap": 22,
-    "teacher": "林怡弟,助教",
+    "teacher": "林怡弟",
     "times": [
-      "五 / 2,3 / T 211",
+      "五 / 2,3 / T 211"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "BB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A2,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "三 / 2 / V 102"
     ]
   },
@@ -22552,9 +22782,28 @@
     "group": "",
     "title": "經濟學 ◇遠距非同步課程",
     "cap": 80,
-    "teacher": "林朕陞,助教",
+    "teacher": "林朕陞",
     "times": [
-      "一 / 6,7 / B 603",
+      "一 / 6,7 / B 603"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "一 / 2 / B 708"
     ]
   },
@@ -22573,9 +22822,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "施盛寶,助教",
+    "teacher": "施盛寶",
     "times": [
-      "一 / 3,4 / B 708",
+      "一 / 3,4 / B 708"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "四 / 5 / B 204"
     ]
   },
@@ -22594,9 +22862,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "施盛寶,助教",
+    "teacher": "施盛寶",
     "times": [
-      "一 / 3,4 / B 708",
+      "一 / 3,4 / B 708"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "四 / 5 / B 218"
     ]
   },
@@ -22898,9 +23185,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 限本班生 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "鄭哲斌,助教",
+    "teacher": "鄭哲斌",
     "times": [
-      "二 / 3,4 / B 217",
+      "二 / 3,4 / B 217"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 限本班生",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "四 / 6 / S 106"
     ]
   },
@@ -22919,9 +23225,28 @@
     "group": "",
     "title": "經濟學 限本班生 ◇遠距非同步課程",
     "cap": 75,
-    "teacher": "林士全,助教",
+    "teacher": "林士全",
     "times": [
-      "三 / 1,2 / B 607",
+      "三 / 1,2 / B 607"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學 限本班生",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
       "四 / 2 / B 601"
     ]
   },
@@ -22940,9 +23265,28 @@
     "group": "",
     "title": "經濟學 限本班生 ◇遠距非同步課程",
     "cap": 75,
-    "teacher": "林士全,助教",
+    "teacher": "林士全",
     "times": [
-      "三 / 3,4 / B 607",
+      "三 / 3,4 / B 607"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學 限本班生",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
       "五 / 7 / B 512"
     ]
   },
@@ -22965,6 +23309,26 @@
     "times": [
       "三 / 6 / B 130",
       "三 / 8 / B 130"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
+    "seq": null,
+    "code": "M1326",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "程式設計與資料結構 限本班生，有擋修",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "三 / 7 / B 130"
     ]
   },
   {
@@ -23082,9 +23446,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 A、B合班 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "鄭哲斌,助教",
+    "teacher": "鄭哲斌",
     "times": [
-      "三 / 1,2 / B 113",
+      "三 / 1,2 / B 113"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "二 / 5 / B 216"
     ]
   },
@@ -23103,9 +23486,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 A、B合班 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "鄭哲斌,助教",
+    "teacher": "鄭哲斌",
     "times": [
-      "三 / 1,2 / B 113",
+      "三 / 1,2 / B 113"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "一 / 5 / B 217"
     ]
   },
@@ -23144,9 +23546,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "鄭哲斌,助教",
+    "teacher": "鄭哲斌",
     "times": [
-      "二 / 9,10 / B 217",
+      "二 / 9,10 / B 217"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLPXB.公行系（日） DEPARTMENT OF PUBLIC ADMINISTRATION",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "五 / 5 / B 216"
     ]
   },
@@ -23165,9 +23586,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "鄭哲斌,助教",
+    "teacher": "鄭哲斌",
     "times": [
-      "二 / 9,10 / B 216",
+      "二 / 9,10 / B 216"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLPXB.公行系（日） DEPARTMENT OF PUBLIC ADMINISTRATION",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "二 / 8 / B 216"
     ]
   },
@@ -23446,9 +23886,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "鄭哲斌,助教",
+    "teacher": "鄭哲斌",
     "times": [
-      "三 / 9,10 / E 201",
+      "三 / 9,10 / E 201"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "一 / 8 / B 216"
     ]
   },
@@ -23467,9 +23926,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇遠距非同步課程",
     "cap": 70,
-    "teacher": "鄭哲斌,助教",
+    "teacher": "鄭哲斌",
     "times": [
-      "三 / 9,10 / B 130",
+      "三 / 9,10 / B 130"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "四 / 1 / B 218"
     ]
   },
@@ -23492,6 +23970,26 @@
     "times": [
       "四 / 3,4 / B 609",
       "五 / 2 / B 703"
+    ]
+  },
+  {
+    "source": "E03.htm",
+    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
+    "grade": "0",
+    "seq": null,
+    "code": "M2771",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 4,
+    "group": "",
+    "title": "統計學暨實習 遠距收播【TAICA課程】請至https://taicatw.net/fall-114/ 查詢。協同教師:陳怡妃.鍾孟達、校外教師:李宗穎",
+    "cap": 30,
+    "teacher": "助教",
+    "times": [
+      "二 / 6,7 / B 120"
     ]
   },
   {
@@ -25166,9 +25664,28 @@
     "group": "",
     "title": "英語會話 A1,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "林嘉鴻,助教",
+    "teacher": "林嘉鴻",
     "times": [
-      "二 / 1,2 / E 415",
+      "二 / 1,2 / E 415"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "AA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "二 / 10 / T 211"
     ]
   },
@@ -25187,9 +25704,28 @@
     "group": "",
     "title": "英語會話 A1,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "林嘉鴻,助教",
+    "teacher": "林嘉鴻",
     "times": [
-      "二 / 1,2 / E 415",
+      "二 / 1,2 / E 415"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "AB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "四 / 10 / V 102"
     ]
   },
@@ -25208,9 +25744,28 @@
     "group": "",
     "title": "英語會話 A2,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "郭家珍,助教",
+    "teacher": "郭家珍",
     "times": [
-      "一 / 7,8 / T 308",
+      "一 / 7,8 / T 308"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "BA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "五 / 6 / T 211"
     ]
   },
@@ -25229,9 +25784,28 @@
     "group": "",
     "title": "英語會話 A2,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "郭家珍,助教",
+    "teacher": "郭家珍",
     "times": [
-      "一 / 7,8 / T 308",
+      "一 / 7,8 / T 308"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "BB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "二 / 10 / T 211"
     ]
   },
@@ -25250,9 +25824,28 @@
     "group": "",
     "title": "英語會話 A3,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "錢欽昭,助教",
+    "teacher": "錢欽昭",
     "times": [
-      "三 / 7,8 / SG 602",
+      "三 / 7,8 / SG 602"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "CA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "四 / 10 / V 102"
     ]
   },
@@ -25271,9 +25864,28 @@
     "group": "",
     "title": "英語會話 A3,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "錢欽昭,助教",
+    "teacher": "錢欽昭",
     "times": [
-      "三 / 7,8 / SG 602",
+      "三 / 7,8 / SG 602"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "CB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "五 / 6 / T 211"
     ]
   },
@@ -25292,9 +25904,28 @@
     "group": "",
     "title": "英語會話 B1,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "雷凱,助教",
+    "teacher": "雷凱",
     "times": [
-      "二 / 6,7 / L 304",
+      "二 / 6,7 / L 304"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "DA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "二 / 1 / V 201"
     ]
   },
@@ -25313,9 +25944,28 @@
     "group": "",
     "title": "英語會話 B1,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "雷凱,助教",
+    "teacher": "雷凱",
     "times": [
-      "二 / 6,7 / L 304",
+      "二 / 6,7 / L 304"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "DB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "二 / 2 / V 201"
     ]
   },
@@ -25334,9 +25984,28 @@
     "group": "",
     "title": "英語會話 B2,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "吳凱書,助教",
+    "teacher": "吳凱書",
     "times": [
-      "四 / 3,4 / B 115",
+      "四 / 3,4 / B 115"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "EA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "三 / 8 / V 102"
     ]
   },
@@ -25355,9 +26024,28 @@
     "group": "",
     "title": "英語會話 B2,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "吳凱書,助教",
+    "teacher": "吳凱書",
     "times": [
-      "四 / 3,4 / B 115",
+      "四 / 3,4 / B 115"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "EB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "二 / 1 / V 201"
     ]
   },
@@ -25376,9 +26064,28 @@
     "group": "",
     "title": "英語會話 B3,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "熊婷惠,助教",
+    "teacher": "熊婷惠",
     "times": [
-      "四 / 3,4 / T 505",
+      "四 / 3,4 / T 505"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "FA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "二 / 2 / V 201"
     ]
   },
@@ -25397,9 +26104,28 @@
     "group": "",
     "title": "英語會話 B3,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "熊婷惠,助教",
+    "teacher": "熊婷惠",
     "times": [
-      "四 / 3,4 / T 505",
+      "四 / 3,4 / T 505"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "FB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "三 / 8 / V 102"
     ]
   },
@@ -25467,6 +26193,86 @@
     "source": "F01.htm",
     "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
     "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "AA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 2 / V 102"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "AB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "四 / 2 / V 102"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "BA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A2,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "五 / 4 / V 102"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "BB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A2,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 2 / V 102"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
     "seq": "1203",
     "code": "F0101",
     "major": null,
@@ -25478,9 +26284,28 @@
     "group": "",
     "title": "英語口語表達 A3,限本系 ◇全英語授課",
     "cap": 22,
-    "teacher": "鄧秋蓉,助教",
+    "teacher": "鄧秋蓉",
     "times": [
-      "一 / 3,4 / T 308",
+      "一 / 3,4 / T 308"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "CA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A3,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "四 / 2 / V 102"
     ]
   },
@@ -25499,9 +26324,28 @@
     "group": "",
     "title": "英語口語表達 A3,限本系 ◇全英語授課",
     "cap": 22,
-    "teacher": "鄧秋蓉,助教",
+    "teacher": "鄧秋蓉",
     "times": [
-      "一 / 3,4 / T 308",
+      "一 / 3,4 / T 308"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "CB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A3,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "五 / 4 / V 102"
     ]
   },
@@ -25520,9 +26364,28 @@
     "group": "",
     "title": "英語口語表達 B1,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "薛玉政,助教",
+    "teacher": "薛玉政",
     "times": [
-      "三 / 6,7 / L 305",
+      "三 / 6,7 / L 305"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "DA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "三 / 9 / V 102"
     ]
   },
@@ -25541,9 +26404,28 @@
     "group": "",
     "title": "英語口語表達 B1,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "薛玉政,助教",
+    "teacher": "薛玉政",
     "times": [
-      "三 / 6,7 / L 305",
+      "三 / 6,7 / L 305"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "DB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "四 / 8 / V 102"
     ]
   },
@@ -25562,9 +26444,28 @@
     "group": "",
     "title": "英語口語表達 B2,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "吳怡芬,助教",
+    "teacher": "吳怡芬",
     "times": [
-      "二 / 7,8 / T 308",
+      "二 / 7,8 / T 308"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "EA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "五 / 3 / V 102"
     ]
   },
@@ -25583,9 +26484,28 @@
     "group": "",
     "title": "英語口語表達 B2,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "吳怡芬,助教",
+    "teacher": "吳怡芬",
     "times": [
-      "二 / 7,8 / T 308",
+      "二 / 7,8 / T 308"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "EB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "三 / 9 / V 102"
     ]
   },
@@ -25604,9 +26524,28 @@
     "group": "",
     "title": "英語口語表達 B3,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "蔡瑞敏,助教",
+    "teacher": "蔡瑞敏",
     "times": [
-      "二 / 6,7 / T 606",
+      "二 / 6,7 / T 606"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "FA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "四 / 8 / V 102"
     ]
   },
@@ -25625,9 +26564,28 @@
     "group": "",
     "title": "英語口語表達 B3,限本系生 ◇全英語授課",
     "cap": 22,
-    "teacher": "蔡瑞敏,助教",
+    "teacher": "蔡瑞敏",
     "times": [
-      "二 / 6,7 / T 606",
+      "二 / 6,7 / T 606"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "FB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
       "五 / 3 / V 102"
     ]
   },
@@ -26053,6 +27011,46 @@
   },
   {
     "source": "F01.htm",
+    "dept_block": "TGFEB.外語學院英文 ENGLISH BY COLLEGE OF FOREIGN LANGUAGES AND LITERATURES",
+    "grade": "1",
+    "seq": null,
+    "code": "T0466",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "QA",
+    "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
+    "cap": 76,
+    "teacher": "助教",
+    "times": [
+      "三 / 10 / T 211"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
+    "grade": "0",
+    "seq": null,
+    "code": "M2771",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 4,
+    "group": "",
+    "title": "統計學暨實習 遠距收播【TAICA課程】請至https://taicatw.net/fall-114/ 查詢。協同教師:陳怡妃.鍾孟達、校外教師:李宗穎",
+    "cap": 30,
+    "teacher": "助教",
+    "times": [
+      "二 / 6,7 / B 120"
+    ]
+  },
+  {
+    "source": "F01.htm",
     "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
     "grade": "3",
     "seq": "1743",
@@ -26128,9 +27126,28 @@
     "group": "",
     "title": "經濟學 ◇全英語授課",
     "cap": 110,
-    "teacher": "孟雅璿,助教",
+    "teacher": "孟雅璿",
     "times": [
-      "三 / 3,4 / B 506",
+      "三 / 3,4 / B 506"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
       "四 / 4 / B 706"
     ]
   },
@@ -26169,9 +27186,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇全英語授課",
     "cap": 70,
-    "teacher": "米娜達,助教",
+    "teacher": "米娜達",
     "times": [
-      "二 / 3,4 / B 130",
+      "二 / 3,4 / B 130"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "四 / 5 / B 130"
     ]
   },
@@ -26190,9 +27226,28 @@
     "group": "",
     "title": "統計學 ◇全英語授課",
     "cap": 90,
-    "teacher": "魏筱昀,助教",
+    "teacher": "魏筱昀",
     "times": [
-      "四 / 7,8 / B 111",
+      "四 / 7,8 / B 111"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 90,
+    "teacher": "助教",
+    "times": [
       "五 / 3 / B 701"
     ]
   },
@@ -26211,9 +27266,28 @@
     "group": "",
     "title": "會計學 ◇全英語授課",
     "cap": 110,
-    "teacher": "林谷峻,助教",
+    "teacher": "林谷峻",
     "times": [
-      "二 / 1,2 / B 427",
+      "二 / 1,2 / B 427"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
       "二 / 5 / B 312"
     ]
   },
@@ -26232,9 +27306,28 @@
     "group": "",
     "title": "微積分 ◇全英語授課",
     "cap": 80,
-    "teacher": "周孟穎,助教",
+    "teacher": "周孟穎",
     "times": [
-      "五 / 6,7 / B 708",
+      "五 / 6,7 / B 708"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "五 / 8 / B 614"
     ]
   },
@@ -26867,9 +27960,28 @@
     "group": "",
     "title": "經濟學 ◇全英語授課",
     "cap": 110,
-    "teacher": "廖惠珠,助教",
+    "teacher": "廖惠珠",
     "times": [
-      "三 / 5,6 / B 312",
+      "三 / 5,6 / B 312"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
       "五 / 6 / B 703"
     ]
   },
@@ -26888,9 +28000,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 ◇全英語授課",
     "cap": 70,
-    "teacher": "陳智揚,助教",
+    "teacher": "陳智揚",
     "times": [
-      "四 / 8,9 / B 130",
+      "四 / 8,9 / B 130"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "四 / 10 / B 130"
     ]
   },
@@ -26909,9 +28040,28 @@
     "group": "",
     "title": "統計學 ◇全英語授課",
     "cap": 90,
-    "teacher": "鄧文舜,助教",
+    "teacher": "鄧文舜",
     "times": [
-      "四 / 3,4 / B 117",
+      "四 / 3,4 / B 117"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 90,
+    "teacher": "助教",
+    "times": [
       "四 / 2 / B 117"
     ]
   },
@@ -26930,9 +28080,28 @@
     "group": "",
     "title": "會計學 ◇全英語授課",
     "cap": 110,
-    "teacher": "華浤安,助教",
+    "teacher": "華浤安",
     "times": [
-      "二 / 3,4 / B 615",
+      "二 / 3,4 / B 615"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
       "三 / 2 / B 506"
     ]
   },
@@ -26951,9 +28120,28 @@
     "group": "",
     "title": "微積分 ◇全英語授課",
     "cap": 80,
-    "teacher": "鄭堯,助教",
+    "teacher": "鄭堯",
     "times": [
-      "一 / 7,8 / B 615",
+      "一 / 7,8 / B 615"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "四 / 1 / B 506"
     ]
   },
@@ -27072,9 +28260,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 A、B合班 ◇全英語授課",
     "cap": 60,
-    "teacher": "米娜達,助教",
+    "teacher": "米娜達",
     "times": [
-      "四 / 1,2 / B 113",
+      "四 / 1,2 / B 113"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
       "三 / 5 / B 113"
     ]
   },
@@ -27093,9 +28300,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 A、B合班 ◇全英語授課",
     "cap": 60,
-    "teacher": "米娜達,助教",
+    "teacher": "米娜達",
     "times": [
-      "四 / 1,2 / B 113",
+      "四 / 1,2 / B 113"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
       "四 / 5 / B 113"
     ]
   },
@@ -27154,9 +28380,28 @@
     "group": "",
     "title": "統計學 a1 ◇全英語授課",
     "cap": 80,
-    "teacher": "謝志柔,助教",
+    "teacher": "謝志柔",
     "times": [
-      "一 / 1,2 / B 712",
+      "一 / 1,2 / B 712"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學 a1",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "四 / 5 / B 606"
     ]
   },
@@ -27175,9 +28420,28 @@
     "group": "",
     "title": "統計學 ◇全英語授課",
     "cap": 80,
-    "teacher": "李永新,助教",
+    "teacher": "李永新",
     "times": [
-      "一 / 1,2 / L 401",
+      "一 / 1,2 / L 401"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "二 / 5 / B 506"
     ]
   },
@@ -27196,9 +28460,28 @@
     "group": "",
     "title": "會計學 a1 ◇全英語授課",
     "cap": 80,
-    "teacher": "李永新,助教",
+    "teacher": "李永新",
     "times": [
-      "三 / 1,2 / B 702",
+      "三 / 1,2 / B 702"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學 a1",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "三 / 3 / B 617"
     ]
   },
@@ -27217,9 +28500,28 @@
     "group": "",
     "title": "會計學 ◇全英語授課",
     "cap": 80,
-    "teacher": "林谷峻,助教",
+    "teacher": "林谷峻",
     "times": [
-      "三 / 1,2 / B 615",
+      "三 / 1,2 / B 615"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "三 / 5 / B 111"
     ]
   },
@@ -27238,9 +28540,28 @@
     "group": "",
     "title": "微積分 ◇全英語授課",
     "cap": 80,
-    "teacher": "姜杰,助教",
+    "teacher": "姜杰",
     "times": [
-      "五 / 6,7 / B 428",
+      "五 / 6,7 / B 428"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "五 / 8 / B 428"
     ]
   },
@@ -28165,11 +29486,51 @@
     "required": "必",
     "credits": 2,
     "group": "QE",
-    "title": "德文（一） 母語為德文者、德文系學生皆不得選修 ◇全英語授課",
+    "title": "德文（一） 母語為德文者、德文系學生皆不得選修",
     "cap": 55,
     "teacher": "唐岱霞",
     "times": [
       "四 / 5 / L 104"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TNUQB.核心課程Ｑ群－日 FOREIGN LANGUAGE",
+    "grade": "1",
+    "seq": null,
+    "code": "T0468",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "QF",
+    "title": "俄文（一） 母語為俄文者、俄文系學生皆不得選修；需繳語言實習費。以俄文、英文授課。",
+    "cap": 55,
+    "teacher": "助教",
+    "times": [
+      "一 / 6 / T 211"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TNUQB.核心課程Ｑ群－日 FOREIGN LANGUAGE",
+    "grade": "1",
+    "seq": null,
+    "code": "T0470",
+    "major": null,
+    "term_order": "1",
+    "class": "CA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "QC",
+    "title": "西班牙文（一） 母語為西班牙文者、西班牙文系學生皆不得選修；需繳語言實習費。以英文、西班牙文授課。",
+    "cap": 55,
+    "teacher": "助教",
+    "times": [
+      "一 / 3 / V 201"
     ]
   },
   {
@@ -29847,9 +31208,28 @@
     "group": "",
     "title": "線性代數 ◇全英語授課",
     "cap": 80,
-    "teacher": "陳蔓樺,助教",
+    "teacher": "陳蔓樺",
     "times": [
-      "五 / 3,4 / B 617",
+      "五 / 3,4 / B 617"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "S0439",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "線性代數",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "三 / 9 / B 117"
     ]
   },
@@ -30413,10 +31793,29 @@
     "group": "",
     "title": "物理化學 ◇雙語授課(中文/英文)",
     "cap": 120,
-    "teacher": "江昭龍,助教",
+    "teacher": "江昭龍",
     "times": [
       "三 / 3,4 / E 401",
-      "四 / 9 / E 305",
+      "四 / 9 / E 305"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TEDXB.化材系（日） DEPARTMENT OF CHEMICAL AND MATERIALS ENGINEERING",
+    "grade": "2",
+    "seq": null,
+    "code": "S0143",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "物理化學",
+    "cap": 120,
+    "teacher": "助教",
+    "times": [
       "四 / 10 / E 305"
     ]
   },
@@ -30435,10 +31834,29 @@
     "group": "",
     "title": "物理化學 ◇雙語授課(中文/英文)",
     "cap": 120,
-    "teacher": "廖淑娟,助教",
+    "teacher": "廖淑娟",
     "times": [
       "一 / 9,10 / E 411",
-      "二 / 9 / E 401",
+      "二 / 9 / E 401"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TEDXB.化材系（日） DEPARTMENT OF CHEMICAL AND MATERIALS ENGINEERING",
+    "grade": "2",
+    "seq": null,
+    "code": "S0143",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "物理化學",
+    "cap": 120,
+    "teacher": "助教",
+    "times": [
       "二 / 10 / E 401"
     ]
   },
@@ -31643,10 +33061,29 @@
     "group": "",
     "title": "人工智慧概論 ◇雙語授課(中文/英文)",
     "cap": 60,
-    "teacher": "陳子家,助教",
+    "teacher": "陳子家",
     "times": [
       "三 / 4 / E 813",
-      "四 / 9,10 / E 302",
+      "四 / 9,10 / E 302"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "M0008",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "人工智慧概論",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
       "二 / 6 / E 314"
     ]
   },
@@ -31665,10 +33102,29 @@
     "group": "",
     "title": "人工智慧概論 ◇雙語授課(中文/英文)",
     "cap": 60,
-    "teacher": "陳子家,助教",
+    "teacher": "陳子家",
     "times": [
       "二 / 3,4 / E 310",
-      "四 / 4 / E 308",
+      "四 / 4 / E 308"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "M0008",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "人工智慧概論",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
       "三 / 6 / E 314"
     ]
   },
@@ -31687,10 +33143,29 @@
     "group": "",
     "title": "微積分 A,C班 ◇雙語授課(中文/英文)",
     "cap": 160,
-    "teacher": "秦御庭,助教",
+    "teacher": "秦御庭",
     "times": [
       "二 / 3,4 / E 411",
-      "四 / 6 / E 514",
+      "四 / 6 / E 514"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "微積分 A,C班",
+    "cap": 160,
+    "teacher": "助教",
+    "times": [
       "一 / 8 / G 315"
     ]
   },
@@ -31709,10 +33184,29 @@
     "group": "",
     "title": "微積分 A,C班 ◇雙語授課(中文/英文)",
     "cap": 160,
-    "teacher": "秦御庭,助教",
+    "teacher": "秦御庭",
     "times": [
       "二 / 3,4 / E 411",
-      "四 / 6 / E 514",
+      "四 / 6 / E 514"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "微積分 A,C班",
+    "cap": 160,
+    "teacher": "助教",
+    "times": [
       "四 / 9 / G 315"
     ]
   },
@@ -31731,10 +33225,29 @@
     "group": "",
     "title": "資料結構 ◇雙語授課(中文/英文)",
     "cap": 175,
-    "teacher": "嚴建和,助教",
+    "teacher": "嚴建和",
     "times": [
       "三 / 1 / E 813",
-      "四 / 6,7 / E 409",
+      "四 / 6,7 / E 409"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "E0650",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "資料結構",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
       "四 / 2 / E 512"
     ]
   },
@@ -31753,10 +33266,29 @@
     "group": "",
     "title": "資料結構 ◇雙語授課(中文/英文)",
     "cap": 175,
-    "teacher": "嚴建和,助教",
+    "teacher": "嚴建和",
     "times": [
       "二 / 6 / E 404",
-      "四 / 1,2 / E 311",
+      "四 / 1,2 / E 311"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "E0650",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "資料結構",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
       "二 / 7 / E 413"
     ]
   },
@@ -31816,9 +33348,28 @@
     "group": "",
     "title": "統計學 ◇雙語授課(中文/英文)",
     "cap": 175,
-    "teacher": "黃彥鈞,助教",
+    "teacher": "黃彥鈞",
     "times": [
-      "三 / 9,10 / E 310",
+      "三 / 9,10 / E 310"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
       "四 / 10 / E 311"
     ]
   },
@@ -31837,9 +33388,28 @@
     "group": "",
     "title": "統計學 ◇雙語授課(中文/英文)",
     "cap": 175,
-    "teacher": "黃彥鈞,助教",
+    "teacher": "黃彥鈞",
     "times": [
-      "一 / 9,10 / E 312",
+      "一 / 9,10 / E 312"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
       "三 / 10 / E 508"
     ]
   },
@@ -31858,10 +33428,29 @@
     "group": "",
     "title": "深度學習 ◇雙語授課(中文/英文)",
     "cap": 63,
-    "teacher": "游國忠,助教",
+    "teacher": "游國忠",
     "times": [
       "二 / 9 / T 005a",
-      "四 / 2,3 / T 005a",
+      "四 / 2,3 / T 005a"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "3",
+    "seq": null,
+    "code": "E3670",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "深度學習",
+    "cap": 63,
+    "teacher": "助教",
+    "times": [
       "二 / 10 / T 005a"
     ]
   },
@@ -31880,9 +33469,28 @@
     "group": "",
     "title": "微積分 ◇雙語授課(中文/英文)",
     "cap": 80,
-    "teacher": "陳虹吟,助教",
+    "teacher": "陳虹吟",
     "times": [
-      "四 / 6,7 / B 607",
+      "四 / 6,7 / B 607"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "二 / 5 / B 427"
     ]
   },
@@ -31921,10 +33529,29 @@
     "group": "",
     "title": "成本與管理會計 先修科目為會計學進階(40分以上)，需同時選修同一班級的習作課程 ◇雙語授課(中文/英文)",
     "cap": 80,
-    "teacher": "史雅男,助教",
+    "teacher": "史雅男",
     "times": [
       "一 / 8,9 / B 703",
-      "三 / 6,7 / B 702",
+      "三 / 6,7 / B 702"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "3",
+    "seq": null,
+    "code": "M1148",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "成本與管理會計 先修科目為會計學進階(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "二 / 6 / B 509"
     ]
   },
@@ -31943,10 +33570,29 @@
     "group": "",
     "title": "成本與管理會計 先修科目為會計學進階(40分以上)，需同時選修同一班級的習作課程 ◇雙語授課(中文/英文)",
     "cap": 80,
-    "teacher": "陳慧玲,助教",
+    "teacher": "陳慧玲",
     "times": [
       "二 / 6,7 / B 606",
-      "三 / 6,7 / B 509",
+      "三 / 6,7 / B 509"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "3",
+    "seq": null,
+    "code": "M1148",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "成本與管理會計 先修科目為會計學進階(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "二 / 8 / B 606"
     ]
   },
@@ -31965,9 +33611,28 @@
     "group": "",
     "title": "高級會計學 先修科目為中級會計學下學期(40分以上)，需同時選修同一班級的習作課程 ◇雙語授課(中文/英文)",
     "cap": 80,
-    "teacher": "張嘉文,助教",
+    "teacher": "張嘉文",
     "times": [
-      "五 / 2,3,4 / B 604",
+      "五 / 2,3,4 / B 604"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "3",
+    "seq": null,
+    "code": "M2110",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "高級會計學 先修科目為中級會計學下學期(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "二 / 1 / B 119"
     ]
   },
@@ -31986,9 +33651,28 @@
     "group": "",
     "title": "審計學 先修科目為審計學上學期(40分以上)，需同時選修同一班級的習作課程 ◇雙語授課(中文/英文)",
     "cap": 80,
-    "teacher": "華浤安,助教",
+    "teacher": "華浤安",
     "times": [
-      "三 / 8,9,10 / B 701",
+      "三 / 8,9,10 / B 701"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "4",
+    "seq": null,
+    "code": "M0414",
+    "major": null,
+    "term_order": "2",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "審計學 先修科目為審計學上學期(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
       "四 / 1 / B 312"
     ]
   },
@@ -32027,9 +33711,28 @@
     "group": "",
     "title": "會計學 ◇雙語授課(中文/英文)",
     "cap": 110,
-    "teacher": "黃詩婷,助教",
+    "teacher": "黃詩婷",
     "times": [
-      "二 / 5,6 / B 607",
+      "二 / 5,6 / B 607"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
       "五 / 7 / B 312"
     ]
   },
@@ -32128,9 +33831,28 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 限本班生 ◇雙語授課(中文/英文)",
     "cap": 70,
-    "teacher": "張應華,助教",
+    "teacher": "張應華",
     "times": [
-      "四 / 3,4 / B 216",
+      "四 / 3,4 / B 216"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 限本班生",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "三 / 1 / B 216"
     ]
   },
@@ -32149,10 +33871,29 @@
     "group": "",
     "title": "程式設計與資料結構 限本班生，有擋修 ◇雙語授課(中文/英文)",
     "cap": 70,
-    "teacher": "林仁祥,助教",
+    "teacher": "林仁祥",
     "times": [
       "五 / 6 / B 204",
-      "五 / 9,10 / B 204",
+      "五 / 9,10 / B 204"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
+    "seq": null,
+    "code": "M1326",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "程式設計與資料結構 限本班生，有擋修",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "一 / 3 / B 204"
     ]
   },
@@ -32880,9 +34621,28 @@
     "group": "",
     "title": "西班牙語聽力與發音(一) ◇雙語授課(中文/西語)",
     "cap": "",
-    "teacher": "何萬儀,助教",
+    "teacher": "何萬儀",
     "times": [
-      "五 / 6,7 / T 601",
+      "五 / 6,7 / T 601"
+    ]
+  },
+  {
+    "source": "F10.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1632",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "西班牙語聽力與發音(一)",
+    "cap": "",
+    "teacher": "助教",
+    "times": [
       "一 / 2 / V 201"
     ]
   },
@@ -32901,9 +34661,28 @@
     "group": "",
     "title": "西班牙語聽力與發音(一) ◇雙語授課(中文/西語)",
     "cap": "",
-    "teacher": "何萬儀,助教",
+    "teacher": "何萬儀",
     "times": [
-      "五 / 3,4 / T 601",
+      "五 / 3,4 / T 601"
+    ]
+  },
+  {
+    "source": "F10.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1632",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "西班牙語聽力與發音(一)",
+    "cap": "",
+    "teacher": "助教",
+    "times": [
       "一 / 8 / V 201"
     ]
   },
@@ -32922,9 +34701,28 @@
     "group": "",
     "title": "西班牙語聽力與發音(一) ◇雙語授課(中文/西語)",
     "cap": "",
-    "teacher": "戴毓芬,助教",
+    "teacher": "戴毓芬",
     "times": [
-      "一 / 3,4 / L 407",
+      "一 / 3,4 / L 407"
+    ]
+  },
+  {
+    "source": "F10.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1632",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "西班牙語聽力與發音(一)",
+    "cap": "",
+    "teacher": "助教",
+    "times": [
       "一 / 7 / V 201"
     ]
   },
@@ -33165,9 +34963,28 @@
     "group": "",
     "title": "俄語語言練習（一） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
     "cap": 5,
-    "teacher": "史薇塔,助教",
+    "teacher": "史薇塔",
     "times": [
-      "二 / 3,4 / L 407",
+      "二 / 3,4 / L 407"
+    ]
+  },
+  {
+    "source": "F11.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1602",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（一） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
       "一 / 5 / T 211"
     ]
   },
@@ -33186,9 +35003,28 @@
     "group": "",
     "title": "俄語語言練習（一） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
     "cap": 5,
-    "teacher": "史薇塔,助教",
+    "teacher": "史薇塔",
     "times": [
-      "二 / 7,8 / L 407",
+      "二 / 7,8 / L 407"
+    ]
+  },
+  {
+    "source": "F11.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1602",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（一） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
       "四 / 6 / L 106"
     ]
   },
@@ -33247,9 +35083,28 @@
     "group": "",
     "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
     "cap": 5,
-    "teacher": "龔雅雪,助教",
+    "teacher": "龔雅雪",
     "times": [
-      "四 / 1,2 / L 406",
+      "四 / 1,2 / L 406"
+    ]
+  },
+  {
+    "source": "F11.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "2",
+    "seq": null,
+    "code": "F1603",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
       "四 / 5 / L 106"
     ]
   },
@@ -33268,9 +35123,28 @@
     "group": "",
     "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
     "cap": 5,
-    "teacher": "龔雅雪,助教",
+    "teacher": "龔雅雪",
     "times": [
-      "五 / 3,4 / L 406",
+      "五 / 3,4 / L 406"
+    ]
+  },
+  {
+    "source": "F11.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "2",
+    "seq": null,
+    "code": "F1603",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
       "四 / 5 / L 106"
     ]
   },
@@ -34936,10 +36810,29 @@
     "group": "",
     "title": "資料結構 ◇以實整虛課程",
     "cap": 85,
-    "teacher": "王英宏,助教",
+    "teacher": "王英宏",
     "times": [
       "二 / 6 / E 311",
-      "四 / 2,3 / E 411",
+      "四 / 2,3 / E 411"
+    ]
+  },
+  {
+    "source": "S01.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "2",
+    "seq": null,
+    "code": "E0650",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "資料結構",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
       "四 / 1 / E 411"
     ]
   },
@@ -34979,10 +36872,29 @@
     "group": "",
     "title": "網路概論 ◇以實整虛課程",
     "cap": 85,
-    "teacher": "陳啓禎,助教",
+    "teacher": "陳啓禎",
     "times": [
       "一 / 6 / E 402",
-      "四 / 3,4 / E 830",
+      "四 / 3,4 / E 830"
+    ]
+  },
+  {
+    "source": "S01.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "3",
+    "seq": null,
+    "code": "E1039",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "網路概論",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
       "四 / 2 / E 813"
     ]
   },
@@ -35264,9 +37176,28 @@
     "group": "",
     "title": "作業系統 限本班生 ◇以實整虛課程",
     "cap": 75,
-    "teacher": "魏世杰,助教",
+    "teacher": "魏世杰",
     "times": [
-      "二 / 6,7 / B 513",
+      "二 / 6,7 / B 513"
+    ]
+  },
+  {
+    "source": "S01.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
+    "seq": null,
+    "code": "E0175",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "作業系統 限本班生",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
       "三 / 2 / B 427"
     ]
   },
@@ -35285,10 +37216,29 @@
     "group": "",
     "title": "系統分析與設計 ◇以實整虛課程",
     "cap": 75,
-    "teacher": "游佳萍,助教",
+    "teacher": "游佳萍",
     "times": [
       "二 / 6,7 / B 602",
-      "四 / 1 / B 501",
+      "四 / 1 / B 501"
+    ]
+  },
+  {
+    "source": "S01.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "3",
+    "seq": null,
+    "code": "M0171",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "系統分析與設計",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
       "二 / 9 / B 508"
     ]
   },
@@ -35307,10 +37257,29 @@
     "group": "",
     "title": "系統分析與設計 ◇以實整虛課程",
     "cap": 75,
-    "teacher": "游佳萍,助教",
+    "teacher": "游佳萍",
     "times": [
       "二 / 3,4 / B 601",
-      "四 / 2 / B 501",
+      "四 / 2 / B 501"
+    ]
+  },
+  {
+    "source": "S01.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "3",
+    "seq": null,
+    "code": "M0171",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "系統分析與設計",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
       "一 / 9 / B 515"
     ]
   },
@@ -46269,6 +48238,46 @@
   {
     "source": "TEDXB.htm",
     "dept_block": "TEDXB.化材系（日） DEPARTMENT OF CHEMICAL AND MATERIALS ENGINEERING",
+    "grade": "2",
+    "seq": null,
+    "code": "S0143",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "物理化學",
+    "cap": 120,
+    "teacher": "助教",
+    "times": [
+      "四 / 10 / E 305"
+    ]
+  },
+  {
+    "source": "TEDXB.htm",
+    "dept_block": "TEDXB.化材系（日） DEPARTMENT OF CHEMICAL AND MATERIALS ENGINEERING",
+    "grade": "2",
+    "seq": null,
+    "code": "S0143",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "物理化學",
+    "cap": 120,
+    "teacher": "助教",
+    "times": [
+      "二 / 10 / E 401"
+    ]
+  },
+  {
+    "source": "TEDXB.htm",
+    "dept_block": "TEDXB.化材系（日） DEPARTMENT OF CHEMICAL AND MATERIALS ENGINEERING",
     "grade": "3",
     "seq": "0569",
     "code": "E0080",
@@ -47623,6 +49632,26 @@
     "source": "TEIXB.htm",
     "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
     "grade": "2",
+    "seq": null,
+    "code": "E0650",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "資料結構",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
+      "四 / 1 / E 411"
+    ]
+  },
+  {
+    "source": "TEIXB.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "2",
     "seq": "0654",
     "code": "E0650",
     "major": null,
@@ -48108,6 +50137,26 @@
     "source": "TEIXB.htm",
     "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
     "grade": "3",
+    "seq": null,
+    "code": "E1039",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "網路概論",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
+      "四 / 2 / E 813"
+    ]
+  },
+  {
+    "source": "TEIXB.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "3",
     "seq": "0679",
     "code": "E3084",
     "major": null,
@@ -48243,6 +50292,46 @@
     "times": [
       "一 / 3,4 / E 514",
       "二 / 2 / E 411"
+    ]
+  },
+  {
+    "source": "TEIXB.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "3",
+    "seq": null,
+    "code": "E3965",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "機器學習數學 資工系同學需線性代數達40分(含)以上者始得修習",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
+      "五 / 7 / E 515"
+    ]
+  },
+  {
+    "source": "TEIXB.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "3",
+    "seq": null,
+    "code": "E3965",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "機器學習數學 資工系同學需線性代數達40分(含)以上者始得修習",
+    "cap": 85,
+    "teacher": "助教",
+    "times": [
+      "二 / 4 / E 513"
     ]
   },
   {
@@ -58457,6 +60546,246 @@
     "source": "TFLXB.htm",
     "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
     "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "AA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "二 / 10 / T 211"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "AB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "四 / 10 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "BA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "五 / 6 / T 211"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "BB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "二 / 10 / T 211"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "CA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "四 / 10 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "CB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 A3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "五 / 6 / T 211"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "DA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "二 / 1 / V 201"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "DB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "二 / 2 / V 201"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "EA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 8 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "EB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "二 / 1 / V 201"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "FA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "二 / 2 / V 201"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
+    "seq": null,
+    "code": "A0529",
+    "major": null,
+    "term_order": "1",
+    "class": "FB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語會話 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 8 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
     "seq": "1182",
     "code": "T9607",
     "major": null,
@@ -58531,6 +60860,246 @@
     "teacher": "徐建中",
     "times": [
       "一 / 1,2 / T 311"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "AA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 2 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "AB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "四 / 2 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "BA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A2,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "五 / 4 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "BB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A2,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 2 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "CA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A3,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "四 / 2 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "CB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 A3,限本系",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "五 / 4 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "DA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 9 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "DB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B1,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "四 / 8 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "EA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "五 / 3 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "EB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B2,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "三 / 9 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "FA",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "四 / 8 / V 102"
+    ]
+  },
+  {
+    "source": "TFLXB.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": null,
+    "code": "F0101",
+    "major": null,
+    "term_order": "1",
+    "class": "FB",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英語口語表達 B3,限本系生",
+    "cap": 22,
+    "teacher": "助教",
+    "times": [
+      "五 / 3 / V 102"
     ]
   },
   {
@@ -60526,6 +63095,66 @@
     "source": "TFOSB.htm",
     "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
+    "seq": null,
+    "code": "F1632",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "西班牙語聽力與發音(一)",
+    "cap": "",
+    "teacher": "助教",
+    "times": [
+      "一 / 2 / V 201"
+    ]
+  },
+  {
+    "source": "TFOSB.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1632",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "西班牙語聽力與發音(一)",
+    "cap": "",
+    "teacher": "助教",
+    "times": [
+      "一 / 8 / V 201"
+    ]
+  },
+  {
+    "source": "TFOSB.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1632",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "西班牙語聽力與發音(一)",
+    "cap": "",
+    "teacher": "助教",
+    "times": [
+      "一 / 7 / V 201"
+    ]
+  },
+  {
+    "source": "TFOSB.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
     "seq": "1363",
     "code": "T9607",
     "major": null,
@@ -60932,6 +63561,46 @@
     "source": "TFOUB.htm",
     "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
+    "seq": null,
+    "code": "F1602",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（一） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
+      "一 / 5 / T 211"
+    ]
+  },
+  {
+    "source": "TFOUB.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
+    "seq": null,
+    "code": "F1602",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（一） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
+      "四 / 6 / L 106"
+    ]
+  },
+  {
+    "source": "TFOUB.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "1",
     "seq": "1413",
     "code": "F1620",
     "major": null,
@@ -61050,6 +63719,46 @@
     "times": [
       "四 / 6,7 / T 704",
       "五 / 6 / T 505"
+    ]
+  },
+  {
+    "source": "TFOUB.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "2",
+    "seq": null,
+    "code": "F1603",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
+      "四 / 5 / L 106"
+    ]
+  },
+  {
+    "source": "TFOUB.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "2",
+    "seq": null,
+    "code": "F1603",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
+    "cap": 5,
+    "teacher": "助教",
+    "times": [
+      "四 / 5 / L 106"
     ]
   },
   {
@@ -61383,6 +64092,46 @@
     "source": "TKFXB.htm",
     "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
     "grade": "1",
+    "seq": null,
+    "code": "M0008",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "人工智慧概論",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
+      "二 / 6 / E 314"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "M0008",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "人工智慧概論",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
+      "三 / 6 / E 314"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
     "seq": "1699",
     "code": "M0008",
     "major": null,
@@ -61405,6 +64154,26 @@
     "source": "TKFXB.htm",
     "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
     "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "微積分 A,C班",
+    "cap": 160,
+    "teacher": "助教",
+    "times": [
+      "一 / 8 / G 315"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
     "seq": "1701",
     "code": "S0325",
     "major": null,
@@ -61420,6 +64189,26 @@
     "times": [
       "三 / 2,3,4 / C 001",
       "三 / 9 / E 404"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "微積分 A,C班",
+    "cap": 160,
+    "teacher": "助教",
+    "times": [
+      "四 / 9 / G 315"
     ]
   },
   {
@@ -61636,6 +64425,26 @@
     "source": "TKFXB.htm",
     "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
     "grade": "2",
+    "seq": null,
+    "code": "E0650",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "資料結構",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
+      "四 / 2 / E 512"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
     "seq": "1723",
     "code": "E0650",
     "major": null,
@@ -61652,6 +64461,26 @@
       "三 / 7,8 / E 410",
       "四 / 9 / E 509",
       "四 / 8 / E 411"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "E0650",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "資料結構",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
+      "二 / 7 / E 413"
     ]
   },
   {
@@ -61886,6 +64715,46 @@
     "source": "TKFXB.htm",
     "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
     "grade": "2",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
+      "四 / 10 / E 311"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 175,
+    "teacher": "助教",
+    "times": [
+      "三 / 10 / E 508"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "2",
     "seq": "1741",
     "code": "M0517",
     "major": null,
@@ -61943,6 +64812,26 @@
       "一 / 6 / T 005a",
       "一 / 9,10 / T 005a",
       "三 / 6 / T 005a"
+    ]
+  },
+  {
+    "source": "TKFXB.htm",
+    "dept_block": "TKFXB.ＡＩ系（日） DEPARTMENT OF ARTIFICIAL INTELLIGENCE",
+    "grade": "3",
+    "seq": null,
+    "code": "E3670",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "深度學習",
+    "cap": 63,
+    "teacher": "助教",
+    "times": [
+      "二 / 10 / T 005a"
     ]
   },
   {
@@ -62378,6 +65267,26 @@
     "source": "TLAXB.htm",
     "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
     "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "一 / 2 / B 708"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
     "seq": "1774",
     "code": "E4346",
     "major": null,
@@ -62414,6 +65323,46 @@
     "times": [
       "五 / 6,7 / T 310",
       "三 / 5 / L 110"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "四 / 5 / B 204"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "四 / 5 / B 218"
     ]
   },
   {
@@ -62582,6 +65531,26 @@
     "teacher": "郭樂平",
     "times": [
       "二 / 4 / B 606"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "二 / 5 / B 427"
     ]
   },
   {
@@ -63380,6 +66349,26 @@
     "source": "TLAXB.htm",
     "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
     "grade": "3",
+    "seq": null,
+    "code": "M1148",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "成本與管理會計 先修科目為會計學進階(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "二 / 6 / B 509"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "3",
     "seq": "1839",
     "code": "M1148",
     "major": null,
@@ -63396,6 +66385,26 @@
       "二 / 6,7 / B 703",
       "三 / 3,4 / L 201",
       "一 / 9 / B 110"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "3",
+    "seq": null,
+    "code": "M1148",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 4,
+    "group": "",
+    "title": "成本與管理會計 先修科目為會計學進階(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "二 / 8 / B 606"
     ]
   },
   {
@@ -63480,6 +66489,26 @@
     "times": [
       "二 / 8,9,10 / B 703",
       "五 / 1 / B 601"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "3",
+    "seq": null,
+    "code": "M2110",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "高級會計學 先修科目為中級會計學下學期(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "二 / 1 / B 119"
     ]
   },
   {
@@ -63805,6 +66834,26 @@
       "三 / 8 / B 501",
       "四 / 7,8 / B 701",
       "一 / 7 / L 304"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "4",
+    "seq": null,
+    "code": "M0414",
+    "major": null,
+    "term_order": "2",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "審計學 先修科目為審計學上學期(40分以上)，需同時選修同一班級的習作課程",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "四 / 1 / B 312"
     ]
   },
   {
@@ -64226,6 +67275,106 @@
     "teacher": "張瑀珊",
     "times": [
       "日 / 1 /"
+    ]
+  },
+  {
+    "source": "TLBAB.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
+      "四 / 4 / B 706"
+    ]
+  },
+  {
+    "source": "TLBAB.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "四 / 5 / B 130"
+    ]
+  },
+  {
+    "source": "TLBAB.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 90,
+    "teacher": "助教",
+    "times": [
+      "五 / 3 / B 701"
+    ]
+  },
+  {
+    "source": "TLBAB.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
+      "二 / 5 / B 312"
+    ]
+  },
+  {
+    "source": "TLBAB.htm",
+    "dept_block": "TLBAB.財金系財管英語班 DEPARTMENT OF BANKING AND FINANCE DIVISION OF GLOBAL FINANCIAL MANAGEMENT (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "五 / 8 / B 614"
     ]
   },
   {
@@ -66482,6 +69631,106 @@
     ]
   },
   {
+    "source": "TLCAB.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
+      "五 / 6 / B 703"
+    ]
+  },
+  {
+    "source": "TLCAB.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "四 / 10 / B 130"
+    ]
+  },
+  {
+    "source": "TLCAB.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 90,
+    "teacher": "助教",
+    "times": [
+      "四 / 2 / B 117"
+    ]
+  },
+  {
+    "source": "TLCAB.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
+      "三 / 2 / B 506"
+    ]
+  },
+  {
+    "source": "TLCAB.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "四 / 1 / B 506"
+    ]
+  },
+  {
     "source": "TLCXB.htm",
     "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
     "grade": "1",
@@ -66687,6 +69936,26 @@
     "times": [
       "二 / 1,2 / B 503",
       "一 / 6 / B 604"
+    ]
+  },
+  {
+    "source": "TLCXB.htm",
+    "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 110,
+    "teacher": "助教",
+    "times": [
+      "五 / 7 / B 312"
     ]
   },
   {
@@ -69957,6 +73226,146 @@
     ]
   },
   {
+    "source": "TLFBB.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
+      "三 / 5 / B 113"
+    ]
+  },
+  {
+    "source": "TLFBB.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 60,
+    "teacher": "助教",
+    "times": [
+      "四 / 5 / B 113"
+    ]
+  },
+  {
+    "source": "TLFBB.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學 a1",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "四 / 5 / B 606"
+    ]
+  },
+  {
+    "source": "TLFBB.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0517",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "統計學",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "二 / 5 / B 506"
+    ]
+  },
+  {
+    "source": "TLFBB.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學 a1",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "三 / 3 / B 617"
+    ]
+  },
+  {
+    "source": "TLFBB.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "三 / 5 / B 111"
+    ]
+  },
+  {
+    "source": "TLFBB.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": null,
+    "code": "S0325",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "微積分",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "五 / 8 / B 428"
+    ]
+  },
+  {
     "source": "TLFBJ.htm",
     "dept_block": "TLFBJ.國創碩專班 EXECUTIVE MASTER’S PROGRAM OF BUSINESS ADMINISTRATION (EMBA) IN INTERNATIONAL BUSINESS AND INNOVATION MANAGEMENT",
     "grade": "1",
@@ -71137,6 +74546,46 @@
     "source": "TLMXB.htm",
     "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
     "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 限本班生",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "四 / 6 / S 106"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 限本班生",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "三 / 1 / B 216"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "1",
     "seq": "2199",
     "code": "M0405",
     "major": null,
@@ -71387,6 +74836,46 @@
     "source": "TLMXB.htm",
     "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
     "grade": "2",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學 限本班生",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
+      "四 / 2 / B 601"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學 限本班生",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
+      "五 / 7 / B 512"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
     "seq": "2228",
     "code": "E0175",
     "major": null,
@@ -71429,6 +74918,26 @@
     "source": "TLMXB.htm",
     "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
     "grade": "2",
+    "seq": null,
+    "code": "E0175",
+    "major": null,
+    "term_order": "0",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "作業系統 限本班生",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
+      "三 / 2 / B 427"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
     "seq": "2231",
     "code": "M0490",
     "major": null,
@@ -71450,6 +74959,46 @@
     "source": "TLMXB.htm",
     "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
     "grade": "2",
+    "seq": null,
+    "code": "M1326",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "程式設計與資料結構 限本班生，有擋修",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "一 / 3 / B 204"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
+    "seq": null,
+    "code": "M1326",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "程式設計與資料結構 限本班生，有擋修",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "三 / 7 / B 130"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "2",
     "seq": "2237",
     "code": "M1606",
     "major": null,
@@ -71464,6 +75013,46 @@
     "teacher": "李志偉",
     "times": [
       "五 / 9,10 / B 512"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "3",
+    "seq": null,
+    "code": "M0171",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "系統分析與設計",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
+      "二 / 9 / B 508"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "3",
+    "seq": null,
+    "code": "M0171",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "系統分析與設計",
+    "cap": 75,
+    "teacher": "助教",
+    "times": [
+      "一 / 9 / B 515"
     ]
   },
   {
@@ -72193,6 +75782,46 @@
     "teacher": "黃麗夏",
     "times": [
       "二 / 1,2 / B 607"
+    ]
+  },
+  {
+    "source": "TLOXB.htm",
+    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "二 / 5 / B 216"
+    ]
+  },
+  {
+    "source": "TLOXB.htm",
+    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 A、B合班",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "一 / 5 / B 217"
     ]
   },
   {
@@ -73089,6 +76718,46 @@
     "teacher": "何佳玲",
     "times": [
       "日 / 1 /"
+    ]
+  },
+  {
+    "source": "TLPXB.htm",
+    "dept_block": "TLPXB.公行系（日） DEPARTMENT OF PUBLIC ADMINISTRATION",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "五 / 5 / B 216"
+    ]
+  },
+  {
+    "source": "TLPXB.htm",
+    "dept_block": "TLPXB.公行系（日） DEPARTMENT OF PUBLIC ADMINISTRATION",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "二 / 8 / B 216"
     ]
   },
   {
@@ -82892,6 +86561,46 @@
     "source": "ULSXB.htm",
     "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
     "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "一 / 8 / B 216"
+    ]
+  },
+  {
+    "source": "ULSXB.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "四 / 1 / B 218"
+    ]
+  },
+  {
+    "source": "ULSXB.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "1",
     "seq": "3108",
     "code": "M0405",
     "major": null,
@@ -83261,6 +86970,26 @@
     "times": [
       "一 / 6,7 / B 516",
       "三 / 10 / B 117"
+    ]
+  },
+  {
+    "source": "ULSXB.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "2",
+    "seq": null,
+    "code": "S0439",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "線性代數",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "三 / 9 / B 117"
     ]
   },
   {
