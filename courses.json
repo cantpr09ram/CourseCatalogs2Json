@@ -34163,6 +34163,66 @@
     ]
   },
   {
+    "source": "F04.htm",
+    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "2",
+    "seq": "1284",
+    "code": "F1086",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "法文朗誦 限完成本組大一專業課程之本組生及修讀本組雙主修生 ◇雙語授課(中文/法文)",
+    "cap": 80,
+    "teacher": "廖潤珮",
+    "times": [
+      "二 / 3,4 / L 416"
+    ]
+  },
+  {
+    "source": "F04.htm",
+    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "3",
+    "seq": "1294",
+    "code": "A0906",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "法國電影與文學 ◇雙語授課(中文/法文)",
+    "cap": 175,
+    "teacher": "奧雷利安．羅",
+    "times": [
+      "一 / 6,7 / T 506"
+    ]
+  },
+  {
+    "source": "F04.htm",
+    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "1307",
+    "code": "F0760",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "文學賞析與習作（二） ◇雙語授課(中文/法文)",
+    "cap": 60,
+    "teacher": "梁蓉",
+    "times": [
+      "一 / 6,7 / T 606"
+    ]
+  },
+  {
     "source": "F05.htm",
     "dept_block": "TFOGB.歐語系德文組 DIVISION OF GERMAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "3",
@@ -37482,7 +37542,7 @@
     "cap": 15,
     "teacher": "林穎佑",
     "times": [
-      "三 / 11,12,13 / D 301"
+      "三 / 11,12,13 / D 307"
     ]
   },
   {
@@ -59598,7 +59658,7 @@
     "cap": 25,
     "teacher": "吳瓊怡",
     "times": [
-      "三 / 6,7 / H 117"
+      "三 / 6,7 / H 115"
     ]
   },
   {
@@ -59658,7 +59718,7 @@
     "cap": 25,
     "teacher": "吳瓊怡",
     "times": [
-      "三 / 8,9 / H 117"
+      "三 / 8,9 / H 115"
     ]
   },
   {
@@ -61989,26 +62049,6 @@
     "source": "TFOAB.htm",
     "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "2",
-    "seq": "1284",
-    "code": "F1086",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法文朗誦 限完成本組大一專業課程之本組生及修讀本組雙主修生",
-    "cap": 80,
-    "teacher": "廖潤珮",
-    "times": [
-      "二 / 3,4 / L 416"
-    ]
-  },
-  {
-    "source": "TFOAB.htm",
-    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "2",
     "seq": "1285",
     "code": "F1606",
     "major": null,
@@ -62163,26 +62203,6 @@
     "teacher": "廖潤珮",
     "times": [
       "二 / 8,9 / T 406"
-    ]
-  },
-  {
-    "source": "TFOAB.htm",
-    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "3",
-    "seq": "1294",
-    "code": "A0906",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國電影與文學",
-    "cap": 175,
-    "teacher": "奧雷利安．羅",
-    "times": [
-      "一 / 6,7 / T 506"
     ]
   },
   {
@@ -62403,26 +62423,6 @@
     "teacher": "康鈺珮",
     "times": [
       "四 / 1,2 / L 416"
-    ]
-  },
-  {
-    "source": "TFOAB.htm",
-    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "4",
-    "seq": "1307",
-    "code": "F0760",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "文學賞析與習作（二）",
-    "cap": 60,
-    "teacher": "梁蓉",
-    "times": [
-      "一 / 6,7 / T 606"
     ]
   },
   {
