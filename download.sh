@@ -23,7 +23,7 @@ code="${school_year}${semester}"
 
 # 顯示結果
 echo "current date: ${year}年${month}月"
-echo "cueernt semester: ${code}"
+echo "current semester: ${code}"
 
 url="https://esquery.tku.edu.tw/acad/upload/${code}CLASS.RAR"
 rar_path="file.rar"
