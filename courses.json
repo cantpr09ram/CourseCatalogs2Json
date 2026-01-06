@@ -19380,7 +19380,7 @@
     "group": "",
     "title": "資機電產業趨勢 ◇講座課程",
     "cap": 140,
-    "teacher": "莊家維",
+    "teacher": "",
     "times": [
       "四 / 6,7 / E 787"
     ]
@@ -19499,9 +19499,9 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "數位製造技術 ◇全英語授課",
+    "title": "數位製造技術",
     "cap": 35,
-    "teacher": "",
+    "teacher": "李彥霆",
     "times": [
       "三 / 9,10 / E 101a"
     ]
@@ -21545,7 +21545,7 @@
     "credits": 2,
     "group": "",
     "title": "創意思解 遠距收播中原大學課程，教學計畫表請至遠距中心網頁查詢 ◇遠距收播外校課程",
-    "cap": 30,
+    "cap": 20,
     "teacher": "廖慶榮",
     "times": [
       "/ /"
@@ -23411,7 +23411,7 @@
     "credits": 2,
     "group": "",
     "title": "當代政治思潮 初選第一階段限本系3年級(含輔、雙主修公行系學生)90個名額優先選課。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": 80,
     "teacher": "黃琛瑜",
     "times": [
       "五 / 1,2 / B 515"
@@ -23431,7 +23431,7 @@
     "credits": 2,
     "group": "",
     "title": "英國治理與政策 初選第一階段限本系3年級(含輔、雙主修公行系學生)90個名額優先選課。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": 80,
     "teacher": "黃琛瑜",
     "times": [
       "五 / 5,6 / B 616"
@@ -24036,46 +24036,6 @@
     "teacher": "王鈺詞",
     "times": [
       "二 / 6,7,8 / E 232"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "1",
-    "seq": "8082",
-    "code": "E4384",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "機器動力學 ◇全英語授課",
-    "cap": "",
-    "teacher": "莊家維",
-    "times": [
-      "二 / 2,3,4 / E 811"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "1",
-    "seq": "8526",
-    "code": "E4509",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "機器人系統力學與控制 ◇全英語授課",
-    "cap": 10,
-    "teacher": "",
-    "times": [
-      "一 / 2,3,4 / E 510"
     ]
   },
   {
@@ -24729,7 +24689,7 @@
     "cap": 110,
     "teacher": "洪復一",
     "times": [
-      "三 / 8,9 / E 401"
+      "四 / 8,9 / E 409"
     ]
   },
   {
@@ -25632,7 +25592,7 @@
     "cap": 22,
     "teacher": "錢欽昭",
     "times": [
-      "三 / 7,8 / H 112"
+      "三 / 7,8 / B 115"
     ]
   },
   {
@@ -25672,7 +25632,7 @@
     "cap": 22,
     "teacher": "錢欽昭",
     "times": [
-      "三 / 7,8 / H 112"
+      "三 / 7,8 / B 115"
     ]
   },
   {
@@ -31972,67 +31932,6 @@
   },
   {
     "source": "F02.htm",
-    "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "1",
-    "seq": "3166",
-    "code": "E0595",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "程式語言 ◇雙語授課(中文/英文)",
-    "cap": 70,
-    "teacher": "",
-    "times": [
-      "一 / 1 / B 204",
-      "二 / 1,2 / B 204"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "3",
-    "seq": "0427",
-    "code": "E3342",
-    "major": "A",
-    "term_order": "0",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "光機電整合實驗（二） A2，原光機電整合組 ◇雙語授課(中文/英文)",
-    "cap": "",
-    "teacher": "待聘專任",
-    "times": [
-      "二 / 6,7,8 / G 306"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "3",
-    "seq": "0429",
-    "code": "E3345",
-    "major": "B",
-    "term_order": "0",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "精密機械實驗（二） A2,原精密機械組 ◇雙語授課(中文/英文)",
-    "cap": "",
-    "teacher": "待聘專任",
-    "times": [
-      "五 / 8,9,10 / E 217"
-    ]
-  },
-  {
-    "source": "F02.htm",
     "dept_block": "TECXB.土木系（日） DEPARTMENT OF CIVIL ENGINEERING",
     "grade": "3",
     "seq": "0474",
@@ -34106,26 +34005,6 @@
     "teacher": "鄭培宇",
     "times": [
       "一 / 3,4 / C 423"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
-    "grade": "2",
-    "seq": "2359",
-    "code": "B0155",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "財務數學 ◇雙語授課(中文/英文)",
-    "cap": 120,
-    "teacher": "陳姿穎",
-    "times": [
-      "五 / 9,10 / B 509"
     ]
   },
   {
@@ -37283,26 +37162,6 @@
     "teacher": "陳麗華",
     "times": [
       "三 / 8,9,10 / ED 501"
-    ]
-  },
-  {
-    "source": "S01.htm",
-    "dept_block": "TDJXM.教設系碩班 MASTER’S PROGRAM, DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
-    "grade": "1",
-    "seq": "8053",
-    "code": "D0012",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "社會科學研究法 ◇以實整虛課程",
-    "cap": "",
-    "teacher": "潘慧玲",
-    "times": [
-      "三 / 7,8,9 / ED 404"
     ]
   },
   {
@@ -43293,6 +43152,26 @@
     "source": "TDJXM.htm",
     "dept_block": "TDJXM.教設系碩班 MASTER’S PROGRAM, DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
     "grade": "1",
+    "seq": "8053",
+    "code": "D0012",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "社會科學研究法",
+    "cap": "",
+    "teacher": "潘慧玲",
+    "times": [
+      "三 / 7,8,9 / ED 404"
+    ]
+  },
+  {
+    "source": "TDJXM.htm",
+    "dept_block": "TDJXM.教設系碩班 MASTER’S PROGRAM, DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
+    "grade": "1",
     "seq": "8054",
     "code": "D0896",
     "major": null,
@@ -45776,7 +45655,7 @@
     "group": "",
     "title": "工場實習 B2，限本班生",
     "cap": "",
-    "teacher": "莊家維",
+    "teacher": "葉豐輝",
     "times": [
       "五 / 6,7,8 / E 101"
     ]
@@ -46220,7 +46099,7 @@
     "group": "",
     "title": "機動學",
     "cap": 175,
-    "teacher": "莊家維",
+    "teacher": "",
     "times": [
       "二 / 8 / E 410",
       "四 / 8,9 / E 509"
@@ -46447,7 +46326,7 @@
     "group": "",
     "title": "電腦繪圖實作",
     "cap": 65,
-    "teacher": "莊家維",
+    "teacher": "周文成",
     "times": [
       "五 / 3 / E 214"
     ]
@@ -46487,7 +46366,7 @@
     "group": "",
     "title": "電腦繪圖實作",
     "cap": 65,
-    "teacher": "莊家維",
+    "teacher": "周文成",
     "times": [
       "五 / 1 / E 214"
     ]
@@ -46651,27 +46530,6 @@
     "times": [
       "三 / 4 / E 231",
       "三 / 6,7 / E 232"
-    ]
-  },
-  {
-    "source": "TEBXB.htm",
-    "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "3",
-    "seq": "0418",
-    "code": "E0710",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "電腦輔助設計",
-    "cap": 60,
-    "teacher": "周文成",
-    "times": [
-      "一 / 9,10 / E 236",
-      "三 / 10 / E 231"
     ]
   },
   {
@@ -46860,6 +46718,26 @@
     "source": "TEBXB.htm",
     "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
     "grade": "3",
+    "seq": "0427",
+    "code": "E3342",
+    "major": "A",
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "光機電整合實驗（二） A2，原光機電整合組",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "二 / 6,7,8 / G 306"
+    ]
+  },
+  {
+    "source": "TEBXB.htm",
+    "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
+    "grade": "3",
     "seq": "0428",
     "code": "E3345",
     "major": "B",
@@ -46874,6 +46752,26 @@
     "teacher": "王鈺詞",
     "times": [
       "二 / 2,3,4 / E 217"
+    ]
+  },
+  {
+    "source": "TEBXB.htm",
+    "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
+    "grade": "3",
+    "seq": "0429",
+    "code": "E3345",
+    "major": "B",
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "精密機械實驗（二） A2,原精密機械組",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "五 / 8,9,10 / E 217"
     ]
   },
   {
@@ -71311,7 +71209,7 @@
     "group": "",
     "title": "內控與稽核",
     "cap": 80,
-    "teacher": "徐瑋恩",
+    "teacher": "許瑋恩",
     "times": [
       "一 / 3,4 / L 302"
     ]
@@ -81911,26 +81809,6 @@
     "source": "TLOXB.htm",
     "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
     "grade": "2",
-    "seq": "2365",
-    "code": "B1464",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "保險行銷",
-    "cap": 120,
-    "teacher": "陳姿穎",
-    "times": [
-      "四 / 3,4 / Q 306"
-    ]
-  },
-  {
-    "source": "TLOXB.htm",
-    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
-    "grade": "2",
     "seq": "2366",
     "code": "M0142",
     "major": null,
@@ -82115,26 +81993,6 @@
     "source": "TLOXB.htm",
     "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
     "grade": "3",
-    "seq": "2372",
-    "code": "B0154",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "財務報表分析",
-    "cap": 120,
-    "teacher": "陳姿穎",
-    "times": [
-      "五 / 6,7 / B 609"
-    ]
-  },
-  {
-    "source": "TLOXB.htm",
-    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
-    "grade": "3",
     "seq": "2373",
     "code": "B0261",
     "major": null,
@@ -82309,7 +82167,7 @@
     "group": "",
     "title": "人身保險經營",
     "cap": 75,
-    "teacher": "陳姿穎",
+    "teacher": "黃麗夏",
     "times": [
       "一 / 3,4 / B 607"
     ]
@@ -82329,7 +82187,7 @@
     "group": "",
     "title": "人身保險經營",
     "cap": 75,
-    "teacher": "陳姿穎",
+    "teacher": "郝充仁",
     "times": [
       "一 / 7,8 / B 425"
     ]
@@ -82873,7 +82731,7 @@
     "credits": 3,
     "group": "",
     "title": "民法概要",
-    "cap": 100,
+    "cap": 80,
     "teacher": "林儹紘",
     "times": [
       "一 / 9,10 / B 615",
@@ -91010,7 +90868,7 @@
     "credits": 3,
     "group": "",
     "title": "天文學 原光電組課程。本課程為物理系專業課程",
-    "cap": 80,
+    "cap": 100,
     "teacher": "秦一男",
     "times": [
       "三 / 9,10,11 / S 104"
@@ -92471,6 +92329,26 @@
     "teacher": "黃谷臣",
     "times": [
       "三 / 5,6,7 / CL 506"
+    ]
+  },
+  {
+    "source": "TZIAM.htm",
+    "dept_block": "TZIAM.智護所照護組 MASTER’S PROGRAM, DIVISION OF INTELLIGENT HEALTHCARE, GRADUATE INSTITUTE OF INTELLIGENT HEALTHCARE INDUSTRY",
+    "grade": "1",
+    "seq": "0000",
+    "code": "Z1063",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "大語言模型與產業應用 ◇雙語授課(中文/英文)",
+    "cap": "",
+    "teacher": "梁原霖",
+    "times": [
+      "三 / 8,9 / CL 502"
     ]
   },
   {
