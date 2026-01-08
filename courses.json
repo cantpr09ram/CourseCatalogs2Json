@@ -14997,7 +14997,7 @@
     "group": "",
     "title": "男、女生體育－網球興趣班 網球場,雨備體育館地下1樓武術室 ◇全英語授課",
     "cap": 50,
-    "teacher": "",
+    "teacher": "趙曉雯",
     "times": [
       "三 / 9,10 /"
     ]
@@ -17900,26 +17900,6 @@
     "teacher": "黃谷臣",
     "times": [
       "二 / 3,4 / H 101"
-    ]
-  },
-  {
-    "source": "C01.htm",
-    "dept_block": "TNUXB.校共通課程－日 COMMON ELECTIVE COURSES",
-    "grade": "0",
-    "seq": "2848",
-    "code": "T3074",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "海洋科學與人文 ◇講座課程",
-    "cap": 175,
-    "teacher": "黃秉益",
-    "times": [
-      "四 / 3,4 / Q 409"
     ]
   },
   {
@@ -20907,8 +20887,8 @@
     "cap": "",
     "teacher": "趙慕芬,游佳萍",
     "times": [
-      "二 / 7 / Q 201",
-      "二 / 8,9 / T 407"
+      "二 / 7 / B 116",
+      "二 / 8,9 / B 116"
     ]
   },
   {
@@ -31477,7 +31457,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "大數據概論與應用 ◇以實整虛課程◇雙語授課(中文/英文)",
+    "title": "大數據概論與應用 淡江大學智慧人文實務創新學分學程 ◇以實整虛課程◇雙語授課(中文/英文)",
     "cap": 50,
     "teacher": "張嘉玲",
     "times": [
@@ -38006,7 +37986,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "圖書館史 限本系生",
+    "title": "圖書館史 限本系生；淡江大學智慧人文實務創新學分學程",
     "cap": 175,
     "teacher": "吳宇凡",
     "times": [
@@ -38026,7 +38006,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "出版傳播與書業",
+    "title": "出版傳播與書業 淡江大學智慧人文實務創新學分學程",
     "cap": 175,
     "teacher": "黃冠升",
     "times": [
@@ -38409,7 +38389,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "數位典藏與數位人文概論",
+    "title": "數位典藏與數位人文概論 淡江大學智慧人文實務創新學分學程",
     "cap": 75,
     "teacher": "梁鴻栩",
     "times": [
@@ -38509,7 +38489,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "資訊檢索",
+    "title": "資訊檢索 淡江大學智慧人文實務創新學分學程",
     "cap": 65,
     "teacher": "賴玲玲",
     "times": [
@@ -38529,7 +38509,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "資訊檢索",
+    "title": "資訊檢索 淡江大學智慧人文實務創新學分學程",
     "cap": 65,
     "teacher": "賴玲玲",
     "times": [
@@ -38609,7 +38589,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "政府資訊與出版",
+    "title": "政府資訊與出版 淡江大學智慧人文實務創新學分學程",
     "cap": 70,
     "teacher": "吳宇凡",
     "times": [
@@ -38669,7 +38649,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "檔案編排與描述",
+    "title": "檔案編排與描述 淡江大學智慧人文實務創新學分學程",
     "cap": 70,
     "teacher": "吳宇凡",
     "times": [
@@ -38689,7 +38669,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "檔案讀者服務",
+    "title": "檔案讀者服務 淡江大學智慧人文實務創新學分學程",
     "cap": 170,
     "teacher": "吳宇凡",
     "times": [
@@ -39813,7 +39793,7 @@
     "cap": "",
     "teacher": "蕭振邦",
     "times": [
-      "五 / 6,7 / L 528"
+      "五 / 6,7 / L 403"
     ]
   },
   {
@@ -39913,7 +39893,7 @@
     "cap": "",
     "teacher": "許維萍",
     "times": [
-      "四 / 3,4 / T 213"
+      "四 / 3,4 / L 528"
     ]
   },
   {
@@ -39933,7 +39913,7 @@
     "cap": "",
     "teacher": "羅雅純",
     "times": [
-      "三 / 3,4 / T 213"
+      "三 / 3,4 / L 206"
     ]
   },
   {
@@ -39973,7 +39953,7 @@
     "cap": "",
     "teacher": "黃文倩",
     "times": [
-      "二 / 3,4 / T 501"
+      "二 / 3,4 / L 528"
     ]
   },
   {
@@ -49946,26 +49926,6 @@
     "source": "TEIEM.htm",
     "dept_block": "TEIEM.資工系智應碩班 MASTER’S PROGRAM IN INTELLIGENT COMPUTING AND APPLICATION, DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
     "grade": "1",
-    "seq": "8119",
-    "code": "E0350",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "計算機網路",
-    "cap": "",
-    "teacher": "何承運",
-    "times": [
-      "一 / 2,3,4 / E 820"
-    ]
-  },
-  {
-    "source": "TEIEM.htm",
-    "dept_block": "TEIEM.資工系智應碩班 MASTER’S PROGRAM IN INTELLIGENT COMPUTING AND APPLICATION, DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
-    "grade": "1",
     "seq": "8121",
     "code": "E2212",
     "major": null,
@@ -50060,26 +50020,6 @@
     "teacher": "蔡憶佳",
     "times": [
       "二 / 6,7,8 / E 826"
-    ]
-  },
-  {
-    "source": "TEIEM.htm",
-    "dept_block": "TEIEM.資工系智應碩班 MASTER’S PROGRAM IN INTELLIGENT COMPUTING AND APPLICATION, DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
-    "grade": "1",
-    "seq": "8126",
-    "code": "E4478",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "無線網際網路",
-    "cap": "",
-    "teacher": "何承運",
-    "times": [
-      "二 / 3,4 / E 828"
     ]
   },
   {
@@ -51703,27 +51643,6 @@
     "teacher": "助教",
     "times": [
       "三 / 6 / E 201"
-    ]
-  },
-  {
-    "source": "TEIXB.htm",
-    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
-    "grade": "4",
-    "seq": "0631",
-    "code": "E2110",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "無線網路概論",
-    "cap": 175,
-    "teacher": "何承運",
-    "times": [
-      "一 / 8 / E 411",
-      "二 / 9,10 / G 315"
     ]
   },
   {
@@ -53715,7 +53634,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "基礎飛機修護實作",
+    "title": "基礎飛機修護實作 限本系生",
     "cap": 24,
     "teacher": "洪健君",
     "times": [
@@ -58164,7 +58083,7 @@
     "group": "",
     "title": "電子實驗",
     "cap": "",
-    "teacher": "林宗杰",
+    "teacher": "待聘",
     "times": [
       "一 / 11,12,13 / E 219"
     ]
@@ -58244,7 +58163,7 @@
     "group": "",
     "title": "ＦＰＧＡ系統與ＳＯＰＣ設計",
     "cap": 30,
-    "teacher": "李彥均",
+    "teacher": "待聘",
     "times": [
       "一 / 11,12,13 / E 222"
     ]
@@ -70487,7 +70406,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "二 / 6 / B 703"
+      "二 / 6 / B 117"
     ]
   },
   {
@@ -70588,7 +70507,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "三 / 1 / B 503"
+      "三 / 1 / B 508"
     ]
   },
   {
@@ -70669,6 +70588,26 @@
     "teacher": "方郁惠",
     "times": [
       "三 / 3,4 / B 130"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "3",
+    "seq": "0000",
+    "code": "M1103",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "知識管理",
+    "cap": 80,
+    "teacher": "",
+    "times": [
+      "/ /"
     ]
   },
   {
@@ -70790,7 +70729,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "一 / 9 / B 110"
+      "一 / 9 / B 912"
     ]
   },
   {
@@ -71091,7 +71030,7 @@
     "cap": 80,
     "teacher": "孔繁華",
     "times": [
-      "一 / 10 / B 110"
+      "一 / 10 / B 912"
     ]
   },
   {
@@ -71131,7 +71070,7 @@
     "cap": 80,
     "teacher": "黃天偉",
     "times": [
-      "二 / 7 / B 616"
+      "二 / 7 / B 117"
     ]
   },
   {
@@ -71191,7 +71130,7 @@
     "cap": 80,
     "teacher": "郭博文",
     "times": [
-      "三 / 2 / B 703"
+      "三 / 2 / B 508"
     ]
   },
   {
@@ -72960,7 +72899,7 @@
     "cap": 60,
     "teacher": "尤靜華",
     "times": [
-      "五 / 6,7 / B 617"
+      "五 / 6,7 / B 1012"
     ]
   },
   {
@@ -74384,9 +74323,10 @@
     "group": "",
     "title": "管理學 限本班生",
     "cap": 85,
-    "teacher": "趙慕芬",
+    "teacher": "白滌清,趙慕芬",
     "times": [
-      "一 / 2,3,4 / B 508"
+      "一 / 2 / B 508",
+      "一 / 3,4 / B 508"
     ]
   },
   {
@@ -80094,8 +80034,7 @@
     "cap": 70,
     "teacher": "游佳萍",
     "times": [
-      "一 / 3,4 / B 218",
-      "一 / 7 / B 118"
+      "一 / 2,3,4 / B 218"
     ]
   },
   {
@@ -81722,7 +81661,7 @@
     "cap": 120,
     "teacher": "吳玉鳳",
     "times": [
-      "一 / 10 / B 912",
+      "一 / 10 / B 110",
       "三 / 9,10 / B 428"
     ]
   },
@@ -82068,7 +82007,7 @@
     "teacher": "吳玉鳳",
     "times": [
       "一 / 5,6 / B 118",
-      "一 / 9 / B 912"
+      "一 / 9 / B 110"
     ]
   },
   {
@@ -88139,7 +88078,7 @@
     "cap": 40,
     "teacher": "莊程豪",
     "times": [
-      "一 / 1,2,3 /"
+      "一 / 1,2,3 / S 311"
     ]
   },
   {
@@ -92350,26 +92289,6 @@
     "teacher": "黃谷臣",
     "times": [
       "三 / 5,6,7 / CL 506"
-    ]
-  },
-  {
-    "source": "TZIAM.htm",
-    "dept_block": "TZIAM.智護所照護組 MASTER’S PROGRAM, DIVISION OF INTELLIGENT HEALTHCARE, GRADUATE INSTITUTE OF INTELLIGENT HEALTHCARE INDUSTRY",
-    "grade": "1",
-    "seq": "0000",
-    "code": "Z1063",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "大語言模型與產業應用 ◇雙語授課(中文/英文)",
-    "cap": "",
-    "teacher": "梁原霖",
-    "times": [
-      "三 / 8,9 / CL 502"
     ]
   },
   {
