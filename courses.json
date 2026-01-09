@@ -16695,7 +16695,7 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "男、女生體育－籃球興趣班 田徑場旁籃球場(B2)雨天游泳館N201 ◇全英語授課",
+    "title": "男、女生體育－籃球興趣班 田徑場旁籃球場(B2)雨天游泳館N204 ◇全英語授課",
     "cap": 60,
     "teacher": "吳承恩",
     "times": [
@@ -16795,7 +16795,7 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "男、女生體育－籃球興趣班 田徑場旁籃球場(B2)雨天游泳館N201",
+    "title": "男、女生體育－籃球興趣班 田徑場旁籃球場(B2)雨天游泳館N204",
     "cap": 60,
     "teacher": "陳香吟",
     "times": [
@@ -17615,11 +17615,11 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "男、女生體育－瑜伽興趣班 游泳館N204",
+    "title": "男、女生體育－瑜伽興趣班 游泳館N201",
     "cap": 35,
     "teacher": "郭馥滋",
     "times": [
-      "二 / 1,2 / N 204"
+      "二 / 1,2 / N 201"
     ]
   },
   {
@@ -17655,11 +17655,11 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "男、女生體育－瑜伽興趣班 游泳館N204",
+    "title": "男、女生體育－瑜伽興趣班 游泳館N201",
     "cap": 35,
     "teacher": "郭馥滋",
     "times": [
-      "三 / 3,4 / N 204"
+      "三 / 3,4 / N 201"
     ]
   },
   {
@@ -19583,7 +19583,7 @@
     "cap": 100,
     "teacher": "陳裕民",
     "times": [
-      "一 / 7,8,9 / C 010"
+      "一 / 7,8,9 /"
     ]
   },
   {
@@ -20423,7 +20423,7 @@
     "group": "",
     "title": "智慧減碳實務研討",
     "cap": 120,
-    "teacher": "待聘兼任",
+    "teacher": "范之維",
     "times": [
       "一 / 8,9 / B 504"
     ]
@@ -20968,7 +20968,7 @@
     "cap": 100,
     "teacher": "林俊叡",
     "times": [
-      "一 / 2,3,4 / B 613"
+      "一 / 2,3,4 /"
     ]
   },
   {
@@ -27032,7 +27032,7 @@
     "group": "",
     "title": "校園與社區服務學習 一年級限修本班；校外課程。 ◇全英語授課",
     "cap": "",
-    "teacher": "徐至杰",
+    "teacher": "待聘專任",
     "times": [
       "一 / 6,7 /"
     ]
@@ -33113,7 +33113,7 @@
     "group": "",
     "title": "文藝復興專題研究 ◇雙語授課(中文/英文)",
     "cap": "",
-    "teacher": "待聘兼任",
+    "teacher": "王慧娟",
     "times": [
       "二 / 7,8 / Q 408"
     ]
@@ -57705,7 +57705,7 @@
     "cap": "",
     "teacher": "待聘",
     "times": [
-      "三 / 2,3,4 / E 819"
+      "五 / 7,8,9 / E 828"
     ]
   },
   {
@@ -63969,7 +63969,7 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "校園與社區服務學習 一年級限修本班，校內課程。",
+    "title": "校園與社區服務學習 一年級限修本班。",
     "cap": "",
     "teacher": "賴淑秀",
     "times": [
@@ -70588,26 +70588,6 @@
     "teacher": "方郁惠",
     "times": [
       "三 / 3,4 / B 130"
-    ]
-  },
-  {
-    "source": "TLAXB.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "3",
-    "seq": "0000",
-    "code": "M1103",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "知識管理",
-    "cap": 80,
-    "teacher": "",
-    "times": [
-      "/ /"
     ]
   },
   {
@@ -80854,7 +80834,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "資訊實務實習（三） ◇全時全職校外實習課程",
+    "title": "資訊實務實習（三） 欲選修者，請洽資管系。 ◇全時全職校外實習課程",
     "cap": "",
     "teacher": "傅大煜",
     "times": [
@@ -80915,7 +80895,7 @@
     "credits": 3,
     "group": "",
     "title": "智慧物聯網的趨勢與應用",
-    "cap": 30,
+    "cap": "",
     "teacher": "魏家惠",
     "times": [
       "六 / 6,7,8 / D 311"
@@ -92289,6 +92269,26 @@
     "teacher": "黃谷臣",
     "times": [
       "三 / 5,6,7 / CL 506"
+    ]
+  },
+  {
+    "source": "TZIAM.htm",
+    "dept_block": "TZIAM.智護所照護組 MASTER’S PROGRAM, DIVISION OF INTELLIGENT HEALTHCARE, GRADUATE INSTITUTE OF INTELLIGENT HEALTHCARE INDUSTRY",
+    "grade": "1",
+    "seq": "0000",
+    "code": "Z1063",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "大語言模型與產業應用 ◇雙語授課(中文/英文)",
+    "cap": "",
+    "teacher": "梁原霖",
+    "times": [
+      "三 / 8,9 / CL 502"
     ]
   },
   {
