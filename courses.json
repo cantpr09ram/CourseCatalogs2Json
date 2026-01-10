@@ -3674,7 +3674,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 72,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "二 / 9 / L 104"
     ]
@@ -3834,7 +3834,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 72,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "一 / 9 / L 104"
     ]
@@ -4593,7 +4593,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。 ◇全英語授課",
-    "cap": 76,
+    "cap": 72,
     "teacher": "喬治",
     "times": [
       "五 / 8,9 / E 404"
@@ -4613,7 +4613,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
-    "cap": 76,
+    "cap": 72,
     "teacher": "助教",
     "times": [
       "三 / 10 / T 211"
@@ -5874,7 +5874,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 76,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "三 / 2 / V 201"
     ]
@@ -5954,7 +5954,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 80,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "三 / 1 / L 101"
     ]
@@ -18296,8 +18296,8 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "設計思考工具與方法 此課程為微學程課程，若115學年度計畫未通過，將停止開課。",
-    "cap": 36,
+    "title": "設計思考工具與方法",
+    "cap": "",
     "teacher": "林俊賢",
     "times": [
       "四 / 7,8 / T 307"
@@ -18456,8 +18456,8 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "Unity遊戲程式設計 此課程為微學程課程，若115學年度計畫未通過，將停止開課。",
-    "cap": 60,
+    "title": "Unity遊戲程式設計",
+    "cap": "",
     "teacher": "施建州,詹鎮邦",
     "times": [
       "四 / 7,8 / O 205",
@@ -18481,7 +18481,7 @@
     "cap": 50,
     "teacher": "甘偵蓉",
     "times": [
-      "二 / 8,9,10 / B 613"
+      "二 / 8,9,10 /"
     ]
   },
   {
@@ -18497,8 +18497,8 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "Python程式設計與應用 此課程為微學程課程，若115學年度計畫未通過，將停止開課。",
-    "cap": 35,
+    "title": "Python程式設計與應用",
+    "cap": "",
     "teacher": "游國忠,陳啓禎",
     "times": [
       "二 / 2,3 / O 205",
@@ -18522,7 +18522,7 @@
     "cap": 50,
     "teacher": "謝舒凱",
     "times": [
-      "五 / 3,4,5 / C 012"
+      "五 / 3,4,5 /"
     ]
   },
   {
@@ -18880,7 +18880,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 72,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "二 / 9 / L 104"
     ]
@@ -18960,7 +18960,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 72,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "一 / 9 / L 104"
     ]
@@ -19360,7 +19360,7 @@
     "group": "",
     "title": "資機電產業趨勢 ◇講座課程",
     "cap": 140,
-    "teacher": "",
+    "teacher": "王鈺詞",
     "times": [
       "四 / 6,7 / E 787"
     ]
@@ -19519,11 +19519,11 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "機率與統計 遠距收播【TAICA課程】，請至https://taicatw.net/spring-114/網頁查詢上課方式。 ◇遠距收播外校課程",
+    "title": "機率與統計 遠距收播【TAICA課程】，請至https://taicatw.net/spring-114/網頁查詢上課方式。週四晚另安排7次講題。 ◇遠距收播外校課程",
     "cap": 50,
     "teacher": "葉丙成",
     "times": [
-      "四 / 12,13,14 / B 512"
+      "四 / 7,8,9 /"
     ]
   },
   {
@@ -19543,7 +19543,7 @@
     "cap": 50,
     "teacher": "彭文孝,陳永昇,謝秉均",
     "times": [
-      "四 / 5,6,7 / Q 203"
+      "四 / 5,6,7 /"
     ]
   },
   {
@@ -20041,7 +20041,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 76,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "三 / 2 / V 201"
     ]
@@ -20081,7 +20081,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
     "cap": 80,
-    "teacher": "助教",
+    "teacher": "王㻑媛",
     "times": [
       "三 / 1 / L 101"
     ]
@@ -20322,8 +20322,8 @@
     "credits": 2,
     "group": "",
     "title": "ＡＩ商業管理應用",
-    "cap": 120,
-    "teacher": "待聘兼任",
+    "cap": 80,
+    "teacher": "毛筱艷",
     "times": [
       "三 / 3,4 / B 703"
     ]
@@ -20342,10 +20342,10 @@
     "credits": 2,
     "group": "",
     "title": "科技商品多元行銷與永續經營",
-    "cap": 120,
+    "cap": 175,
     "teacher": "吳耀邦",
     "times": [
-      "四 / 6,7 / B 503"
+      "四 / 5,6 / B 713"
     ]
   },
   {
@@ -20985,7 +20985,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
-    "cap": 76,
+    "cap": 72,
     "teacher": "助教",
     "times": [
       "三 / 10 / T 211"
@@ -21748,7 +21748,7 @@
     "cap": 100,
     "teacher": "莊坤達",
     "times": [
-      "三 / 7,8,9 / C 010"
+      "三 / 7,8,9 /"
     ]
   },
   {
@@ -23935,7 +23935,7 @@
     "cap": "",
     "teacher": "顏子評",
     "times": [
-      "三 / 8 / E 820"
+      "二 / 9 / E 826"
     ]
   },
   {
@@ -26749,7 +26749,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表請見英文系網頁＞最新消息＞通識外語學門公告。",
-    "cap": 76,
+    "cap": 72,
     "teacher": "助教",
     "times": [
       "三 / 10 / T 211"
@@ -35894,7 +35894,7 @@
     "cap": 175,
     "teacher": "史薇塔",
     "times": [
-      "四 / 3,4 / B 508"
+      "四 / 6,7 / G 315"
     ]
   },
   {
@@ -35914,7 +35914,7 @@
     "cap": 175,
     "teacher": "王開顏",
     "times": [
-      "四 / 8,9 / T 310"
+      "四 / 6,7 / T 401"
     ]
   },
   {
@@ -35934,7 +35934,7 @@
     "cap": 175,
     "teacher": "王開顏",
     "times": [
-      "四 / 6,7 / T 401"
+      "四 / 8,9 / L 307"
     ]
   },
   {
@@ -43806,7 +43806,7 @@
     "cap": "",
     "teacher": "沈俊毅",
     "times": [
-      "一 / 3,4 / L 203"
+      "一 / 1,2 / L 203"
     ]
   },
   {
@@ -46079,7 +46079,7 @@
     "group": "",
     "title": "機動學",
     "cap": 175,
-    "teacher": "",
+    "teacher": "顏子評",
     "times": [
       "二 / 8 / E 410",
       "四 / 8,9 / E 509"
@@ -46709,7 +46709,7 @@
     "group": "",
     "title": "光機電整合實驗（二） A2，原光機電整合組",
     "cap": "",
-    "teacher": "",
+    "teacher": "王銀添",
     "times": [
       "二 / 6,7,8 / G 306"
     ]
@@ -46749,30 +46749,9 @@
     "group": "",
     "title": "精密機械實驗（二） A2,原精密機械組",
     "cap": "",
-    "teacher": "",
-    "times": [
-      "五 / 8,9,10 / E 217"
-    ]
-  },
-  {
-    "source": "TEBXB.htm",
-    "dept_block": "TEBXB.機械系（日） DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "3",
-    "seq": "0430",
-    "code": "E3403",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "機構設計",
-    "cap": 175,
     "teacher": "顏子評",
     "times": [
-      "三 / 2,3 / E 813",
-      "三 / 9 / E 513"
+      "五 / 8,9,10 / E 217"
     ]
   },
   {
@@ -47495,7 +47474,7 @@
     "credits": 1,
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班。",
-    "cap": "",
+    "cap": 120,
     "teacher": "廖顏馥婷",
     "times": [
       "五 / 1,2 / E 309"
@@ -47515,7 +47494,7 @@
     "credits": 1,
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班。",
-    "cap": "",
+    "cap": 120,
     "teacher": "廖顏馥婷",
     "times": [
       "五 / 1,2 / E 309"
@@ -55871,7 +55850,7 @@
     "group": "",
     "title": "電路實驗 a2",
     "cap": "",
-    "teacher": "",
+    "teacher": "黃秉益",
     "times": [
       "三 / 7,8,9 / E 217"
     ]
@@ -56981,7 +56960,7 @@
     "cap": 175,
     "teacher": "助教",
     "times": [
-      "二 / 6 / E 309"
+      "二 / 6 / E 512"
     ]
   },
   {
@@ -66643,7 +66622,7 @@
     "credits": 1,
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
-    "cap": 70,
+    "cap": 120,
     "teacher": "許家豪",
     "times": [
       "五 / 1,2 / T 310"
@@ -67596,7 +67575,7 @@
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
     "cap": 120,
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "二 / 1,2 / G 315"
     ]
@@ -67616,7 +67595,7 @@
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
     "cap": 120,
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "二 / 1,2 / G 315"
     ]
@@ -81517,7 +81496,7 @@
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
     "cap": 120,
-    "teacher": "",
+    "teacher": "待聘專任",
     "times": [
       "一 / 6,7 / B 703"
     ]
@@ -81537,7 +81516,7 @@
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
     "cap": 120,
-    "teacher": "",
+    "teacher": "待聘專任",
     "times": [
       "一 / 6,7 / B 703"
     ]
@@ -84439,7 +84418,7 @@
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
     "cap": 120,
-    "teacher": "",
+    "teacher": "新聘",
     "times": [
       "五 / 8,9 / E 309"
     ]
@@ -84459,7 +84438,7 @@
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
     "cap": 120,
-    "teacher": "",
+    "teacher": "新聘",
     "times": [
       "五 / 8,9 / E 309"
     ]
@@ -84478,7 +84457,7 @@
     "credits": 2,
     "group": "",
     "title": "商用軟體應用",
-    "cap": 54,
+    "cap": "",
     "teacher": "簡佑勳",
     "times": [
       "四 / 9,10 / B 512"
@@ -85066,26 +85045,6 @@
     "teacher": "胡宗禮",
     "times": [
       "一 / 9,10 / B 502"
-    ]
-  },
-  {
-    "source": "TLTXB.htm",
-    "dept_block": "TLTXB.運管系（日） DEPARTMENT OF TRANSPORTATION MANAGEMENT",
-    "grade": "4",
-    "seq": "2482",
-    "code": "M2289",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "大數據運輸行為分析",
-    "cap": 80,
-    "teacher": "楊雲榮",
-    "times": [
-      "五 / 6,7 / B 709"
     ]
   },
   {
@@ -92275,7 +92234,7 @@
     "source": "TZIAM.htm",
     "dept_block": "TZIAM.智護所照護組 MASTER’S PROGRAM, DIVISION OF INTELLIGENT HEALTHCARE, GRADUATE INSTITUTE OF INTELLIGENT HEALTHCARE INDUSTRY",
     "grade": "1",
-    "seq": "0000",
+    "seq": "8533",
     "code": "Z1063",
     "major": null,
     "term_order": "0",
@@ -92509,6 +92468,26 @@
     "teacher": "黃谷臣",
     "times": [
       "三 / 5,6,7 / CL 506"
+    ]
+  },
+  {
+    "source": "TZIBM.htm",
+    "dept_block": "TZIBM.智護所科技組 MASTER’S PROGRAM, DIVISION OF GERONTECHNOLOGY, GRADUATE INSTITUTE OF INTELLIGENT HEALTHCARE INDUSTRY",
+    "grade": "1",
+    "seq": "8534",
+    "code": "Z1063",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "大語言模型與產業應用 ◇雙語授課(中文/英文)",
+    "cap": "",
+    "teacher": "梁原霖",
+    "times": [
+      "三 / 8,9 / CL 502"
     ]
   },
   {
