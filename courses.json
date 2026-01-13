@@ -10476,7 +10476,7 @@
     "cap": 47,
     "teacher": "楊濟鶴",
     "times": [
-      "二 / 1,2 / B 516"
+      "二 / 1,2 / L 413"
     ]
   },
   {
@@ -11679,7 +11679,7 @@
     "cap": 44,
     "teacher": "陳惇凱",
     "times": [
-      "五 / 8,9 / B 117"
+      "五 / 8,9 / E 813"
     ]
   },
   {
@@ -18296,7 +18296,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "設計思考工具與方法",
+    "title": "設計思考工具與方法 此課程為微學程課程，若115學年度計畫未通過，將停止開課。",
     "cap": 32,
     "teacher": "林俊賢",
     "times": [
@@ -18456,7 +18456,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "Unity遊戲程式設計",
+    "title": "Unity遊戲程式設計 此課程為微學程課程，若115學年度計畫未通過，將停止開課。",
     "cap": 33,
     "teacher": "施建州,詹鎮邦",
     "times": [
@@ -18497,7 +18497,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "Python程式設計與應用",
+    "title": "Python程式設計與應用 此課程為微學程課程，若115學年度計畫未通過，將停止開課。",
     "cap": 22,
     "teacher": "游國忠,陳啓禎",
     "times": [
@@ -24541,7 +24541,7 @@
     "credits": 3,
     "group": "",
     "title": "開源軟體實務 ◇全英語授課",
-    "cap": 85,
+    "cap": 120,
     "teacher": "張峯誠",
     "times": [
       "一 / 6,7 / B 113",
@@ -27032,7 +27032,7 @@
     "group": "",
     "title": "校園與社區服務學習 一年級限修本班；校外課程。 ◇全英語授課",
     "cap": "",
-    "teacher": "待聘專任",
+    "teacher": "",
     "times": [
       "一 / 6,7 /"
     ]
@@ -32167,7 +32167,7 @@
     "credits": 3,
     "group": "",
     "title": "工程數學 ◇雙語授課(中文/英文)",
-    "cap": 70,
+    "cap": 80,
     "teacher": "田豐",
     "times": [
       "三 / 7,8 / E 405",
@@ -32188,7 +32188,7 @@
     "credits": "",
     "group": "",
     "title": "工程數學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "助教",
     "times": [
       "三 / 6 / E 405"
@@ -52518,7 +52518,7 @@
     "credits": 3,
     "group": "",
     "title": "靜力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "王怡仁",
     "times": [
       "二 / 5 / E 401",
@@ -52539,7 +52539,7 @@
     "credits": 3,
     "group": "",
     "title": "靜力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "歐陽寬",
     "times": [
       "三 / 3,4 / E 413",
@@ -52560,7 +52560,7 @@
     "credits": 3,
     "group": "",
     "title": "靜力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "王怡仁",
     "times": [
       "二 / 6 / E 401",
@@ -52866,7 +52866,7 @@
     "credits": 3,
     "group": "",
     "title": "工程數學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "林仲璋",
     "times": [
       "一 / 7,8 / E 409",
@@ -52887,7 +52887,7 @@
     "credits": "",
     "group": "",
     "title": "工程數學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "助教",
     "times": [
       "一 / 6 / E 409"
@@ -52907,7 +52907,7 @@
     "credits": "",
     "group": "",
     "title": "工程數學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "助教",
     "times": [
       "三 / 6 / E 405"
@@ -52927,7 +52927,7 @@
     "credits": 3,
     "group": "",
     "title": "工程數學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "牛仰堯",
     "times": [
       "一 / 3,4 / E 308",
@@ -52948,7 +52948,7 @@
     "credits": "",
     "group": "",
     "title": "工程數學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "助教",
     "times": [
       "三 / 7 / E 307"
@@ -52968,7 +52968,7 @@
     "credits": 3,
     "group": "",
     "title": "材料力學",
-    "cap": 90,
+    "cap": 80,
     "teacher": "應宜雄",
     "times": [
       "二 / 6,7 / E 813",
@@ -52989,7 +52989,7 @@
     "credits": 3,
     "group": "",
     "title": "材料力學",
-    "cap": 90,
+    "cap": 80,
     "teacher": "應宜雄",
     "times": [
       "一 / 5 / E 305",
@@ -53010,7 +53010,7 @@
     "credits": 3,
     "group": "",
     "title": "材料力學",
-    "cap": 90,
+    "cap": 80,
     "teacher": "洪健君",
     "times": [
       "一 / 6,7 / E 414",
@@ -53110,7 +53110,7 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "流體力學實驗",
+    "title": "流體力學實驗 C1",
     "cap": 25,
     "teacher": "洪健君",
     "times": [
@@ -53130,7 +53130,7 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "流體力學實驗",
+    "title": "流體力學實驗 C2",
     "cap": 25,
     "teacher": "歐陽寬",
     "times": [
@@ -53151,7 +53151,7 @@
     "credits": 2,
     "group": "",
     "title": "電子學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "李瑤",
     "times": [
       "四 / 6,7 / E 830"
@@ -53171,7 +53171,7 @@
     "credits": 2,
     "group": "",
     "title": "電子學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "蕭富元",
     "times": [
       "一 / 3,4 / E 509"
@@ -53191,7 +53191,7 @@
     "credits": 2,
     "group": "",
     "title": "電子學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "李哲穎",
     "times": [
       "二 / 8,9 / E 312"
@@ -53211,7 +53211,7 @@
     "credits": 2,
     "group": "",
     "title": "空氣動力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "牛仰堯",
     "times": [
       "二 / 1,2 / E 412"
@@ -53231,7 +53231,7 @@
     "credits": 2,
     "group": "",
     "title": "空氣動力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "牛仰堯",
     "times": [
       "二 / 3,4 / E 412"
@@ -53251,7 +53251,7 @@
     "credits": 2,
     "group": "",
     "title": "空氣動力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "馬述聖",
     "times": [
       "四 / 3,4 / E 404"
@@ -53270,8 +53270,8 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "電子計算機工程應用 限本班生選修",
-    "cap": 70,
+    "title": "電子計算機工程應用",
+    "cap": 80,
     "teacher": "李世鳴",
     "times": [
       "三 / 8,9 / E 305"
@@ -53290,8 +53290,8 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "電子計算機工程應用 限本班生選修",
-    "cap": 70,
+    "title": "電子計算機工程應用",
+    "cap": 80,
     "teacher": "李世鳴",
     "times": [
       "二 / 8,9 / E 513"
@@ -53310,8 +53310,8 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "電子計算機工程應用 限本班生選修",
-    "cap": 70,
+    "title": "電子計算機工程應用",
+    "cap": 80,
     "teacher": "李世鳴",
     "times": [
       "四 / 8,9 / E 405"
@@ -53351,7 +53351,7 @@
     "credits": 2,
     "group": "",
     "title": "飛具結構學",
-    "cap": 160,
+    "cap": 80,
     "teacher": "張永康",
     "times": [
       "二 / 6,7 / E 508"
@@ -53371,7 +53371,7 @@
     "credits": 2,
     "group": "",
     "title": "飛具結構學",
-    "cap": 160,
+    "cap": 80,
     "teacher": "林仲璋",
     "times": [
       "二 / 6,7 / E 310"
@@ -53391,7 +53391,7 @@
     "credits": 2,
     "group": "",
     "title": "飛具結構學",
-    "cap": 160,
+    "cap": 80,
     "teacher": "張永康",
     "times": [
       "二 / 3,4 / E 508"
@@ -53490,7 +53490,7 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "航太工程實驗",
+    "title": "航太工程實驗 C1",
     "cap": 25,
     "teacher": "馬述聖",
     "times": [
@@ -53510,7 +53510,7 @@
     "required": "必",
     "credits": 1,
     "group": "",
-    "title": "航太工程實驗",
+    "title": "航太工程實驗 C2",
     "cap": 25,
     "teacher": "林仲璋",
     "times": [
@@ -53531,7 +53531,7 @@
     "credits": 3,
     "group": "",
     "title": "飛行力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "蕭富元",
     "times": [
       "三 / 1,2 / E 509",
@@ -53552,7 +53552,7 @@
     "credits": 3,
     "group": "",
     "title": "飛行力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "蕭富元",
     "times": [
       "三 / 3,4 / E 509",
@@ -53573,7 +53573,7 @@
     "credits": 3,
     "group": "",
     "title": "飛行力學",
-    "cap": 70,
+    "cap": 80,
     "teacher": "韓相宜",
     "times": [
       "二 / 8,9 / E 508",
@@ -56435,7 +56435,7 @@
     "credits": 2,
     "group": "",
     "title": "切換式電源設計",
-    "cap": 70,
+    "cap": "",
     "teacher": "待聘",
     "times": [
       "五 / 3,4 / E 311"
@@ -72188,7 +72188,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "微積分 A、B合班",
+    "title": "微積分",
     "cap": 80,
     "teacher": "周兆智",
     "times": [
@@ -72208,7 +72208,7 @@
     "required": "必",
     "credits": "",
     "group": "",
-    "title": "微積分 A、B合班",
+    "title": "微積分",
     "cap": 80,
     "teacher": "助教",
     "times": [
@@ -72228,7 +72228,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "微積分 A、B合班",
+    "title": "微積分",
     "cap": 80,
     "teacher": "楊詠智",
     "times": [
@@ -72248,7 +72248,7 @@
     "required": "必",
     "credits": "",
     "group": "",
-    "title": "微積分 A、B合班",
+    "title": "微積分",
     "cap": 80,
     "teacher": "助教",
     "times": [
@@ -72268,7 +72268,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "微積分 C班",
+    "title": "微積分",
     "cap": 80,
     "teacher": "林千代",
     "times": [
@@ -72288,7 +72288,7 @@
     "required": "必",
     "credits": "",
     "group": "",
-    "title": "微積分 C班",
+    "title": "微積分",
     "cap": 80,
     "teacher": "助教",
     "times": [
@@ -79728,7 +79728,7 @@
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 一年級限修本班",
     "cap": 60,
-    "teacher": "",
+    "teacher": "徐至杰",
     "times": [
       "一 / 1,2 / B 607"
     ]
@@ -80875,7 +80875,27 @@
     "group": "",
     "title": "智慧物聯網的趨勢與應用",
     "cap": "",
-    "teacher": "魏家惠",
+    "teacher": "",
+    "times": [
+      "六 / 6,7,8 /"
+    ]
+  },
+  {
+    "source": "TLMXJ.htm",
+    "dept_block": "TLMXJ.資管系碩專班 EXECUTIVE MASTER’S PROGRAM OF BUSINESS ADMINISTRATION (EMBA) IN INFORMATION MANAGEMENT",
+    "grade": "1",
+    "seq": "8535",
+    "code": "M2639",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "人工智慧實務應用",
+    "cap": 30,
+    "teacher": "新聘",
     "times": [
       "六 / 6,7,8 / D 311"
     ]
@@ -83155,8 +83175,8 @@
     "credits": 2,
     "group": "",
     "title": "ＡＩ與行政應用",
-    "cap": 80,
-    "teacher": "張雅婷",
+    "cap": "",
+    "teacher": "",
     "times": [
       "一 / 9,10 / B 429"
     ]
@@ -84458,7 +84478,7 @@
     "group": "",
     "title": "商用軟體應用",
     "cap": "",
-    "teacher": "簡佑勳",
+    "teacher": "",
     "times": [
       "四 / 9,10 / B 512"
     ]
